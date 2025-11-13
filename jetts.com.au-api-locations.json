@@ -85,6 +85,162 @@
       "urlPath": "/gyms/redland-bay"
     },
     {
+      "id": 15070,
+      "name": "St Leonards",
+      "metaTitle": null,
+      "metaDescription": null,
+      "allowCrawling": null,
+      "customProperties": {
+        "locDetails": {
+          "address": "205 Pacific Highway",
+          "city": "St Leonards",
+          "state": "New South Wales",
+          "postcode": "2065",
+          "phone": "0294384100",
+          "facebookUrl": "https://www.facebook.com/jettsstleonards?fref=ts",
+          "instagramUrl": "https://www.instagram.com/jettsstleonards/",
+          "lat": "-33.822985729572856",
+          "lng": "151.19378531567617",
+          "email": "stleonards@jetts.com.au",
+          "glofoxBranchId": "66cec0f037383087200f6b5d",
+          "gymsalesId": "4560"
+        },
+        "locAmenities": {
+          "locAmenities": [
+            "24/7 Access",
+            "Free Classes",
+            "Cardio and Strength Zones",
+            "Close to Public Transport",
+            "Free Wifi",
+            "Functional Training Zone",
+            "Personal Training",
+            "Free Workout of the Day (WOD)",
+            "Free Technique Masterclass",
+            "Private Bathrooms",
+            "Free Cold Filtered Water",
+            "Jetts Vending Machine",
+            "Exercise Physiologist"
+          ]
+        },
+        "locGallery": {
+          "items": [
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/1df22862-d69b-4920-84f7-d26bdccdeddd/Team-with-Grant-side.png?cx=0&cy=126.93&cw=684&ch=514.29",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 126.93,
+                "width": 684,
+                "height": 1024,
+                "altText": "people",
+                "fileName": "Team-with-Grant-side.png",
+                "mimeType": "",
+                "cropWidth": 684,
+                "cropHeight": 514.29,
+                "sizeInBytes": 647240
+              },
+              "videoUrl": "https://youtu.be/yviJhZzfhUA?si=JofBQ9Tn8BHK5SC-"
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/1dd370f9-8915-421f-a713-228d6151bb9f/IMG1743.JPG?cx=0&cy=1276.62&cw=3024&ch=2273.68",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1276.62,
+                "width": 3024,
+                "height": 4032,
+                "altText": "Free group classes at Jetts St Leonards",
+                "fileName": "IMG1743.JPG",
+                "mimeType": "",
+                "cropWidth": 3024,
+                "cropHeight": 2273.68,
+                "sizeInBytes": 2403238
+              },
+              "videoUrl": "https://www.youtube.com/shorts/a4Y8VpZg3Ck"
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/036a12d3-1e75-418b-b2f9-844cd5e3cc85/240123JETTSAUFITNESSFREEDOM1080X1350MALE.jpg?cx=0&cy=100.41&cw=1080&ch=812.03",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 100.41,
+                "width": 1080,
+                "height": 1350,
+                "altText": "Jetts St Leonards gives you the freedom of a no lock-in contract",
+                "fileName": "240123JETTSAUFITNESSFREEDOM1080X1350MALE.jpg",
+                "mimeType": "",
+                "cropWidth": 1080,
+                "cropHeight": 812.03,
+                "sizeInBytes": 371002
+              },
+              "videoUrl": "https://www.youtube.com/shorts/Z2c-BmDVPyo"
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/587ba64b-d997-45b6-b01d-196447ca61db/2020-01-SUmmer-battle-ropes-2.jpg?cx=0&cy=0&cw=1173&ch=881.95",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 0,
+                "width": 1173,
+                "height": 1280,
+                "altText": "Jetts St Leonards gives you the FREEDOM of a no lock-in contract",
+                "fileName": "2020-01-SUmmer-battle-ropes-2.jpg",
+                "mimeType": "",
+                "cropWidth": 1173,
+                "cropHeight": 881.95,
+                "sizeInBytes": 234040
+              },
+              "videoUrl": "https://www.youtube.com/shorts/Z2c-BmDVPyo"
+            }
+          ]
+        },
+        "locationType": "open"
+      },
+      "urlPath": "/gyms/st-leonards"
+    },
+    {
+      "id": 15056,
+      "name": "Point Cook",
+      "metaTitle": null,
+      "metaDescription": null,
+      "allowCrawling": null,
+      "customProperties": {
+        "locDetails": {
+          "address": "Shop 7, Building 3, Point Cook Retail Centre, Cnr Tom Roberts Drive & Boardwalk Boulevard",
+          "city": "Point Cook",
+          "state": "Victoria",
+          "postcode": "3030",
+          "phone": "03 9395 6742",
+          "facebookUrl": "https://www.facebook.com/PointCookJetts",
+          "instagramUrl": "https://www.instagram.com/jettspointcook/",
+          "lat": "-37.89375704168982",
+          "lng": "144.72796477998816",
+          "email": "pointcook@jetts.com.au",
+          "glofoxBranchId": "66ce808caca788068a0a805a",
+          "gymsalesId": "10984"
+        },
+        "locAmenities": {
+          "locAmenities": [
+            "Cardio Equipment",
+            "Change Rooms",
+            "Dedicated Stretching Area",
+            "Free Weights",
+            "Free Wifi",
+            "Functional Training Zone",
+            "Personal Training",
+            "Strength Equipment",
+            "Stretching Area",
+            "Free Parking"
+          ]
+        },
+        "locGallery": {
+          "items": []
+        },
+        "locationType": "open"
+      },
+      "urlPath": "/gyms/point-cook"
+    },
+    {
       "id": 15077,
       "name": "Varsity Lakes",
       "metaTitle": null,
@@ -442,160 +598,193 @@
       "urlPath": "/gyms/taringa"
     },
     {
-      "id": 15056,
-      "name": "Point Cook",
+      "id": 14965,
+      "name": "Aveley",
       "metaTitle": null,
       "metaDescription": null,
       "allowCrawling": null,
       "customProperties": {
         "locDetails": {
-          "address": "Shop 7, Building 3, Point Cook Retail Centre, Cnr Tom Roberts Drive & Boardwalk Boulevard",
-          "city": "Point Cook",
-          "state": "Victoria",
-          "postcode": "3030",
-          "phone": "03 9395 6742",
-          "facebookUrl": "https://www.facebook.com/PointCookJetts",
-          "instagramUrl": "https://www.instagram.com/jettspointcook/",
-          "lat": "-37.89375704168982",
-          "lng": "144.72796477998816",
-          "email": "pointcook@jetts.com.au",
-          "glofoxBranchId": "66ce808caca788068a0a805a",
-          "gymsalesId": "10984"
-        },
-        "locAmenities": {
-          "locAmenities": [
-            "Cardio Equipment",
-            "Change Rooms",
-            "Dedicated Stretching Area",
-            "Free Weights",
-            "Free Wifi",
-            "Functional Training Zone",
-            "Personal Training",
-            "Strength Equipment",
-            "Stretching Area",
-            "Free Parking"
-          ]
-        },
-        "locGallery": {
-          "items": []
-        },
-        "locationType": "open"
-      },
-      "urlPath": "/gyms/point-cook"
-    },
-    {
-      "id": 15070,
-      "name": "St Leonards",
-      "metaTitle": null,
-      "metaDescription": null,
-      "allowCrawling": null,
-      "customProperties": {
-        "locDetails": {
-          "address": "205 Pacific Highway",
-          "city": "St Leonards",
-          "state": "New South Wales",
-          "postcode": "2065",
-          "phone": "0294384100",
-          "facebookUrl": "https://www.facebook.com/jettsstleonards?fref=ts",
-          "instagramUrl": "https://www.instagram.com/jettsstleonards/",
-          "lat": "-33.822985729572856",
-          "lng": "151.19378531567617",
-          "email": "stleonards@jetts.com.au",
-          "glofoxBranchId": "66cec0f037383087200f6b5d",
-          "gymsalesId": "4560"
+          "address": "31 Egerton Drive",
+          "city": "Aveley",
+          "state": "Western Australia",
+          "postcode": "6069",
+          "phone": "0862967042",
+          "facebookUrl": "https://www.facebook.com/JettsAveley/",
+          "instagramUrl": "https://www.instagram.com/jettsaveley/",
+          "lat": "-31.792384466262707",
+          "lng": "115.98797339775815",
+          "email": "aveley@jetts.com.au",
+          "glofoxBranchId": "66ceb2ec6c77f7af44081493",
+          "gymsalesId": "4716"
         },
         "locAmenities": {
           "locAmenities": [
             "24/7 Access",
-            "Free Classes",
             "Cardio and Strength Zones",
-            "Close to Public Transport",
-            "Free Wifi",
-            "Functional Training Zone",
             "Personal Training",
-            "Free Workout of the Day (WOD)",
-            "Free Technique Masterclass",
-            "Private Bathrooms",
+            "Free Parking",
+            "Free Wifi",
+            "Free Classes",
             "Free Cold Filtered Water",
             "Jetts Vending Machine",
-            "Exercise Physiologist"
+            "Private Bathrooms",
+            "Free Technique Masterclass",
+            "Free Workout of the Day (WOD)"
           ]
         },
         "locGallery": {
           "items": [
             {
               "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/1df22862-d69b-4920-84f7-d26bdccdeddd/Team-with-Grant-side.png?cx=0&cy=126.93&cw=684&ch=514.29",
+                "url": "https://storage-prod.twotaps.io/uploads/images/885cfa73-240d-494d-9386-fe8b9f9f8524/PXL20240918052839992.PORTRAIT.jpg?",
                 "type": "Image",
-                "cropX": 0,
-                "cropY": 126.93,
-                "width": 684,
-                "height": 1024,
-                "altText": "people",
-                "fileName": "Team-with-Grant-side.png",
-                "mimeType": "",
-                "cropWidth": 684,
-                "cropHeight": 514.29,
-                "sizeInBytes": 647240
-              },
-              "videoUrl": "https://youtu.be/yviJhZzfhUA?si=JofBQ9Tn8BHK5SC-"
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/1dd370f9-8915-421f-a713-228d6151bb9f/IMG1743.JPG?cx=0&cy=1276.62&cw=3024&ch=2273.68",
-                "type": "Image",
-                "cropX": 0,
-                "cropY": 1276.62,
-                "width": 3024,
+                "width": 2268,
                 "height": 4032,
-                "altText": "Free group classes at Jetts St Leonards",
-                "fileName": "IMG1743.JPG",
+                "altText": "Rowing Machines",
+                "fileName": "PXL20240918052839992.PORTRAIT.jpg",
                 "mimeType": "",
-                "cropWidth": 3024,
-                "cropHeight": 2273.68,
-                "sizeInBytes": 2403238
+                "sizeInBytes": 4197984
               },
-              "videoUrl": "https://www.youtube.com/shorts/a4Y8VpZg3Ck"
+              "videoUrl": ""
             },
             {
               "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/036a12d3-1e75-418b-b2f9-844cd5e3cc85/240123JETTSAUFITNESSFREEDOM1080X1350MALE.jpg?cx=0&cy=100.41&cw=1080&ch=812.03",
+                "url": "https://storage-prod.twotaps.io/uploads/images/2acad3b5-23d4-49ff-8e28-a4ff100c6be1/PXL20240917071900248.PORTRAIT.jpg?",
                 "type": "Image",
-                "cropX": 0,
-                "cropY": 100.41,
-                "width": 1080,
-                "height": 1350,
-                "altText": "Jetts St Leonards gives you the freedom of a no lock-in contract",
-                "fileName": "240123JETTSAUFITNESSFREEDOM1080X1350MALE.jpg",
+                "width": 2268,
+                "height": 4032,
+                "altText": "Lifting Platform",
+                "fileName": "PXL20240917071900248.PORTRAIT.jpg",
                 "mimeType": "",
-                "cropWidth": 1080,
-                "cropHeight": 812.03,
-                "sizeInBytes": 371002
+                "sizeInBytes": 5359022
               },
-              "videoUrl": "https://www.youtube.com/shorts/Z2c-BmDVPyo"
+              "videoUrl": ""
             },
             {
               "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/587ba64b-d997-45b6-b01d-196447ca61db/2020-01-SUmmer-battle-ropes-2.jpg?cx=0&cy=0&cw=1173&ch=881.95",
+                "url": "https://storage-prod.twotaps.io/uploads/images/6c078e9f-5978-4076-885b-e1266014c09a/PXL20251022044110362.PORTRAIT.jpg?cx=0&cy=1163.37&cw=2268&ch=1705.26",
                 "type": "Image",
                 "cropX": 0,
-                "cropY": 0,
-                "width": 1173,
-                "height": 1280,
-                "altText": "Jetts St Leonards gives you the FREEDOM of a no lock-in contract",
-                "fileName": "2020-01-SUmmer-battle-ropes-2.jpg",
+                "cropY": 1163.37,
+                "width": 2268,
+                "height": 4032,
+                "altText": "Jetts Aveley Upright Bikes",
+                "fileName": "PXL20251022044110362.PORTRAIT.jpg",
                 "mimeType": "",
-                "cropWidth": 1173,
-                "cropHeight": 881.95,
-                "sizeInBytes": 234040
+                "cropWidth": 2268,
+                "cropHeight": 1705.26,
+                "sizeInBytes": 3791293
               },
-              "videoUrl": "https://www.youtube.com/shorts/Z2c-BmDVPyo"
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/7c0d9431-6e12-47a9-9164-87a0adeddb9c/PXL20251022045717279.PORTRAIT.jpg?cx=0&cy=1163.37&cw=2268&ch=1705.26",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1163.37,
+                "width": 2268,
+                "height": 4032,
+                "altText": "Jetts Aveley Leg Press",
+                "fileName": "PXL20251022045717279.PORTRAIT.jpg",
+                "mimeType": "",
+                "cropWidth": 2268,
+                "cropHeight": 1705.26,
+                "sizeInBytes": 3781086
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/d08b8da9-3eb2-45aa-b773-84438e4ac49f/PXL20251022044149304.PORTRAIT.ORIGINAL.jpg?cx=0&cy=1163.37&cw=2268&ch=1705.26",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1163.37,
+                "width": 2268,
+                "height": 4032,
+                "altText": "Jetts Aveley Cross Trainers",
+                "fileName": "PXL20251022044149304.PORTRAIT.ORIGINAL.jpg",
+                "mimeType": "",
+                "cropWidth": 2268,
+                "cropHeight": 1705.26,
+                "sizeInBytes": 1802450
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/92124986-780c-4bb8-a5a2-0f58330caaec/PXL20251022045953871.PORTRAIT.jpg?cx=0&cy=1163.37&cw=2268&ch=1705.26",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1163.37,
+                "width": 2268,
+                "height": 4032,
+                "altText": "Jetts Aveley Glute Trainer",
+                "fileName": "PXL20251022045953871.PORTRAIT.jpg",
+                "mimeType": "",
+                "cropWidth": 2268,
+                "cropHeight": 1705.26,
+                "sizeInBytes": 4446754
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/a6048fed-b4ed-43b3-83ba-69727de942b2/PXL20251022051049437.PORTRAIT.jpg?cx=0&cy=1163.37&cw=2268&ch=1705.26",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1163.37,
+                "width": 2268,
+                "height": 4032,
+                "altText": "Jetts Aveley Chest Press",
+                "fileName": "PXL20251022051049437.PORTRAIT.jpg",
+                "mimeType": "",
+                "cropWidth": 2268,
+                "cropHeight": 1705.26,
+                "sizeInBytes": 3482887
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/12a0f204-079a-4cb6-ae40-1aaec2b3e2df/PXL20251022043915950.PORTRAIT.ORIGINAL.jpg?cx=0&cy=1163.37&cw=2268&ch=1705.26",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1163.37,
+                "width": 2268,
+                "height": 4032,
+                "altText": "Jetts Aveley Treadmills",
+                "fileName": "PXL20251022043915950.PORTRAIT.ORIGINAL.jpg",
+                "mimeType": "",
+                "cropWidth": 2268,
+                "cropHeight": 1705.26,
+                "sizeInBytes": 1778706
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/786af61f-81c7-4ba5-9ea5-6749327952c2/PXL20251022044001790.PORTRAIT.ORIGINAL.jpg?cx=0&cy=1163.37&cw=2268&ch=1705.26",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1163.37,
+                "width": 2268,
+                "height": 4032,
+                "altText": "Jetts Aveley Back Doors",
+                "fileName": "PXL20251022044001790.PORTRAIT.ORIGINAL.jpg",
+                "mimeType": "",
+                "cropWidth": 2268,
+                "cropHeight": 1705.26,
+                "sizeInBytes": 1946103
+              },
+              "videoUrl": ""
             }
           ]
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/st-leonards"
+      "urlPath": "/gyms/aveley"
     },
     {
       "id": 15067,
@@ -1000,6 +1189,48 @@
       "urlPath": "/gyms/forest-lakes"
     },
     {
+      "id": 14962,
+      "name": "Ashfield",
+      "metaTitle": null,
+      "metaDescription": null,
+      "allowCrawling": null,
+      "customProperties": {
+        "locDetails": {
+          "address": "Shop 1/2A Brown Street",
+          "city": "Ashfield",
+          "state": "New South Wales",
+          "postcode": "2131",
+          "phone": "0452 042 488",
+          "facebookUrl": "https://www.facebook.com/JettsAshfield/",
+          "instagramUrl": "https://www.instagram.com/jettsashfield/?hl=en",
+          "lat": "-33.88854305032198",
+          "lng": "151.12621754029496",
+          "email": "ashfield@jetts.com.au",
+          "glofoxBranchId": "66ceb28eab24b4b723059c14",
+          "gymsalesId": "4565"
+        },
+        "locAmenities": {
+          "locAmenities": [
+            "Cardio Equipment",
+            "Change Rooms",
+            "Dedicated Stretching Area",
+            "Free Weights",
+            "Free Wifi",
+            "Functional Training Zone",
+            "Personal Training",
+            "Strength Equipment",
+            "Stretching Area",
+            "Free Parking"
+          ]
+        },
+        "locGallery": {
+          "items": []
+        },
+        "locationType": "open"
+      },
+      "urlPath": "/gyms/ashfield"
+    },
+    {
       "id": 15004,
       "name": "Geelong West",
       "metaTitle": null,
@@ -1325,6 +1556,185 @@
         "locationType": "open"
       },
       "urlPath": "/gyms/peregian"
+    },
+    {
+      "id": 14972,
+      "name": "Blackburn North",
+      "metaTitle": null,
+      "metaDescription": null,
+      "allowCrawling": null,
+      "customProperties": {
+        "locDetails": {
+          "address": "Second Floor Blackburn Square, 66-104 Springfield Road",
+          "city": "Blackburn North",
+          "state": "Victoria",
+          "postcode": "3130",
+          "phone": "0408220200",
+          "facebookUrl": "https://www.facebook.com/jettsblackburnnorth",
+          "instagramUrl": "https://www.instagram.com/jettsblackburnnorth/",
+          "lat": "-37.811446361301634",
+          "lng": "145.15210597891965",
+          "email": "blackburnnorth@jetts.com.au",
+          "glofoxBranchId": "66ce73763deb8756b80da453",
+          "gymsalesId": "9687"
+        },
+        "locAmenities": {
+          "locAmenities": [
+            "24/7 Access",
+            "Brand New Club",
+            "Cardio and Strength Zones",
+            "Functional Training Zone",
+            "Recovery Zone",
+            "Free Classes",
+            "Personal Training",
+            "Exercise Physiologist",
+            "Free Parking",
+            "Free Wifi"
+          ]
+        },
+        "locGallery": {
+          "items": [
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/b1c43087-3b0b-4513-a914-0a97d5b429ef/8-stack.jpg?cx=0&cy=981.45&cw=3024&ch=2273.68",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 981.45,
+                "width": 3024,
+                "height": 4032,
+                "altText": "8 Stack",
+                "fileName": "8-stack.jpg",
+                "mimeType": "",
+                "cropWidth": 3024,
+                "cropHeight": 2273.68,
+                "sizeInBytes": 2843548
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/1f3d82b9-7841-4711-847c-f42a59f2b678/Dumbells.jpg?cx=0&cy=1007.02&cw=3024&ch=2273.68",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1007.02,
+                "width": 3024,
+                "height": 4032,
+                "altText": "Dumbells",
+                "fileName": "Dumbells.jpg",
+                "mimeType": "",
+                "cropWidth": 3024,
+                "cropHeight": 2273.68,
+                "sizeInBytes": 2937755
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/98c35159-4803-4945-97f5-dfeed9b33910/Platforms.jpg?cx=0&cy=1450.29&cw=3024&ch=2273.68",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1450.29,
+                "width": 3024,
+                "height": 4032,
+                "altText": "Platforms",
+                "fileName": "Platforms.jpg",
+                "mimeType": "",
+                "cropWidth": 3024,
+                "cropHeight": 2273.68,
+                "sizeInBytes": 2304518
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/488415fe-c137-4210-9dc5-d45d4b49da35/Cardio.jpg?cx=0&cy=1220.13&cw=3024&ch=2273.68",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1220.13,
+                "width": 3024,
+                "height": 4032,
+                "altText": "Cardio",
+                "fileName": "Cardio.jpg",
+                "mimeType": "",
+                "cropWidth": 3024,
+                "cropHeight": 2273.68,
+                "sizeInBytes": 2584669
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/a0260063-370d-4785-af42-e1d30ee4c73a/Functional-Space.jpg?cx=0&cy=376.23&cw=3024&ch=2273.68",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 376.23,
+                "width": 3024,
+                "height": 4032,
+                "altText": "Functional",
+                "fileName": "Functional-Space.jpg",
+                "mimeType": "",
+                "cropWidth": 3024,
+                "cropHeight": 2273.68,
+                "sizeInBytes": 2367942
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/619dd373-650e-4393-8138-3cd78b49d3f1/IMG0048.jpg?cx=0&cy=1348&cw=3024&ch=2273.68",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1348,
+                "width": 3024,
+                "height": 4032,
+                "altText": "Plate loaded ",
+                "fileName": "IMG0048.jpg",
+                "mimeType": "",
+                "cropWidth": 3024,
+                "cropHeight": 2273.68,
+                "sizeInBytes": 2828946
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/bd01393a-6302-4083-a13b-3ced7d43d534/Pin-Loaded.jpg?cx=0&cy=1143.41&cw=3024&ch=2273.68",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1143.41,
+                "width": 3024,
+                "height": 4032,
+                "altText": "Pin Loaded",
+                "fileName": "Pin-Loaded.jpg",
+                "mimeType": "",
+                "cropWidth": 3024,
+                "cropHeight": 2273.68,
+                "sizeInBytes": 2568555
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/e8152acd-db57-44a9-9f14-12b7e4f08af4/Recovery-Photo-.jpg?cx=0&cy=1168.99&cw=3024&ch=2273.68",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1168.99,
+                "width": 3024,
+                "height": 4032,
+                "altText": "Recovery",
+                "fileName": "Recovery-Photo-.jpg",
+                "mimeType": "",
+                "cropWidth": 3024,
+                "cropHeight": 2273.68,
+                "sizeInBytes": 2165805
+              },
+              "videoUrl": ""
+            }
+          ]
+        },
+        "locationType": "open"
+      },
+      "urlPath": "/gyms/blackburn-north"
     },
     {
       "id": 14994,
@@ -1768,6 +2178,117 @@
         "locationType": "open"
       },
       "urlPath": "/gyms/bli-bli"
+    },
+    {
+      "id": 14997,
+      "name": "Dianella",
+      "metaTitle": null,
+      "metaDescription": null,
+      "allowCrawling": null,
+      "customProperties": {
+        "locDetails": {
+          "address": "Dianella Plaza, SP045 Dianella Plaza Cnr Grand Prom, Alexander Drive",
+          "city": "Dianella",
+          "state": "Western Australia",
+          "postcode": "6059",
+          "phone": "0892766210",
+          "facebookUrl": "https://www.facebook.com/JettsDianella?fref=ts",
+          "instagramUrl": "https://www.instagram.com/jettsdianella/",
+          "lat": "-31.89585045604998",
+          "lng": "115.87211247757337",
+          "email": "dianella@jetts.com.au",
+          "glofoxBranchId": "66ceb42e1a09917021032720",
+          "gymsalesId": "4561"
+        },
+        "locAmenities": {
+          "locAmenities": [
+            "24/7 Access",
+            "Free Technique Masterclass",
+            "Free Workout of the Day (WOD)",
+            "Exercise Physiologist",
+            "Free Wifi",
+            "Functional Training Zone",
+            "Personal Training",
+            "Strength Equipment",
+            "Stretching Area",
+            "Free Parking"
+          ]
+        },
+        "locGallery": {
+          "items": [
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/3430a7f8-b0a5-488c-9290-e904615ec6c7/IMG2367.jpeg?cx=0&cy=1022.99&cw=4284&ch=3221.05",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1022.99,
+                "width": 4284,
+                "height": 5712,
+                "altText": "DB",
+                "fileName": "IMG2367.jpeg",
+                "mimeType": "",
+                "cropWidth": 4284,
+                "cropHeight": 3221.05,
+                "sizeInBytes": 5485893
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/b40525b1-94ba-47c4-b705-9202f7f55bdc/IMG2362.jpeg?cx=0&cy=1668.18&cw=4284&ch=3221.05",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1668.18,
+                "width": 4284,
+                "height": 5712,
+                "altText": "Functional",
+                "fileName": "IMG2362.jpeg",
+                "mimeType": "",
+                "cropWidth": 4284,
+                "cropHeight": 3221.05,
+                "sizeInBytes": 5559922
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/600d48ae-7c6d-4c3a-abd0-cf1a2599815b/IMG2361.jpeg?cx=0&cy=1641.13&cw=4284&ch=3221.05",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1641.13,
+                "width": 4284,
+                "height": 5712,
+                "altText": "Cardio",
+                "fileName": "IMG2361.jpeg",
+                "mimeType": "",
+                "cropWidth": 4284,
+                "cropHeight": 3221.05,
+                "sizeInBytes": 4432987
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/cb8b0714-1060-4aa8-91e7-c9e6a364ebe9/IMG2363.jpeg?cx=0&cy=1450.56&cw=4284&ch=3221.05",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1450.56,
+                "width": 4284,
+                "height": 5712,
+                "altText": "Hip Thrust",
+                "fileName": "IMG2363.jpeg",
+                "mimeType": "",
+                "cropWidth": 4284,
+                "cropHeight": 3221.05,
+                "sizeInBytes": 6515594
+              },
+              "videoUrl": ""
+            }
+          ]
+        },
+        "locationType": "open"
+      },
+      "urlPath": "/gyms/dianella"
     },
     {
       "id": 29079,
@@ -2331,43 +2852,6 @@
       "urlPath": "/gyms/box-hill"
     },
     {
-      "id": 14963,
-      "name": "Ashmore",
-      "metaTitle": null,
-      "metaDescription": null,
-      "allowCrawling": null,
-      "customProperties": {
-        "locDetails": {
-          "address": "345-351 Southport-Nerang Road, Showroom 2, Spotlight Shopping Centre",
-          "city": "Ashmore",
-          "state": "Queensland",
-          "postcode": "4214",
-          "phone": "0755394990",
-          "facebookUrl": "https://www.facebook.com/profile.php?id=100063975702076",
-          "instagramUrl": "https://www.instagram.com/jettsashmore/",
-          "lat": "-27.977488679337707",
-          "lng": "153.37935726577354",
-          "email": "ashmore@jetts.com.au",
-          "glofoxBranchId": "66ce82ab96678fd9910a39da",
-          "gymsalesId": "4575"
-        },
-        "locAmenities": {
-          "locAmenities": [
-            "Cardio and Strength Zones",
-            "Free Wifi",
-            "Functional Training Zone",
-            "Personal Training",
-            "Free Parking"
-          ]
-        },
-        "locGallery": {
-          "items": []
-        },
-        "locationType": "open"
-      },
-      "urlPath": "/gyms/ashmore"
-    },
-    {
       "id": 14964,
       "name": "Applecross",
       "metaTitle": null,
@@ -2891,185 +3375,6 @@
       "urlPath": "/gyms/baringa"
     },
     {
-      "id": 14972,
-      "name": "Blackburn North",
-      "metaTitle": null,
-      "metaDescription": null,
-      "allowCrawling": null,
-      "customProperties": {
-        "locDetails": {
-          "address": "Second Floor Blackburn Square, 66-104 Springfield Road",
-          "city": "Blackburn North",
-          "state": "Victoria",
-          "postcode": "3130",
-          "phone": "0408220200",
-          "facebookUrl": "https://www.facebook.com/jettsblackburnnorth",
-          "instagramUrl": "https://www.instagram.com/jettsblackburnnorth/",
-          "lat": "-37.811446361301634",
-          "lng": "145.15210597891965",
-          "email": "blackburnnorth@jetts.com.au",
-          "glofoxBranchId": "66ce73763deb8756b80da453",
-          "gymsalesId": "9687"
-        },
-        "locAmenities": {
-          "locAmenities": [
-            "24/7 Access",
-            "Brand New Club",
-            "Cardio and Strength Zones",
-            "Functional Training Zone",
-            "Recovery Zone",
-            "Free Classes",
-            "Personal Training",
-            "Exercise Physiologist",
-            "Free Parking",
-            "Free Wifi"
-          ]
-        },
-        "locGallery": {
-          "items": [
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/b1c43087-3b0b-4513-a914-0a97d5b429ef/8-stack.jpg?cx=0&cy=981.45&cw=3024&ch=2273.68",
-                "type": "Image",
-                "cropX": 0,
-                "cropY": 981.45,
-                "width": 3024,
-                "height": 4032,
-                "altText": "8 Stack",
-                "fileName": "8-stack.jpg",
-                "mimeType": "",
-                "cropWidth": 3024,
-                "cropHeight": 2273.68,
-                "sizeInBytes": 2843548
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/1f3d82b9-7841-4711-847c-f42a59f2b678/Dumbells.jpg?cx=0&cy=1007.02&cw=3024&ch=2273.68",
-                "type": "Image",
-                "cropX": 0,
-                "cropY": 1007.02,
-                "width": 3024,
-                "height": 4032,
-                "altText": "Dumbells",
-                "fileName": "Dumbells.jpg",
-                "mimeType": "",
-                "cropWidth": 3024,
-                "cropHeight": 2273.68,
-                "sizeInBytes": 2937755
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/98c35159-4803-4945-97f5-dfeed9b33910/Platforms.jpg?cx=0&cy=1450.29&cw=3024&ch=2273.68",
-                "type": "Image",
-                "cropX": 0,
-                "cropY": 1450.29,
-                "width": 3024,
-                "height": 4032,
-                "altText": "Platforms",
-                "fileName": "Platforms.jpg",
-                "mimeType": "",
-                "cropWidth": 3024,
-                "cropHeight": 2273.68,
-                "sizeInBytes": 2304518
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/488415fe-c137-4210-9dc5-d45d4b49da35/Cardio.jpg?cx=0&cy=1220.13&cw=3024&ch=2273.68",
-                "type": "Image",
-                "cropX": 0,
-                "cropY": 1220.13,
-                "width": 3024,
-                "height": 4032,
-                "altText": "Cardio",
-                "fileName": "Cardio.jpg",
-                "mimeType": "",
-                "cropWidth": 3024,
-                "cropHeight": 2273.68,
-                "sizeInBytes": 2584669
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/a0260063-370d-4785-af42-e1d30ee4c73a/Functional-Space.jpg?cx=0&cy=376.23&cw=3024&ch=2273.68",
-                "type": "Image",
-                "cropX": 0,
-                "cropY": 376.23,
-                "width": 3024,
-                "height": 4032,
-                "altText": "Functional",
-                "fileName": "Functional-Space.jpg",
-                "mimeType": "",
-                "cropWidth": 3024,
-                "cropHeight": 2273.68,
-                "sizeInBytes": 2367942
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/619dd373-650e-4393-8138-3cd78b49d3f1/IMG0048.jpg?cx=0&cy=1348&cw=3024&ch=2273.68",
-                "type": "Image",
-                "cropX": 0,
-                "cropY": 1348,
-                "width": 3024,
-                "height": 4032,
-                "altText": "Plate loaded ",
-                "fileName": "IMG0048.jpg",
-                "mimeType": "",
-                "cropWidth": 3024,
-                "cropHeight": 2273.68,
-                "sizeInBytes": 2828946
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/bd01393a-6302-4083-a13b-3ced7d43d534/Pin-Loaded.jpg?cx=0&cy=1143.41&cw=3024&ch=2273.68",
-                "type": "Image",
-                "cropX": 0,
-                "cropY": 1143.41,
-                "width": 3024,
-                "height": 4032,
-                "altText": "Pin Loaded",
-                "fileName": "Pin-Loaded.jpg",
-                "mimeType": "",
-                "cropWidth": 3024,
-                "cropHeight": 2273.68,
-                "sizeInBytes": 2568555
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/e8152acd-db57-44a9-9f14-12b7e4f08af4/Recovery-Photo-.jpg?cx=0&cy=1168.99&cw=3024&ch=2273.68",
-                "type": "Image",
-                "cropX": 0,
-                "cropY": 1168.99,
-                "width": 3024,
-                "height": 4032,
-                "altText": "Recovery",
-                "fileName": "Recovery-Photo-.jpg",
-                "mimeType": "",
-                "cropWidth": 3024,
-                "cropHeight": 2273.68,
-                "sizeInBytes": 2165805
-              },
-              "videoUrl": ""
-            }
-          ]
-        },
-        "locationType": "open"
-      },
-      "urlPath": "/gyms/blackburn-north"
-    },
-    {
       "id": 14988,
       "name": "Caroline Springs",
       "metaTitle": null,
@@ -3407,6 +3712,48 @@
       "urlPath": "/gyms/hervey-bay"
     },
     {
+      "id": 15016,
+      "name": "Kawana",
+      "metaTitle": null,
+      "metaDescription": null,
+      "allowCrawling": null,
+      "customProperties": {
+        "locDetails": {
+          "address": "3/10 Capital Place",
+          "city": "Birtinya",
+          "state": "Queensland",
+          "postcode": "4575",
+          "phone": "0434472649",
+          "facebookUrl": "https://www.facebook.com/JettsFitnessKawana",
+          "instagramUrl": "https://www.instagram.com/jettskawana/",
+          "lat": "-26.736442034360582",
+          "lng": "153.12078998793191",
+          "email": "kawana@jetts.com.au",
+          "glofoxBranchId": "66cd538b9a62fa670603023e",
+          "gymsalesId": "4569"
+        },
+        "locAmenities": {
+          "locAmenities": [
+            "Cardio Equipment",
+            "Change Rooms",
+            "Dedicated Stretching Area",
+            "Free Weights",
+            "Free Wifi",
+            "Functional Training Zone",
+            "Personal Training",
+            "Strength Equipment",
+            "Stretching Area",
+            "Free Parking"
+          ]
+        },
+        "locGallery": {
+          "items": []
+        },
+        "locationType": "open"
+      },
+      "urlPath": "/gyms/kawana"
+    },
+    {
       "id": 15076,
       "name": "Grange",
       "metaTitle": null,
@@ -3628,48 +3975,6 @@
         "locationType": "open"
       },
       "urlPath": "/gyms/hawthorn"
-    },
-    {
-      "id": 15016,
-      "name": "Kawana",
-      "metaTitle": null,
-      "metaDescription": null,
-      "allowCrawling": null,
-      "customProperties": {
-        "locDetails": {
-          "address": "3/10 Capital Place",
-          "city": "Birtinya",
-          "state": "Queensland",
-          "postcode": "4575",
-          "phone": "0434472649",
-          "facebookUrl": "https://www.facebook.com/JettsFitnessKawana",
-          "instagramUrl": "https://www.instagram.com/jettskawana/",
-          "lat": "-26.736442034360582",
-          "lng": "153.12078998793191",
-          "email": "kawana@jetts.com.au",
-          "glofoxBranchId": "66cd538b9a62fa670603023e",
-          "gymsalesId": "4569"
-        },
-        "locAmenities": {
-          "locAmenities": [
-            "Cardio Equipment",
-            "Change Rooms",
-            "Dedicated Stretching Area",
-            "Free Weights",
-            "Free Wifi",
-            "Functional Training Zone",
-            "Personal Training",
-            "Strength Equipment",
-            "Stretching Area",
-            "Free Parking"
-          ]
-        },
-        "locGallery": {
-          "items": []
-        },
-        "locationType": "open"
-      },
-      "urlPath": "/gyms/kawana"
     },
     {
       "id": 15044,
@@ -4792,48 +5097,6 @@
       "urlPath": "/gyms/beerwah"
     },
     {
-      "id": 15055,
-      "name": "Pimpama",
-      "metaTitle": null,
-      "metaDescription": null,
-      "allowCrawling": null,
-      "customProperties": {
-        "locDetails": {
-          "address": "Pimpama City Shopping Centre, Tenancy 4/102 Pimpama Jacobs Well Road",
-          "city": "Pimpama",
-          "state": "Queensland",
-          "postcode": "4209",
-          "phone": "0455 751 991",
-          "facebookUrl": "https://www.facebook.com/profile.php?id=61565913677177",
-          "instagramUrl": "https://www.instagram.com/jettspimpama/",
-          "lat": "-27.81240139306514",
-          "lng": "153.29318852329433",
-          "email": "pimpama@jetts.com.au",
-          "glofoxBranchId": "66ce804a1cd1ec45830ff431",
-          "gymsalesId": "10921"
-        },
-        "locAmenities": {
-          "locAmenities": [
-            "Cardio Equipment",
-            "Change Rooms",
-            "Dedicated Stretching Area",
-            "Free Weights",
-            "Free Wifi",
-            "Functional Training Zone",
-            "Personal Training",
-            "Strength Equipment",
-            "Stretching Area",
-            "Free Parking"
-          ]
-        },
-        "locGallery": {
-          "items": []
-        },
-        "locationType": "open"
-      },
-      "urlPath": "/gyms/pimpama"
-    },
-    {
       "id": 15081,
       "name": "Worongary",
       "metaTitle": null,
@@ -4874,6 +5137,48 @@
         "locationType": "open"
       },
       "urlPath": "/gyms/worongary"
+    },
+    {
+      "id": 15055,
+      "name": "Pimpama",
+      "metaTitle": null,
+      "metaDescription": null,
+      "allowCrawling": null,
+      "customProperties": {
+        "locDetails": {
+          "address": "Pimpama City Shopping Centre, Tenancy 4/102 Pimpama Jacobs Well Road",
+          "city": "Pimpama",
+          "state": "Queensland",
+          "postcode": "4209",
+          "phone": "0455 751 991",
+          "facebookUrl": "https://www.facebook.com/profile.php?id=61565913677177",
+          "instagramUrl": "https://www.instagram.com/jettspimpama/",
+          "lat": "-27.81240139306514",
+          "lng": "153.29318852329433",
+          "email": "pimpama@jetts.com.au",
+          "glofoxBranchId": "66ce804a1cd1ec45830ff431",
+          "gymsalesId": "10921"
+        },
+        "locAmenities": {
+          "locAmenities": [
+            "Cardio Equipment",
+            "Change Rooms",
+            "Dedicated Stretching Area",
+            "Free Weights",
+            "Free Wifi",
+            "Functional Training Zone",
+            "Personal Training",
+            "Strength Equipment",
+            "Stretching Area",
+            "Free Parking"
+          ]
+        },
+        "locGallery": {
+          "items": []
+        },
+        "locationType": "open"
+      },
+      "urlPath": "/gyms/pimpama"
     },
     {
       "id": 15064,
@@ -5040,7 +5345,7 @@
           "city": "Helensvale",
           "state": "Queensland",
           "postcode": "4212",
-          "phone": "0755194180",
+          "phone": "0484916218",
           "facebookUrl": "https://www.facebook.com/jettsfitnesshelensvale",
           "instagramUrl": "https://www.instagram.com/jettshelensvale/",
           "lat": "-27.892821394545436",
@@ -5176,306 +5481,6 @@
         "locationType": "open"
       },
       "urlPath": "/gyms/coburg"
-    },
-    {
-      "id": 14997,
-      "name": "Dianella",
-      "metaTitle": null,
-      "metaDescription": null,
-      "allowCrawling": null,
-      "customProperties": {
-        "locDetails": {
-          "address": "Dianella Plaza, SP045 Dianella Plaza Cnr Grand Prom, Alexander Drive",
-          "city": "Dianella",
-          "state": "Western Australia",
-          "postcode": "6059",
-          "phone": "0892766210",
-          "facebookUrl": "https://www.facebook.com/JettsDianella?fref=ts",
-          "instagramUrl": "https://www.instagram.com/jettsdianella/",
-          "lat": "-31.89585045604998",
-          "lng": "115.87211247757337",
-          "email": "dianella@jetts.com.au",
-          "glofoxBranchId": "66ceb42e1a09917021032720",
-          "gymsalesId": "4561"
-        },
-        "locAmenities": {
-          "locAmenities": [
-            "24/7 Access",
-            "Free Technique Masterclass",
-            "Free Workout of the Day (WOD)",
-            "Exercise Physiologist",
-            "Free Wifi",
-            "Functional Training Zone",
-            "Personal Training",
-            "Strength Equipment",
-            "Stretching Area",
-            "Free Parking"
-          ]
-        },
-        "locGallery": {
-          "items": [
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/3430a7f8-b0a5-488c-9290-e904615ec6c7/IMG2367.jpeg?cx=0&cy=1022.99&cw=4284&ch=3221.05",
-                "type": "Image",
-                "cropX": 0,
-                "cropY": 1022.99,
-                "width": 4284,
-                "height": 5712,
-                "altText": "DB",
-                "fileName": "IMG2367.jpeg",
-                "mimeType": "",
-                "cropWidth": 4284,
-                "cropHeight": 3221.05,
-                "sizeInBytes": 5485893
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/b40525b1-94ba-47c4-b705-9202f7f55bdc/IMG2362.jpeg?cx=0&cy=1668.18&cw=4284&ch=3221.05",
-                "type": "Image",
-                "cropX": 0,
-                "cropY": 1668.18,
-                "width": 4284,
-                "height": 5712,
-                "altText": "Functional",
-                "fileName": "IMG2362.jpeg",
-                "mimeType": "",
-                "cropWidth": 4284,
-                "cropHeight": 3221.05,
-                "sizeInBytes": 5559922
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/600d48ae-7c6d-4c3a-abd0-cf1a2599815b/IMG2361.jpeg?cx=0&cy=1641.13&cw=4284&ch=3221.05",
-                "type": "Image",
-                "cropX": 0,
-                "cropY": 1641.13,
-                "width": 4284,
-                "height": 5712,
-                "altText": "Cardio",
-                "fileName": "IMG2361.jpeg",
-                "mimeType": "",
-                "cropWidth": 4284,
-                "cropHeight": 3221.05,
-                "sizeInBytes": 4432987
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/cb8b0714-1060-4aa8-91e7-c9e6a364ebe9/IMG2363.jpeg?cx=0&cy=1450.56&cw=4284&ch=3221.05",
-                "type": "Image",
-                "cropX": 0,
-                "cropY": 1450.56,
-                "width": 4284,
-                "height": 5712,
-                "altText": "Hip Thrust",
-                "fileName": "IMG2363.jpeg",
-                "mimeType": "",
-                "cropWidth": 4284,
-                "cropHeight": 3221.05,
-                "sizeInBytes": 6515594
-              },
-              "videoUrl": ""
-            }
-          ]
-        },
-        "locationType": "open"
-      },
-      "urlPath": "/gyms/dianella"
-    },
-    {
-      "id": 14965,
-      "name": "Aveley",
-      "metaTitle": null,
-      "metaDescription": null,
-      "allowCrawling": null,
-      "customProperties": {
-        "locDetails": {
-          "address": "31 Egerton Drive",
-          "city": "Aveley",
-          "state": "Western Australia",
-          "postcode": "6069",
-          "phone": "0862967042",
-          "facebookUrl": "https://www.facebook.com/JettsAveley/",
-          "instagramUrl": "https://www.instagram.com/jettsaveley/",
-          "lat": "-31.792384466262707",
-          "lng": "115.98797339775815",
-          "email": "aveley@jetts.com.au",
-          "glofoxBranchId": "66ceb2ec6c77f7af44081493",
-          "gymsalesId": "4716"
-        },
-        "locAmenities": {
-          "locAmenities": [
-            "24/7 Access",
-            "Cardio and Strength Zones",
-            "Personal Training",
-            "Free Parking",
-            "Free Wifi",
-            "Free Classes",
-            "Free Cold Filtered Water",
-            "Jetts Vending Machine",
-            "Private Bathrooms",
-            "Free Technique Masterclass",
-            "Free Workout of the Day (WOD)"
-          ]
-        },
-        "locGallery": {
-          "items": [
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/885cfa73-240d-494d-9386-fe8b9f9f8524/PXL20240918052839992.PORTRAIT.jpg?",
-                "type": "Image",
-                "width": 2268,
-                "height": 4032,
-                "altText": "Rowing Machines",
-                "fileName": "PXL20240918052839992.PORTRAIT.jpg",
-                "mimeType": "",
-                "sizeInBytes": 4197984
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/2acad3b5-23d4-49ff-8e28-a4ff100c6be1/PXL20240917071900248.PORTRAIT.jpg?",
-                "type": "Image",
-                "width": 2268,
-                "height": 4032,
-                "altText": "Lifting Platform",
-                "fileName": "PXL20240917071900248.PORTRAIT.jpg",
-                "mimeType": "",
-                "sizeInBytes": 5359022
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/6c078e9f-5978-4076-885b-e1266014c09a/PXL20251022044110362.PORTRAIT.jpg?cx=0&cy=1163.37&cw=2268&ch=1705.26",
-                "type": "Image",
-                "cropX": 0,
-                "cropY": 1163.37,
-                "width": 2268,
-                "height": 4032,
-                "altText": "Jetts Aveley Upright Bikes",
-                "fileName": "PXL20251022044110362.PORTRAIT.jpg",
-                "mimeType": "",
-                "cropWidth": 2268,
-                "cropHeight": 1705.26,
-                "sizeInBytes": 3791293
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/7c0d9431-6e12-47a9-9164-87a0adeddb9c/PXL20251022045717279.PORTRAIT.jpg?cx=0&cy=1163.37&cw=2268&ch=1705.26",
-                "type": "Image",
-                "cropX": 0,
-                "cropY": 1163.37,
-                "width": 2268,
-                "height": 4032,
-                "altText": "Jetts Aveley Leg Press",
-                "fileName": "PXL20251022045717279.PORTRAIT.jpg",
-                "mimeType": "",
-                "cropWidth": 2268,
-                "cropHeight": 1705.26,
-                "sizeInBytes": 3781086
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/d08b8da9-3eb2-45aa-b773-84438e4ac49f/PXL20251022044149304.PORTRAIT.ORIGINAL.jpg?cx=0&cy=1163.37&cw=2268&ch=1705.26",
-                "type": "Image",
-                "cropX": 0,
-                "cropY": 1163.37,
-                "width": 2268,
-                "height": 4032,
-                "altText": "Jetts Aveley Cross Trainers",
-                "fileName": "PXL20251022044149304.PORTRAIT.ORIGINAL.jpg",
-                "mimeType": "",
-                "cropWidth": 2268,
-                "cropHeight": 1705.26,
-                "sizeInBytes": 1802450
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/92124986-780c-4bb8-a5a2-0f58330caaec/PXL20251022045953871.PORTRAIT.jpg?cx=0&cy=1163.37&cw=2268&ch=1705.26",
-                "type": "Image",
-                "cropX": 0,
-                "cropY": 1163.37,
-                "width": 2268,
-                "height": 4032,
-                "altText": "Jetts Aveley Glute Trainer",
-                "fileName": "PXL20251022045953871.PORTRAIT.jpg",
-                "mimeType": "",
-                "cropWidth": 2268,
-                "cropHeight": 1705.26,
-                "sizeInBytes": 4446754
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/a6048fed-b4ed-43b3-83ba-69727de942b2/PXL20251022051049437.PORTRAIT.jpg?cx=0&cy=1163.37&cw=2268&ch=1705.26",
-                "type": "Image",
-                "cropX": 0,
-                "cropY": 1163.37,
-                "width": 2268,
-                "height": 4032,
-                "altText": "Jetts Aveley Chest Press",
-                "fileName": "PXL20251022051049437.PORTRAIT.jpg",
-                "mimeType": "",
-                "cropWidth": 2268,
-                "cropHeight": 1705.26,
-                "sizeInBytes": 3482887
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/12a0f204-079a-4cb6-ae40-1aaec2b3e2df/PXL20251022043915950.PORTRAIT.ORIGINAL.jpg?cx=0&cy=1163.37&cw=2268&ch=1705.26",
-                "type": "Image",
-                "cropX": 0,
-                "cropY": 1163.37,
-                "width": 2268,
-                "height": 4032,
-                "altText": "Jetts Aveley Treadmills",
-                "fileName": "PXL20251022043915950.PORTRAIT.ORIGINAL.jpg",
-                "mimeType": "",
-                "cropWidth": 2268,
-                "cropHeight": 1705.26,
-                "sizeInBytes": 1778706
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/786af61f-81c7-4ba5-9ea5-6749327952c2/PXL20251022044001790.PORTRAIT.ORIGINAL.jpg?cx=0&cy=1163.37&cw=2268&ch=1705.26",
-                "type": "Image",
-                "cropX": 0,
-                "cropY": 1163.37,
-                "width": 2268,
-                "height": 4032,
-                "altText": "Jetts Aveley Back Doors",
-                "fileName": "PXL20251022044001790.PORTRAIT.ORIGINAL.jpg",
-                "mimeType": "",
-                "cropWidth": 2268,
-                "cropHeight": 1705.26,
-                "sizeInBytes": 1946103
-              },
-              "videoUrl": ""
-            }
-          ]
-        },
-        "locationType": "open"
-      },
-      "urlPath": "/gyms/aveley"
     },
     {
       "id": 14999,
@@ -6264,7 +6269,8 @@
             "Close to Public Transport",
             "Jetts Merchandise",
             "Free Workout of the Day (WOD)",
-            "Jetts Vending Machine"
+            "Jetts Vending Machine",
+            "Reformers"
           ]
         },
         "locGallery": {
@@ -6494,6 +6500,48 @@
       "urlPath": "/gyms/burpengary"
     },
     {
+      "id": 15061,
+      "name": "Robina",
+      "metaTitle": null,
+      "metaDescription": null,
+      "allowCrawling": null,
+      "customProperties": {
+        "locDetails": {
+          "address": "Unit 5/2 Energy Circuit",
+          "city": "Robina",
+          "state": "Queensland",
+          "postcode": "4226",
+          "phone": "07 5623 3315",
+          "facebookUrl": "https://www.facebook.com/jettsrobina",
+          "instagramUrl": "https://www.instagram.com/jettsrobina/",
+          "lat": "-28.09216243607487",
+          "lng": "153.39460492110172",
+          "email": "robina@jetts.com.au",
+          "glofoxBranchId": "66ce9382020b14c1e204c246",
+          "gymsalesId": "7450"
+        },
+        "locAmenities": {
+          "locAmenities": [
+            "24/7 Access",
+            "Recovery Zone",
+            "Dedicated Stretching Area",
+            "Free Weights",
+            "Free Wifi",
+            "Functional Training Zone",
+            "Personal Training",
+            "Strength Equipment",
+            "Stretching Area",
+            "Free Parking"
+          ]
+        },
+        "locGallery": {
+          "items": []
+        },
+        "locationType": "open"
+      },
+      "urlPath": "/gyms/robina"
+    },
+    {
       "id": 15053,
       "name": "Penshurst",
       "metaTitle": null,
@@ -6536,38 +6584,35 @@
       "urlPath": "/gyms/penshurst"
     },
     {
-      "id": 15061,
-      "name": "Robina",
+      "id": 15079,
+      "name": "Wallsend",
       "metaTitle": null,
       "metaDescription": null,
       "allowCrawling": null,
       "customProperties": {
         "locDetails": {
-          "address": "Unit 5/2 Energy Circuit",
-          "city": "Robina",
-          "state": "Queensland",
-          "postcode": "4226",
-          "phone": "07 5623 3315",
-          "facebookUrl": "https://www.facebook.com/jettsrobina",
-          "instagramUrl": "https://www.instagram.com/jettsrobina/",
-          "lat": "-28.09216243607487",
-          "lng": "153.39460492110172",
-          "email": "robina@jetts.com.au",
-          "glofoxBranchId": "66ce9382020b14c1e204c246",
-          "gymsalesId": "7450"
+          "address": "Wallsend Village, 11C/24 Kokera Street",
+          "city": "Wallsend",
+          "state": "New South Wales",
+          "postcode": "2287",
+          "phone": "0423 808 583",
+          "facebookUrl": "https://www.facebook.com/jettswallsend?fref=ts",
+          "instagramUrl": "https://www.instagram.com/jettswallsend/",
+          "lat": "-32.9032410198801",
+          "lng": "151.66794112889102",
+          "email": "wallsend@jetts.com.au",
+          "glofoxBranchId": "66cebbac87cd9293e00c6ee8",
+          "gymsalesId": "10960"
         },
         "locAmenities": {
           "locAmenities": [
             "24/7 Access",
-            "Recovery Zone",
-            "Dedicated Stretching Area",
-            "Free Weights",
-            "Free Wifi",
-            "Functional Training Zone",
+            "Cardio and Strength Zones",
             "Personal Training",
-            "Strength Equipment",
-            "Stretching Area",
-            "Free Parking"
+            "Fitness Classes",
+            "Functional Training Zone",
+            "Free Technique Masterclass",
+            "Free Workout of the Day (WOD)"
           ]
         },
         "locGallery": {
@@ -6575,7 +6620,7 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/robina"
+      "urlPath": "/gyms/wallsend"
     },
     {
       "id": 15052,
@@ -6620,35 +6665,33 @@
       "urlPath": "/gyms/palm-beach"
     },
     {
-      "id": 15079,
-      "name": "Wallsend",
+      "id": 14963,
+      "name": "Ashmore",
       "metaTitle": null,
       "metaDescription": null,
       "allowCrawling": null,
       "customProperties": {
         "locDetails": {
-          "address": "Wallsend Village, 11C/24 Kokera Street",
-          "city": "Wallsend",
-          "state": "New South Wales",
-          "postcode": "2287",
-          "phone": "0423 808 583",
-          "facebookUrl": "https://www.facebook.com/jettswallsend?fref=ts",
-          "instagramUrl": "https://www.instagram.com/jettswallsend/",
-          "lat": "-32.9032410198801",
-          "lng": "151.66794112889102",
-          "email": "wallsend@jetts.com.au",
-          "glofoxBranchId": "66cebbac87cd9293e00c6ee8",
-          "gymsalesId": "10960"
+          "address": "345-351 Southport-Nerang Road, Showroom 2, Spotlight Shopping Centre",
+          "city": "Ashmore",
+          "state": "Queensland",
+          "postcode": "4214",
+          "phone": "0755394990",
+          "facebookUrl": "https://www.facebook.com/profile.php?id=100063975702076",
+          "instagramUrl": "https://www.instagram.com/jettsashmore/",
+          "lat": "-27.977488679337707",
+          "lng": "153.37935726577354",
+          "email": "ashmore@jetts.com.au",
+          "glofoxBranchId": "66ce82ab96678fd9910a39da",
+          "gymsalesId": "4575"
         },
         "locAmenities": {
           "locAmenities": [
-            "24/7 Access",
             "Cardio and Strength Zones",
-            "Personal Training",
-            "Fitness Classes",
+            "Free Wifi",
             "Functional Training Zone",
-            "Free Technique Masterclass",
-            "Free Workout of the Day (WOD)"
+            "Personal Training",
+            "Free Parking"
           ]
         },
         "locGallery": {
@@ -6656,7 +6699,302 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/wallsend"
+      "urlPath": "/gyms/ashmore"
+    },
+    {
+      "id": 14968,
+      "name": "Bassendean",
+      "metaTitle": null,
+      "metaDescription": null,
+      "allowCrawling": null,
+      "customProperties": {
+        "locDetails": {
+          "address": "Bassendean Shopping Centre, Shop 33 West Road",
+          "city": "Bassendean",
+          "state": "Western Australia",
+          "postcode": "6054",
+          "phone": "08 6278 2799",
+          "facebookUrl": "https://www.facebook.com/jettsbassendean/",
+          "instagramUrl": "https://www.instagram.com/jettsbassendean/",
+          "lat": "-31.904002605383685",
+          "lng": "115.95378658763376",
+          "email": "bassendean@jetts.com.au",
+          "glofoxBranchId": "66ceb35a37aa5fdf96037e82",
+          "gymsalesId": "4572"
+        },
+        "locAmenities": {
+          "locAmenities": [
+            "Cardio Equipment",
+            "Change Rooms",
+            "Dedicated Stretching Area",
+            "Free Weights",
+            "Free Wifi",
+            "Functional Training Zone",
+            "Personal Training",
+            "Strength Equipment",
+            "Stretching Area",
+            "Free Parking"
+          ]
+        },
+        "locGallery": {
+          "items": [
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/775fe301-8535-4e57-8c35-a95850f8c31f/IMG5857.JPG?",
+                "type": "Image",
+                "width": 1620,
+                "height": 1080,
+                "altText": "gym",
+                "fileName": "IMG5857.JPG",
+                "mimeType": "",
+                "sizeInBytes": 302357
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/4d30645a-1f54-452f-8bc9-208cf1970788/IMG5850.JPG?",
+                "type": "Image",
+                "width": 1620,
+                "height": 1080,
+                "altText": "gym",
+                "fileName": "IMG5850.JPG",
+                "mimeType": "",
+                "sizeInBytes": 454556
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/3fa601ad-66bf-48de-bd64-8c59e540d5a8/IMG5845.JPG?",
+                "type": "Image",
+                "width": 1620,
+                "height": 1080,
+                "altText": "gym",
+                "fileName": "IMG5845.JPG",
+                "mimeType": "",
+                "sizeInBytes": 310076
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/d38903d2-fd69-4fdc-bd07-4fc6a8009c4d/IMG5817.JPG?",
+                "type": "Image",
+                "width": 1080,
+                "height": 1620,
+                "altText": "gym",
+                "fileName": "IMG5817.JPG",
+                "mimeType": "",
+                "sizeInBytes": 378169
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/0b587c1f-0a6e-47c6-a19b-42736bdb85a7/IMG5830.JPG?",
+                "type": "Image",
+                "width": 1080,
+                "height": 1620,
+                "altText": "gym",
+                "fileName": "IMG5830.JPG",
+                "mimeType": "",
+                "sizeInBytes": 339985
+              },
+              "videoUrl": ""
+            }
+          ]
+        },
+        "locationType": "open"
+      },
+      "urlPath": "/gyms/bassendean"
+    },
+    {
+      "id": 14979,
+      "name": "Bundoora",
+      "metaTitle": null,
+      "metaDescription": null,
+      "allowCrawling": null,
+      "customProperties": {
+        "locDetails": {
+          "address": "Shops 1-4/584 Grimshaw Street",
+          "city": "Bundoora",
+          "state": "Victoria",
+          "postcode": "3083",
+          "phone": "0481326699",
+          "facebookUrl": "https://www.facebook.com/JettsBundoora",
+          "instagramUrl": "https://www.instagram.com/jettsbundoora/",
+          "lat": "-37.699902192064776",
+          "lng": "145.05941699421865",
+          "email": "bundoora@jetts.com.au",
+          "glofoxBranchId": "66ce7dee94814e61c404791f",
+          "gymsalesId": "4724"
+        },
+        "locAmenities": {
+          "locAmenities": [
+            "Strength Equipment",
+            "Fitness Classes",
+            "Personal Training",
+            "Change Rooms",
+            "Free Weights",
+            "Free Wifi",
+            "Private Bathrooms",
+            "Functional Training Zone",
+            "Free Parking",
+            "Close to Public Transport"
+          ]
+        },
+        "locGallery": {
+          "items": [
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/e0154f2d-32a9-4335-89a7-bc1180b60091/Untitled-design-18.png?cx=208.59&cy=0&cw=1436.4&ch=1080",
+                "type": "Image",
+                "cropX": 208.59,
+                "cropY": 0,
+                "width": 1920,
+                "height": 1080,
+                "altText": "gym floor",
+                "fileName": "Untitled-design-18.png",
+                "mimeType": "",
+                "cropWidth": 1436.4,
+                "cropHeight": 1080,
+                "sizeInBytes": 3764802
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/69dca441-b206-4e82-9fce-1dc1ac570ab7/DWC00891.jpg?cx=358.79&cy=0&cw=6068.79&ch=4563",
+                "type": "Image",
+                "cropX": 358.79,
+                "cropY": 0,
+                "width": 6851,
+                "height": 4563,
+                "altText": "treadmills",
+                "fileName": "DWC00891.jpg",
+                "mimeType": "",
+                "cropWidth": 6068.79,
+                "cropHeight": 4563,
+                "sizeInBytes": 4832433
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/cfb3a08a-bb1b-44ea-8df1-93ad02a762eb/DWC02804.jpg?cx=346.27&cy=0&cw=6055.49&ch=4553",
+                "type": "Image",
+                "cropX": 346.27,
+                "cropY": 0,
+                "width": 6834,
+                "height": 4553,
+                "altText": "stretch",
+                "fileName": "DWC02804.jpg",
+                "mimeType": "",
+                "cropWidth": 6055.49,
+                "cropHeight": 4553,
+                "sizeInBytes": 8475454
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/3eac7d3d-db28-48b3-a766-4fe1e216c5fd/Untitled-design-18.png?cx=483.6&cy=0&cw=1436.4&ch=1080",
+                "type": "Image",
+                "cropX": 483.6,
+                "cropY": 0,
+                "width": 1920,
+                "height": 1080,
+                "altText": "street view",
+                "fileName": "Untitled-design-18.png",
+                "mimeType": "",
+                "cropWidth": 1436.4,
+                "cropHeight": 1080,
+                "sizeInBytes": 2661183
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/d31a91a1-01d7-49be-b90a-336adbe2bc7e/DWC00885.jpg?cx=0&cy=281.68&cw=5758&ch=4329.32",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 281.68,
+                "width": 5758,
+                "height": 4611,
+                "altText": "machines",
+                "fileName": "DWC00885.jpg",
+                "mimeType": "",
+                "cropWidth": 5758,
+                "cropHeight": 4329.32,
+                "sizeInBytes": 4705755
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/f901cb9c-1e85-41a9-a8cd-a78add4951f4/DWC02158.jpg?cx=0&cy=60.07&cw=3719&ch=2796.24",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 60.07,
+                "width": 3719,
+                "height": 2968,
+                "altText": "free wieghts",
+                "fileName": "DWC02158.jpg",
+                "mimeType": "",
+                "cropWidth": 3719,
+                "cropHeight": 2796.24,
+                "sizeInBytes": 2924351
+              },
+              "videoUrl": ""
+            }
+          ]
+        },
+        "locationType": "open"
+      },
+      "urlPath": "/gyms/bundoora"
+    },
+    {
+      "id": 15035,
+      "name": "Mt Gambier",
+      "metaTitle": null,
+      "metaDescription": null,
+      "allowCrawling": null,
+      "customProperties": {
+        "locDetails": {
+          "address": "Shop 6, 165 Commercial Street",
+          "city": "Mt Gambier",
+          "state": "South Australia",
+          "postcode": "5290",
+          "phone": "0887232506",
+          "facebookUrl": "https://www.facebook.com/Jetts2010?fref=ts",
+          "instagramUrl": "https://www.instagram.com/jettsmtgambier/",
+          "lat": "-37.83182734256556",
+          "lng": "140.79259518635706",
+          "email": "mtgambier@jetts.com.au",
+          "glofoxBranchId": "66cec09329ef48638b02478c",
+          "gymsalesId": "4562"
+        },
+        "locAmenities": {
+          "locAmenities": [
+            "Cardio Equipment",
+            "Change Rooms",
+            "Dedicated Stretching Area",
+            "Free Weights",
+            "Free Wifi",
+            "Functional Training Zone",
+            "Personal Training",
+            "Strength Equipment",
+            "Stretching Area",
+            "Free Parking"
+          ]
+        },
+        "locGallery": {
+          "items": []
+        },
+        "locationType": "open"
+      },
+      "urlPath": "/gyms/mt-gambier"
     },
     {
       "id": 15066,
@@ -7199,48 +7537,6 @@
       "urlPath": "/gyms/northmead"
     },
     {
-      "id": 15022,
-      "name": "Lutwyche",
-      "metaTitle": null,
-      "metaDescription": null,
-      "allowCrawling": null,
-      "customProperties": {
-        "locDetails": {
-          "address": "470 Lutwyche Road",
-          "city": "Lutwyche",
-          "state": "Queensland",
-          "postcode": "4030",
-          "phone": "0420454197",
-          "facebookUrl": "https://www.facebook.com/JettsLutwyche?fref=ts",
-          "instagramUrl": "https://www.instagram.com/jettslutwyche/",
-          "lat": "-27.423765962961035",
-          "lng": "153.03335925951197",
-          "email": "lutwyche@jetts.com.au",
-          "glofoxBranchId": "66ce6da40fe205b6be046db5",
-          "gymsalesId": "4587"
-        },
-        "locAmenities": {
-          "locAmenities": [
-            "Cardio Equipment",
-            "Change Rooms",
-            "Dedicated Stretching Area",
-            "Free Weights",
-            "Free Wifi",
-            "Functional Training Zone",
-            "Personal Training",
-            "Strength Equipment",
-            "Stretching Area",
-            "Free Parking"
-          ]
-        },
-        "locGallery": {
-          "items": []
-        },
-        "locationType": "open"
-      },
-      "urlPath": "/gyms/lutwyche"
-    },
-    {
       "id": 15033,
       "name": "Mornington",
       "metaTitle": null,
@@ -7281,6 +7577,151 @@
         "locationType": "open"
       },
       "urlPath": "/gyms/mornington"
+    },
+    {
+      "id": 15022,
+      "name": "Lutwyche",
+      "metaTitle": null,
+      "metaDescription": null,
+      "allowCrawling": null,
+      "customProperties": {
+        "locDetails": {
+          "address": "470 Lutwyche Road",
+          "city": "Lutwyche",
+          "state": "Queensland",
+          "postcode": "4030",
+          "phone": "0420454197",
+          "facebookUrl": "https://www.facebook.com/JettsLutwyche?fref=ts",
+          "instagramUrl": "https://www.instagram.com/jettslutwyche/",
+          "lat": "-27.423765962961035",
+          "lng": "153.03335925951197",
+          "email": "lutwyche@jetts.com.au",
+          "glofoxBranchId": "66ce6da40fe205b6be046db5",
+          "gymsalesId": "4587"
+        },
+        "locAmenities": {
+          "locAmenities": [
+            "Cardio Equipment",
+            "Change Rooms",
+            "Dedicated Stretching Area",
+            "Free Weights",
+            "Free Wifi",
+            "Functional Training Zone",
+            "Personal Training",
+            "Strength Equipment",
+            "Stretching Area",
+            "Free Parking"
+          ]
+        },
+        "locGallery": {
+          "items": [
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/e4ff1065-518f-4422-a186-f2ee075dbf1e/IMG6595.jpeg?cx=0&cy=879.16&cw=3024&ch=2273.68",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 879.16,
+                "width": 3024,
+                "height": 4032,
+                "altText": "Strength Equipment",
+                "fileName": "IMG6595.jpeg",
+                "mimeType": "",
+                "cropWidth": 3024,
+                "cropHeight": 2273.68,
+                "sizeInBytes": 2930929
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/96ef03cb-ae21-498c-93b2-32ef2816ba4f/IMG6566.jpeg?cx=0&cy=1604.21&cw=3024&ch=2273.68",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1604.21,
+                "width": 3024,
+                "height": 4032,
+                "altText": "Strength",
+                "fileName": "IMG6566.jpeg",
+                "mimeType": "",
+                "cropWidth": 3024,
+                "cropHeight": 2273.68,
+                "sizeInBytes": 2263805
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/b5a8922e-c0bb-4d0d-aaac-50d672bb8035/IMG6568.jpeg?cx=0&cy=879.16&cw=3024&ch=2273.68",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 879.16,
+                "width": 3024,
+                "height": 4032,
+                "altText": "Strength",
+                "fileName": "IMG6568.jpeg",
+                "mimeType": "",
+                "cropWidth": 3024,
+                "cropHeight": 2273.68,
+                "sizeInBytes": 3107795
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/3fa58921-ae3e-4b01-ba64-12fd1fc861ba/IMG6591.jpeg?cx=0&cy=808.42&cw=3024&ch=2273.68",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 808.42,
+                "width": 3024,
+                "height": 4032,
+                "altText": "Cardio",
+                "fileName": "IMG6591.jpeg",
+                "mimeType": "",
+                "cropWidth": 3024,
+                "cropHeight": 2273.68,
+                "sizeInBytes": 2789356
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/66306b63-f8ec-4264-8dea-40eacad9b55c/IMG6592.jpeg?cx=0&cy=879.16&cw=3024&ch=2273.68",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 879.16,
+                "width": 3024,
+                "height": 4032,
+                "altText": "Cardio / Functional",
+                "fileName": "IMG6592.jpeg",
+                "mimeType": "",
+                "cropWidth": 3024,
+                "cropHeight": 2273.68,
+                "sizeInBytes": 3763987
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/c8c4c4f9-2d91-4d0b-968b-7f923c0ad5b8/IMG6593.jpeg?cx=0&cy=808.42&cw=3024&ch=2273.68",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 808.42,
+                "width": 3024,
+                "height": 4032,
+                "altText": "Functional ",
+                "fileName": "IMG6593.jpeg",
+                "mimeType": "",
+                "cropWidth": 3024,
+                "cropHeight": 2273.68,
+                "sizeInBytes": 2535013
+              },
+              "videoUrl": ""
+            }
+          ]
+        },
+        "locationType": "open"
+      },
+      "urlPath": "/gyms/lutwyche"
     },
     {
       "id": 15078,
@@ -8400,37 +8841,37 @@
       "urlPath": "/gyms/gympie"
     },
     {
-      "id": 15035,
-      "name": "Mt Gambier",
+      "id": 15029,
+      "name": "Miranda",
       "metaTitle": null,
       "metaDescription": null,
       "allowCrawling": null,
       "customProperties": {
         "locDetails": {
-          "address": "Shop 6, 165 Commercial Street",
-          "city": "Mt Gambier",
-          "state": "South Australia",
-          "postcode": "5290",
-          "phone": "0887232506",
-          "facebookUrl": "https://www.facebook.com/Jetts2010?fref=ts",
-          "instagramUrl": "https://www.instagram.com/jettsmtgambier/",
-          "lat": "-37.83182734256556",
-          "lng": "140.79259518635706",
-          "email": "mtgambier@jetts.com.au",
-          "glofoxBranchId": "66cec09329ef48638b02478c",
-          "gymsalesId": "4562"
+          "address": "Westfield Miranda, 3, Shop G102/600 Kingsway",
+          "city": "Miranda",
+          "state": "New South Wales",
+          "postcode": "2228",
+          "phone": "0478 068 574",
+          "facebookUrl": "https://www.facebook.com/JettsMiranda/",
+          "instagramUrl": "https://www.instagram.com/jettsmiranda/",
+          "lat": "-34.03573818927155",
+          "lng": "151.10162880787783",
+          "email": "miranda@jetts.com.au",
+          "glofoxBranchId": "66cebd298177256b170bd9d9",
+          "gymsalesId": "4459"
         },
         "locAmenities": {
           "locAmenities": [
-            "Cardio Equipment",
-            "Change Rooms",
-            "Dedicated Stretching Area",
-            "Free Weights",
+            "24/7 Access",
+            "Cardio and Strength Zones",
+            "Close to Public Transport",
+            "Private Bathrooms",
             "Free Wifi",
             "Functional Training Zone",
             "Personal Training",
-            "Strength Equipment",
-            "Stretching Area",
+            "Free Cold Filtered Water",
+            "Jetts Vending Machine",
             "Free Parking"
           ]
         },
@@ -8439,7 +8880,7 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/mt-gambier"
+      "urlPath": "/gyms/miranda"
     },
     {
       "id": 15011,
@@ -8606,48 +9047,6 @@
         "locationType": "open"
       },
       "urlPath": "/gyms/kenmore"
-    },
-    {
-      "id": 15029,
-      "name": "Miranda",
-      "metaTitle": null,
-      "metaDescription": null,
-      "allowCrawling": null,
-      "customProperties": {
-        "locDetails": {
-          "address": "Westfield Miranda, 3, Shop G102/600 Kingsway",
-          "city": "Miranda",
-          "state": "New South Wales",
-          "postcode": "2228",
-          "phone": "0478 068 574",
-          "facebookUrl": "https://www.facebook.com/JettsMiranda/",
-          "instagramUrl": "https://www.instagram.com/jettsmiranda/",
-          "lat": "-34.03573818927155",
-          "lng": "151.10162880787783",
-          "email": "miranda@jetts.com.au",
-          "glofoxBranchId": "66cebd298177256b170bd9d9",
-          "gymsalesId": "4459"
-        },
-        "locAmenities": {
-          "locAmenities": [
-            "24/7 Access",
-            "Cardio and Strength Zones",
-            "Close to Public Transport",
-            "Private Bathrooms",
-            "Free Wifi",
-            "Functional Training Zone",
-            "Personal Training",
-            "Free Cold Filtered Water",
-            "Jetts Vending Machine",
-            "Free Parking"
-          ]
-        },
-        "locGallery": {
-          "items": []
-        },
-        "locationType": "open"
-      },
-      "urlPath": "/gyms/miranda"
     },
     {
       "id": 14996,
@@ -9755,6 +10154,90 @@
       "urlPath": "/gyms/hillarys"
     },
     {
+      "id": 15037,
+      "name": "Mt Warren Park",
+      "metaTitle": null,
+      "metaDescription": null,
+      "allowCrawling": null,
+      "customProperties": {
+        "locDetails": {
+          "address": "Unit 1/44-50 Cotswold Street",
+          "city": "Mt Warren Park",
+          "state": "Queensland",
+          "postcode": "4207",
+          "phone": "0400 557 575",
+          "facebookUrl": "https://www.facebook.com/Jettsmwp",
+          "instagramUrl": "https://www.instagram.com/jettsmtwarrenpark/",
+          "lat": "-27.727770625964677",
+          "lng": "153.20947893614553",
+          "email": "mtwarrenpark@jetts.com.au",
+          "glofoxBranchId": "66ce80032f952963270153b3",
+          "gymsalesId": "4564"
+        },
+        "locAmenities": {
+          "locAmenities": [
+            "Cardio Equipment",
+            "Change Rooms",
+            "Dedicated Stretching Area",
+            "Free Weights",
+            "Free Wifi",
+            "Functional Training Zone",
+            "Personal Training",
+            "Strength Equipment",
+            "Stretching Area",
+            "Free Parking"
+          ]
+        },
+        "locGallery": {
+          "items": []
+        },
+        "locationType": "open"
+      },
+      "urlPath": "/gyms/mt-warren-park"
+    },
+    {
+      "id": 15048,
+      "name": "Ocean Grove",
+      "metaTitle": null,
+      "metaDescription": null,
+      "allowCrawling": null,
+      "customProperties": {
+        "locDetails": {
+          "address": "Kingston Village, Grubb Road",
+          "city": "Ocean Grove",
+          "state": "Victoria",
+          "postcode": "3226",
+          "phone": "0480 185 887",
+          "facebookUrl": "https://www.facebook.com/profile.php?id=100089338033963",
+          "instagramUrl": "https://www.instagram.com/jettsoceangrove/",
+          "lat": "-38.24665772555228",
+          "lng": "144.54040927750714",
+          "email": "oceangrove@jetts.com.au",
+          "glofoxBranchId": "66ce861bb089433f8c094aeb",
+          "gymsalesId": "4634"
+        },
+        "locAmenities": {
+          "locAmenities": [
+            "Cardio Equipment",
+            "Change Rooms",
+            "Dedicated Stretching Area",
+            "Free Weights",
+            "Free Wifi",
+            "Functional Training Zone",
+            "Personal Training",
+            "Strength Equipment",
+            "Stretching Area",
+            "Free Parking"
+          ]
+        },
+        "locGallery": {
+          "items": []
+        },
+        "locationType": "open"
+      },
+      "urlPath": "/gyms/ocean-grove"
+    },
+    {
       "id": 15083,
       "name": "Yokine",
       "metaTitle": null,
@@ -9936,48 +10419,6 @@
       "urlPath": "/gyms/yokine"
     },
     {
-      "id": 15048,
-      "name": "Ocean Grove",
-      "metaTitle": null,
-      "metaDescription": null,
-      "allowCrawling": null,
-      "customProperties": {
-        "locDetails": {
-          "address": "Kingston Village, Grubb Road",
-          "city": "Ocean Grove",
-          "state": "Victoria",
-          "postcode": "3226",
-          "phone": "0480 185 887",
-          "facebookUrl": "https://www.facebook.com/profile.php?id=100089338033963",
-          "instagramUrl": "https://www.instagram.com/jettsoceangrove/",
-          "lat": "-38.24665772555228",
-          "lng": "144.54040927750714",
-          "email": "oceangrove@jetts.com.au",
-          "glofoxBranchId": "66ce861bb089433f8c094aeb",
-          "gymsalesId": "4634"
-        },
-        "locAmenities": {
-          "locAmenities": [
-            "Cardio Equipment",
-            "Change Rooms",
-            "Dedicated Stretching Area",
-            "Free Weights",
-            "Free Wifi",
-            "Functional Training Zone",
-            "Personal Training",
-            "Strength Equipment",
-            "Stretching Area",
-            "Free Parking"
-          ]
-        },
-        "locGallery": {
-          "items": []
-        },
-        "locationType": "open"
-      },
-      "urlPath": "/gyms/ocean-grove"
-    },
-    {
       "id": 15051,
       "name": "Pakenham",
       "metaTitle": null,
@@ -10018,48 +10459,6 @@
         "locationType": "open"
       },
       "urlPath": "/gyms/pakenham"
-    },
-    {
-      "id": 15037,
-      "name": "Mt Warren Park",
-      "metaTitle": null,
-      "metaDescription": null,
-      "allowCrawling": null,
-      "customProperties": {
-        "locDetails": {
-          "address": "Unit 1/44-50 Cotswold Street",
-          "city": "Mt Warren Park",
-          "state": "Queensland",
-          "postcode": "4207",
-          "phone": "0400 557 575",
-          "facebookUrl": "https://www.facebook.com/Jettsmwp",
-          "instagramUrl": "https://www.instagram.com/jettsmtwarrenpark/",
-          "lat": "-27.727770625964677",
-          "lng": "153.20947893614553",
-          "email": "mtwarrenpark@jetts.com.au",
-          "glofoxBranchId": "66ce80032f952963270153b3",
-          "gymsalesId": "4564"
-        },
-        "locAmenities": {
-          "locAmenities": [
-            "Cardio Equipment",
-            "Change Rooms",
-            "Dedicated Stretching Area",
-            "Free Weights",
-            "Free Wifi",
-            "Functional Training Zone",
-            "Personal Training",
-            "Strength Equipment",
-            "Stretching Area",
-            "Free Parking"
-          ]
-        },
-        "locGallery": {
-          "items": []
-        },
-        "locationType": "open"
-      },
-      "urlPath": "/gyms/mt-warren-park"
     },
     {
       "id": 15009,
@@ -10146,6 +10545,23 @@
                 "cropWidth": 1077.3,
                 "cropHeight": 810,
                 "sizeInBytes": 170587
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/8b79f1c1-7350-4517-8f9f-fb8b831ccfa1/Grafton111.jpg?cx=0&cy=1233.39&cw=4243&ch=3190.23",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1233.39,
+                "width": 4243,
+                "height": 5657,
+                "altText": "Team Grafton",
+                "fileName": "Grafton111.jpg",
+                "mimeType": "",
+                "cropWidth": 4243,
+                "cropHeight": 3190.23,
+                "sizeInBytes": 2902523
               },
               "videoUrl": ""
             }
@@ -10290,47 +10706,6 @@
         "locationType": "open"
       },
       "urlPath": "/gyms/campsie"
-    },
-    {
-      "id": 14987,
-      "name": "Chermside West",
-      "metaTitle": null,
-      "metaDescription": null,
-      "allowCrawling": null,
-      "customProperties": {
-        "locDetails": {
-          "address": "Shop 1/748 Rode Road",
-          "city": "Chermside West",
-          "state": "Queensland",
-          "postcode": "4032",
-          "phone": "0426 178 250",
-          "facebookUrl": "https://www.facebook.com/JettsChermyWest/",
-          "instagramUrl": "https://www.instagram.com/jettschermside/",
-          "lat": "-27.39149045510444",
-          "lng": "153.01098579799566",
-          "email": "chermsidewest@jetts.com.au",
-          "glofoxBranchId": "66ce6b21c8a4c7e4970996ae",
-          "gymsalesId": "7052"
-        },
-        "locAmenities": {
-          "locAmenities": [
-            "Cardio Equipment",
-            "Change Rooms",
-            "Dedicated Stretching Area",
-            "Free Weights",
-            "Functional Training Zone",
-            "Personal Training",
-            "Strength Equipment",
-            "Stretching Area",
-            "Free Parking"
-          ]
-        },
-        "locGallery": {
-          "items": []
-        },
-        "locationType": "open"
-      },
-      "urlPath": "/gyms/chermside-west"
     },
     {
       "id": 15000,
@@ -10583,6 +10958,47 @@
       "urlPath": "/gyms/forest-glen"
     },
     {
+      "id": 14987,
+      "name": "Chermside West",
+      "metaTitle": null,
+      "metaDescription": null,
+      "allowCrawling": null,
+      "customProperties": {
+        "locDetails": {
+          "address": "Shop 1/748 Rode Road",
+          "city": "Chermside West",
+          "state": "Queensland",
+          "postcode": "4032",
+          "phone": "0426 178 250",
+          "facebookUrl": "https://www.facebook.com/JettsChermyWest/",
+          "instagramUrl": "https://www.instagram.com/jettschermside/",
+          "lat": "-27.39149045510444",
+          "lng": "153.01098579799566",
+          "email": "chermsidewest@jetts.com.au",
+          "glofoxBranchId": "66ce6b21c8a4c7e4970996ae",
+          "gymsalesId": "7052"
+        },
+        "locAmenities": {
+          "locAmenities": [
+            "Cardio Equipment",
+            "Change Rooms",
+            "Dedicated Stretching Area",
+            "Free Weights",
+            "Functional Training Zone",
+            "Personal Training",
+            "Strength Equipment",
+            "Stretching Area",
+            "Free Parking"
+          ]
+        },
+        "locGallery": {
+          "items": []
+        },
+        "locationType": "open"
+      },
+      "urlPath": "/gyms/chermside-west"
+    },
+    {
       "id": 14986,
       "name": "Canning Vale",
       "metaTitle": null,
@@ -10630,61 +11046,6 @@
         "locationType": "open"
       },
       "urlPath": "/gyms/canning-vale"
-    },
-    {
-      "id": 14975,
-      "name": "Bracken Ridge",
-      "metaTitle": null,
-      "metaDescription": null,
-      "allowCrawling": null,
-      "customProperties": {
-        "locDetails": {
-          "address": "The Tavern Shopping Centre, Shop 1A/162 Barrett Street",
-          "city": "Bracken Ridge",
-          "state": "Queensland",
-          "postcode": "4017",
-          "phone": "07 3609 2325",
-          "facebookUrl": "https://www.facebook.com/jettsbrackenridge?fref=ts",
-          "instagramUrl": "https://www.instagram.com/Jettsbrackenridge/",
-          "lat": "-27.32033869101157",
-          "lng": "153.04151707513424",
-          "email": "brackenridge@jetts.com.au",
-          "glofoxBranchId": "66cd545b1997fadd7503d905",
-          "gymsalesId": "4566"
-        },
-        "locAmenities": {
-          "locAmenities": [
-            "24/7 Access",
-            "Functional Training Zone",
-            "Cardio and Strength Zones",
-            "Personal Training",
-            "Exercise Physiologist",
-            "Free Parking",
-            "Free Wifi",
-            "Private Bathrooms",
-            "Free Workout of the Day (WOD)"
-          ]
-        },
-        "locGallery": {
-          "items": [
-            {
-              "image": {
-                "url": "",
-                "type": "Image",
-                "width": 0,
-                "height": 0,
-                "altText": "",
-                "fileName": "",
-                "mimeType": "",
-                "sizeInBytes": 0
-              },
-              "videoUrl": ""
-            }
-          ]
-        },
-        "locationType": "open"
-      },
-      "urlPath": "/gyms/bracken-ridge"
     },
     {
       "id": 15003,
@@ -10849,146 +11210,51 @@
       "urlPath": "/gyms/fortitude-valley"
     },
     {
-      "id": 14962,
-      "name": "Ashfield",
+      "id": 14975,
+      "name": "Bracken Ridge",
       "metaTitle": null,
       "metaDescription": null,
       "allowCrawling": null,
       "customProperties": {
         "locDetails": {
-          "address": "Shop 1/2A Brown Street",
-          "city": "Ashfield",
-          "state": "New South Wales",
-          "postcode": "2131",
-          "phone": "0452 042 488",
-          "facebookUrl": "https://www.facebook.com/JettsAshfield/",
-          "instagramUrl": "https://www.instagram.com/jettsashfield/?hl=en",
-          "lat": "-33.88854305032198",
-          "lng": "151.12621754029496",
-          "email": "ashfield@jetts.com.au",
-          "glofoxBranchId": "66ceb28eab24b4b723059c14",
-          "gymsalesId": "4565"
+          "address": "The Tavern Shopping Centre, Shop 1A/162 Barrett Street",
+          "city": "Bracken Ridge",
+          "state": "Queensland",
+          "postcode": "4017",
+          "phone": "07 3609 2325",
+          "facebookUrl": "https://www.facebook.com/jettsbrackenridge?fref=ts",
+          "instagramUrl": "https://www.instagram.com/Jettsbrackenridge/",
+          "lat": "-27.32033869101157",
+          "lng": "153.04151707513424",
+          "email": "brackenridge@jetts.com.au",
+          "glofoxBranchId": "66cd545b1997fadd7503d905",
+          "gymsalesId": "4566"
         },
         "locAmenities": {
           "locAmenities": [
-            "Cardio Equipment",
-            "Change Rooms",
-            "Dedicated Stretching Area",
-            "Free Weights",
-            "Free Wifi",
+            "24/7 Access",
             "Functional Training Zone",
+            "Cardio and Strength Zones",
             "Personal Training",
-            "Strength Equipment",
-            "Stretching Area",
-            "Free Parking"
-          ]
-        },
-        "locGallery": {
-          "items": []
-        },
-        "locationType": "open"
-      },
-      "urlPath": "/gyms/ashfield"
-    },
-    {
-      "id": 14968,
-      "name": "Bassendean",
-      "metaTitle": null,
-      "metaDescription": null,
-      "allowCrawling": null,
-      "customProperties": {
-        "locDetails": {
-          "address": "Bassendean Shopping Centre, Shop 33 West Road",
-          "city": "Bassendean",
-          "state": "Western Australia",
-          "postcode": "6054",
-          "phone": "08 6278 2799",
-          "facebookUrl": "https://www.facebook.com/jettsbassendean/",
-          "instagramUrl": "https://www.instagram.com/jettsbassendean/",
-          "lat": "-31.904002605383685",
-          "lng": "115.95378658763376",
-          "email": "bassendean@jetts.com.au",
-          "glofoxBranchId": "66ceb35a37aa5fdf96037e82",
-          "gymsalesId": "4572"
-        },
-        "locAmenities": {
-          "locAmenities": [
-            "Cardio Equipment",
-            "Change Rooms",
-            "Dedicated Stretching Area",
-            "Free Weights",
+            "Exercise Physiologist",
+            "Free Parking",
             "Free Wifi",
-            "Functional Training Zone",
-            "Personal Training",
-            "Strength Equipment",
-            "Stretching Area",
-            "Free Parking"
+            "Private Bathrooms",
+            "Free Workout of the Day (WOD)"
           ]
         },
         "locGallery": {
           "items": [
             {
               "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/775fe301-8535-4e57-8c35-a95850f8c31f/IMG5857.JPG?",
+                "url": "",
                 "type": "Image",
-                "width": 1620,
-                "height": 1080,
-                "altText": "gym",
-                "fileName": "IMG5857.JPG",
+                "width": 0,
+                "height": 0,
+                "altText": "",
+                "fileName": "",
                 "mimeType": "",
-                "sizeInBytes": 302357
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/4d30645a-1f54-452f-8bc9-208cf1970788/IMG5850.JPG?",
-                "type": "Image",
-                "width": 1620,
-                "height": 1080,
-                "altText": "gym",
-                "fileName": "IMG5850.JPG",
-                "mimeType": "",
-                "sizeInBytes": 454556
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/3fa601ad-66bf-48de-bd64-8c59e540d5a8/IMG5845.JPG?",
-                "type": "Image",
-                "width": 1620,
-                "height": 1080,
-                "altText": "gym",
-                "fileName": "IMG5845.JPG",
-                "mimeType": "",
-                "sizeInBytes": 310076
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/d38903d2-fd69-4fdc-bd07-4fc6a8009c4d/IMG5817.JPG?",
-                "type": "Image",
-                "width": 1080,
-                "height": 1620,
-                "altText": "gym",
-                "fileName": "IMG5817.JPG",
-                "mimeType": "",
-                "sizeInBytes": 378169
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/0b587c1f-0a6e-47c6-a19b-42736bdb85a7/IMG5830.JPG?",
-                "type": "Image",
-                "width": 1080,
-                "height": 1620,
-                "altText": "gym",
-                "fileName": "IMG5830.JPG",
-                "mimeType": "",
-                "sizeInBytes": 339985
+                "sizeInBytes": 0
               },
               "videoUrl": ""
             }
@@ -10996,7 +11262,7 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/bassendean"
+      "urlPath": "/gyms/bracken-ridge"
     },
     {
       "id": 14973,
@@ -11166,193 +11432,6 @@
       "urlPath": "/gyms/beechboro"
     },
     {
-      "id": 14979,
-      "name": "Bundoora",
-      "metaTitle": null,
-      "metaDescription": null,
-      "allowCrawling": null,
-      "customProperties": {
-        "locDetails": {
-          "address": "Shops 1-4/584 Grimshaw Street",
-          "city": "Bundoora",
-          "state": "Victoria",
-          "postcode": "3083",
-          "phone": "0481326699",
-          "facebookUrl": "https://www.facebook.com/JettsBundoora",
-          "instagramUrl": "https://www.instagram.com/jettsbundoora/",
-          "lat": "-37.699902192064776",
-          "lng": "145.05941699421865",
-          "email": "bundoora@jetts.com.au",
-          "glofoxBranchId": "66ce7dee94814e61c404791f",
-          "gymsalesId": "4724"
-        },
-        "locAmenities": {
-          "locAmenities": [
-            "Strength Equipment",
-            "Fitness Classes",
-            "Personal Training",
-            "Change Rooms",
-            "Free Weights",
-            "Free Wifi",
-            "Private Bathrooms",
-            "Functional Training Zone",
-            "Free Parking",
-            "Close to Public Transport"
-          ]
-        },
-        "locGallery": {
-          "items": [
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/e0154f2d-32a9-4335-89a7-bc1180b60091/Untitled-design-18.png?cx=208.59&cy=0&cw=1436.4&ch=1080",
-                "type": "Image",
-                "cropX": 208.59,
-                "cropY": 0,
-                "width": 1920,
-                "height": 1080,
-                "altText": "gym floor",
-                "fileName": "Untitled-design-18.png",
-                "mimeType": "",
-                "cropWidth": 1436.4,
-                "cropHeight": 1080,
-                "sizeInBytes": 3764802
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/69dca441-b206-4e82-9fce-1dc1ac570ab7/DWC00891.jpg?cx=358.79&cy=0&cw=6068.79&ch=4563",
-                "type": "Image",
-                "cropX": 358.79,
-                "cropY": 0,
-                "width": 6851,
-                "height": 4563,
-                "altText": "treadmills",
-                "fileName": "DWC00891.jpg",
-                "mimeType": "",
-                "cropWidth": 6068.79,
-                "cropHeight": 4563,
-                "sizeInBytes": 4832433
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/cfb3a08a-bb1b-44ea-8df1-93ad02a762eb/DWC02804.jpg?cx=346.27&cy=0&cw=6055.49&ch=4553",
-                "type": "Image",
-                "cropX": 346.27,
-                "cropY": 0,
-                "width": 6834,
-                "height": 4553,
-                "altText": "stretch",
-                "fileName": "DWC02804.jpg",
-                "mimeType": "",
-                "cropWidth": 6055.49,
-                "cropHeight": 4553,
-                "sizeInBytes": 8475454
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/3eac7d3d-db28-48b3-a766-4fe1e216c5fd/Untitled-design-18.png?cx=483.6&cy=0&cw=1436.4&ch=1080",
-                "type": "Image",
-                "cropX": 483.6,
-                "cropY": 0,
-                "width": 1920,
-                "height": 1080,
-                "altText": "street view",
-                "fileName": "Untitled-design-18.png",
-                "mimeType": "",
-                "cropWidth": 1436.4,
-                "cropHeight": 1080,
-                "sizeInBytes": 2661183
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/d31a91a1-01d7-49be-b90a-336adbe2bc7e/DWC00885.jpg?cx=0&cy=281.68&cw=5758&ch=4329.32",
-                "type": "Image",
-                "cropX": 0,
-                "cropY": 281.68,
-                "width": 5758,
-                "height": 4611,
-                "altText": "machines",
-                "fileName": "DWC00885.jpg",
-                "mimeType": "",
-                "cropWidth": 5758,
-                "cropHeight": 4329.32,
-                "sizeInBytes": 4705755
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/f901cb9c-1e85-41a9-a8cd-a78add4951f4/DWC02158.jpg?cx=0&cy=60.07&cw=3719&ch=2796.24",
-                "type": "Image",
-                "cropX": 0,
-                "cropY": 60.07,
-                "width": 3719,
-                "height": 2968,
-                "altText": "free wieghts",
-                "fileName": "DWC02158.jpg",
-                "mimeType": "",
-                "cropWidth": 3719,
-                "cropHeight": 2796.24,
-                "sizeInBytes": 2924351
-              },
-              "videoUrl": ""
-            }
-          ]
-        },
-        "locationType": "open"
-      },
-      "urlPath": "/gyms/bundoora"
-    },
-    {
-      "id": 15027,
-      "name": "Mermaid Beach",
-      "metaTitle": null,
-      "metaDescription": null,
-      "allowCrawling": null,
-      "customProperties": {
-        "locDetails": {
-          "address": "Pacific Square Shopping Centre, Shop 22/2532 Gold Coast Highway",
-          "city": "Mermaid Beach",
-          "state": "Queensland",
-          "postcode": "4218",
-          "phone": "07 5623 3316",
-          "facebookUrl": "https://www.facebook.com/jetts.mermaidbeach/",
-          "instagramUrl": "https://www.instagram.com/jettsmermaidbeach/",
-          "lat": "-28.040938503263323",
-          "lng": "153.43296082609382",
-          "email": "mermaidbeach@jetts.com.au",
-          "glofoxBranchId": "66ce850e24e9d25edc0f4970",
-          "gymsalesId": "10942"
-        },
-        "locAmenities": {
-          "locAmenities": [
-            "Cardio Equipment",
-            "Change Rooms",
-            "Dedicated Stretching Area",
-            "Free Weights",
-            "Free Wifi",
-            "Functional Training Zone",
-            "Personal Training",
-            "Strength Equipment",
-            "Stretching Area",
-            "Free Parking"
-          ]
-        },
-        "locGallery": {
-          "items": []
-        },
-        "locationType": "open"
-      },
-      "urlPath": "/gyms/mermaid-beach"
-    },
-    {
       "id": 15050,
       "name": "Pacific Pines",
       "metaTitle": null,
@@ -11502,6 +11581,48 @@
         "locationType": "open"
       },
       "urlPath": "/gyms/lynbrook"
+    },
+    {
+      "id": 15027,
+      "name": "Mermaid Beach",
+      "metaTitle": null,
+      "metaDescription": null,
+      "allowCrawling": null,
+      "customProperties": {
+        "locDetails": {
+          "address": "Pacific Square Shopping Centre, Shop 22/2532 Gold Coast Highway",
+          "city": "Mermaid Beach",
+          "state": "Queensland",
+          "postcode": "4218",
+          "phone": "07 5623 3316",
+          "facebookUrl": "https://www.facebook.com/jetts.mermaidbeach/",
+          "instagramUrl": "https://www.instagram.com/jettsmermaidbeach/",
+          "lat": "-28.040938503263323",
+          "lng": "153.43296082609382",
+          "email": "mermaidbeach@jetts.com.au",
+          "glofoxBranchId": "66ce850e24e9d25edc0f4970",
+          "gymsalesId": "10942"
+        },
+        "locAmenities": {
+          "locAmenities": [
+            "Cardio Equipment",
+            "Change Rooms",
+            "Dedicated Stretching Area",
+            "Free Weights",
+            "Free Wifi",
+            "Functional Training Zone",
+            "Personal Training",
+            "Strength Equipment",
+            "Stretching Area",
+            "Free Parking"
+          ]
+        },
+        "locGallery": {
+          "items": []
+        },
+        "locationType": "open"
+      },
+      "urlPath": "/gyms/mermaid-beach"
     },
     {
       "id": 15021,
@@ -12003,60 +12124,21 @@
                 "sizeInBytes": 5094471
               },
               "videoUrl": ""
-            }
-          ]
-        },
-        "locationType": "open"
-      },
-      "urlPath": "/gyms/nowra"
-    },
-    {
-      "id": 29441,
-      "name": "Northam",
-      "metaTitle": null,
-      "metaDescription": null,
-      "allowCrawling": null,
-      "customProperties": {
-        "locDetails": {
-          "address": "380 Fitzgerald Street",
-          "city": "Northam",
-          "state": "Western Australia",
-          "postcode": "6401",
-          "phone": "",
-          "facebookUrl": "",
-          "instagramUrl": "",
-          "lat": "-31.65944350223172",
-          "lng": "116.66518987412658",
-          "email": "northam@jetts.com.au",
-          "glofoxBranchId": "67b679f022992f51b00d0304",
-          "gymsalesId": "11122"
-        },
-        "locAmenities": {
-          "locAmenities": [
-            "24/7 Access",
-            "Functional Training Zone",
-            "Cardio and Strength Zones",
-            "Personal Training",
-            "Free Parking",
-            "Free Cold Filtered Water",
-            "Private Bathrooms",
-            "Brand New Club",
-            "Free Technique Masterclass",
-            "Free Workout of the Day (WOD)"
-          ]
-        },
-        "locGallery": {
-          "items": [
+            },
             {
               "image": {
-                "url": "",
+                "url": "https://storage-prod.twotaps.io/uploads/images/20d70163-4303-419e-a6c5-4b9dc0454d07/10.png?cx=0&cy=133.98&cw=1080&ch=812.03",
                 "type": "Image",
-                "width": 0,
-                "height": 0,
+                "cropX": 0,
+                "cropY": 133.98,
+                "width": 1080,
+                "height": 1080,
                 "altText": "",
-                "fileName": "",
+                "fileName": "10.png",
                 "mimeType": "",
-                "sizeInBytes": 0
+                "cropWidth": 1080,
+                "cropHeight": 812.03,
+                "sizeInBytes": 984374
               },
               "videoUrl": ""
             }
@@ -12064,7 +12146,7 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/northam"
+      "urlPath": "/gyms/nowra"
     },
     {
       "id": 29145,
@@ -12216,6 +12298,62 @@
         "locationType": "open"
       },
       "urlPath": "/gyms/nerang"
+    },
+    {
+      "id": 29441,
+      "name": "Northam",
+      "metaTitle": null,
+      "metaDescription": null,
+      "allowCrawling": null,
+      "customProperties": {
+        "locDetails": {
+          "address": "380 Fitzgerald Street",
+          "city": "Northam",
+          "state": "Western Australia",
+          "postcode": "6401",
+          "phone": "",
+          "facebookUrl": "",
+          "instagramUrl": "",
+          "lat": "-31.65944350223172",
+          "lng": "116.66518987412658",
+          "email": "northam@jetts.com.au",
+          "glofoxBranchId": "67b679f022992f51b00d0304",
+          "gymsalesId": "11122"
+        },
+        "locAmenities": {
+          "locAmenities": [
+            "24/7 Access",
+            "Functional Training Zone",
+            "Cardio and Strength Zones",
+            "Personal Training",
+            "Free Parking",
+            "Free Cold Filtered Water",
+            "Private Bathrooms",
+            "Brand New Club",
+            "Free Technique Masterclass",
+            "Free Workout of the Day (WOD)"
+          ]
+        },
+        "locGallery": {
+          "items": [
+            {
+              "image": {
+                "url": "",
+                "type": "Image",
+                "width": 0,
+                "height": 0,
+                "altText": "",
+                "fileName": "",
+                "mimeType": "",
+                "sizeInBytes": 0
+              },
+              "videoUrl": ""
+            }
+          ]
+        },
+        "locationType": "open"
+      },
+      "urlPath": "/gyms/northam"
     },
     {
       "id": 15005,
