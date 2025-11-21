@@ -8841,48 +8841,6 @@
       "urlPath": "/gyms/harrisdale"
     },
     {
-      "id": 15039,
-      "name": "Murrumba Downs",
-      "metaTitle": null,
-      "metaDescription": null,
-      "allowCrawling": null,
-      "customProperties": {
-        "locDetails": {
-          "address": "Murrumba Downs Shopping Centre, Shop 18/2 Goodrich Road W",
-          "city": "Murrumba Downs",
-          "state": "Queensland",
-          "postcode": "4503",
-          "phone": "07 2000 8072",
-          "facebookUrl": "https://www.facebook.com/JettsMurrumbaDowns4503",
-          "instagramUrl": "https://www.instagram.com/jettsmurrumbadowns/",
-          "lat": "-27.2715318686984",
-          "lng": "153.01731809783",
-          "email": "murrumbadowns@jetts.com.au",
-          "glofoxBranchId": "66cd553c10e2fb16c6023168",
-          "gymsalesId": "4725"
-        },
-        "locAmenities": {
-          "locAmenities": [
-            "24/7 Access",
-            "Cardio and Strength Zones",
-            "Exercise Physiologist",
-            "Personal Training",
-            "Free Classes",
-            "Free Workout of the Day (WOD)",
-            "Free Wifi",
-            "Functional Training Zone",
-            "Newly Refurbished",
-            "Free Parking"
-          ]
-        },
-        "locGallery": {
-          "items": []
-        },
-        "locationType": "open"
-      },
-      "urlPath": "/gyms/murrumba-downs"
-    },
-    {
       "id": 15008,
       "name": "Gympie",
       "metaTitle": null,
@@ -8923,6 +8881,48 @@
         "locationType": "open"
       },
       "urlPath": "/gyms/gympie"
+    },
+    {
+      "id": 15039,
+      "name": "Murrumba Downs",
+      "metaTitle": null,
+      "metaDescription": null,
+      "allowCrawling": null,
+      "customProperties": {
+        "locDetails": {
+          "address": "Murrumba Downs Shopping Centre, Shop 18/2 Goodrich Road W",
+          "city": "Murrumba Downs",
+          "state": "Queensland",
+          "postcode": "4503",
+          "phone": "07 2000 8072",
+          "facebookUrl": "https://www.facebook.com/JettsMurrumbaDowns4503",
+          "instagramUrl": "https://www.instagram.com/jettsmurrumbadowns/",
+          "lat": "-27.2715318686984",
+          "lng": "153.01731809783",
+          "email": "murrumbadowns@jetts.com.au",
+          "glofoxBranchId": "66cd553c10e2fb16c6023168",
+          "gymsalesId": "4725"
+        },
+        "locAmenities": {
+          "locAmenities": [
+            "24/7 Access",
+            "Cardio and Strength Zones",
+            "Exercise Physiologist",
+            "Personal Training",
+            "Free Classes",
+            "Free Workout of the Day (WOD)",
+            "Free Wifi",
+            "Functional Training Zone",
+            "Newly Refurbished",
+            "Free Parking"
+          ]
+        },
+        "locGallery": {
+          "items": []
+        },
+        "locationType": "open"
+      },
+      "urlPath": "/gyms/murrumba-downs"
     },
     {
       "id": 15011,
