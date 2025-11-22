@@ -8841,48 +8841,6 @@
       "urlPath": "/gyms/harrisdale"
     },
     {
-      "id": 15008,
-      "name": "Gympie",
-      "metaTitle": null,
-      "metaDescription": null,
-      "allowCrawling": null,
-      "customProperties": {
-        "locDetails": {
-          "address": "6-8 Perserverance Street",
-          "city": "Gympie",
-          "state": "Queensland",
-          "postcode": "4570",
-          "phone": "0754836645",
-          "facebookUrl": "https://www.facebook.com/jettsgympie/?fref=ts",
-          "instagramUrl": "https://www.instagram.com/jettsgympie/",
-          "lat": "-26.197808825692498",
-          "lng": "152.66728220178342",
-          "email": "gympie@jetts.com.au",
-          "glofoxBranchId": "66c2b81dd0b70761110529a3",
-          "gymsalesId": "10830"
-        },
-        "locAmenities": {
-          "locAmenities": [
-            "Cardio Equipment",
-            "Change Rooms",
-            "Dedicated Stretching Area",
-            "Free Weights",
-            "Free Wifi",
-            "Functional Training Zone",
-            "Personal Training",
-            "Strength Equipment",
-            "Stretching Area",
-            "Free Parking"
-          ]
-        },
-        "locGallery": {
-          "items": []
-        },
-        "locationType": "open"
-      },
-      "urlPath": "/gyms/gympie"
-    },
-    {
       "id": 15039,
       "name": "Murrumba Downs",
       "metaTitle": null,
@@ -8923,6 +8881,48 @@
         "locationType": "open"
       },
       "urlPath": "/gyms/murrumba-downs"
+    },
+    {
+      "id": 15008,
+      "name": "Gympie",
+      "metaTitle": null,
+      "metaDescription": null,
+      "allowCrawling": null,
+      "customProperties": {
+        "locDetails": {
+          "address": "6-8 Perserverance Street",
+          "city": "Gympie",
+          "state": "Queensland",
+          "postcode": "4570",
+          "phone": "0754836645",
+          "facebookUrl": "https://www.facebook.com/jettsgympie/?fref=ts",
+          "instagramUrl": "https://www.instagram.com/jettsgympie/",
+          "lat": "-26.197808825692498",
+          "lng": "152.66728220178342",
+          "email": "gympie@jetts.com.au",
+          "glofoxBranchId": "66c2b81dd0b70761110529a3",
+          "gymsalesId": "10830"
+        },
+        "locAmenities": {
+          "locAmenities": [
+            "Cardio Equipment",
+            "Change Rooms",
+            "Dedicated Stretching Area",
+            "Free Weights",
+            "Free Wifi",
+            "Functional Training Zone",
+            "Personal Training",
+            "Strength Equipment",
+            "Stretching Area",
+            "Free Parking"
+          ]
+        },
+        "locGallery": {
+          "items": []
+        },
+        "locationType": "open"
+      },
+      "urlPath": "/gyms/gympie"
     },
     {
       "id": 15011,
