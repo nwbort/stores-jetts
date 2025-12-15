@@ -784,6 +784,23 @@
                 "sizeInBytes": 1946103
               },
               "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/6097bed2-5eba-404a-8e32-6ba83fbe9a25/PXL20251213023906636.PORTRAIT.ORIGINAL.jpg?cx=0&cy=1569.11&cw=2268&ch=1705.26",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1569.11,
+                "width": 2268,
+                "height": 4032,
+                "altText": "Leg Press and Squat Rack",
+                "fileName": "PXL20251213023906636.PORTRAIT.ORIGINAL.jpg",
+                "mimeType": "",
+                "cropWidth": 2268,
+                "cropHeight": 1705.26,
+                "sizeInBytes": 2149318
+              },
+              "videoUrl": ""
             }
           ]
         },
@@ -9244,7 +9261,7 @@
           "city": "Palm Beach",
           "state": "Queensland",
           "postcode": "4221",
-          "phone": "02 8418 8041",
+          "phone": "07 5690 5555",
           "facebookUrl": "https://www.facebook.com/JettsPalmBeach/?fref=ts",
           "instagramUrl": "https://www.instagram.com/jettspalmbeach/",
           "lat": "-28.120301386895918",
@@ -9339,18 +9356,19 @@
         },
         "locAmenities": {
           "locAmenities": [
+            "Dedicated Reformer Studio",
+            "Infrared Sauna",
             "24/7 Access",
-            "Free Classes",
+            "Fitness Classes",
             "Cardio and Strength Zones",
-            "Personal Training",
             "Functional Training Zone",
+            "Recovery Zone",
+            "Massage Chairs",
+            "Recovery Boots",
+            "Personal Training",
+            "Exercise Physiologist",
             "Free Wifi",
-            "Free Parking",
-            "Private Bathrooms",
-            "Free Workout of the Day (WOD)",
-            "Free Technique Masterclass",
-            "Free Cold Filtered Water",
-            "Close to Public Transport"
+            "Free Parking"
           ]
         },
         "locGallery": {
@@ -12973,7 +12991,107 @@
         "locationType": "comingsoon"
       },
       "urlPath": "/gyms/moorebank"
+    },
+    {
+      "id": 35148,
+      "name": "Test",
+      "metaTitle": null,
+      "metaDescription": null,
+      "allowCrawling": null,
+      "customProperties": {
+        "locDetails": {
+          "address": "345-351 Southport-Nerang Road, Showroom 2, Spotlight Shopping Centre",
+          "city": "Ashmore",
+          "state": "Tasmania",
+          "postcode": "4214",
+          "phone": "",
+          "facebookUrl": "",
+          "instagramUrl": "",
+          "lat": "-27.977488679337707",
+          "lng": "153.37935726577354",
+          "email": "",
+          "glofoxBranchId": "66ce82ab96678fd9910a39da",
+          "gymsalesId": "4575"
+        },
+        "locAmenities": {
+          "locAmenities": []
+        },
+        "locGallery": {
+          "items": [
+            {
+              "image": {
+                "url": "",
+                "type": "Image",
+                "width": 0,
+                "height": 0,
+                "altText": "",
+                "fileName": "",
+                "mimeType": "",
+                "sizeInBytes": 0
+              },
+              "videoUrl": ""
+            }
+          ]
+        },
+        "locationType": "open"
+      },
+      "urlPath": "/gyms/test"
+    },
+    {
+      "id": 35149,
+      "name": "Buderim",
+      "metaTitle": null,
+      "metaDescription": null,
+      "allowCrawling": null,
+      "customProperties": {
+        "locDetails": {
+          "address": "72 Burnett St",
+          "city": "Buderim",
+          "state": "Queensland",
+          "postcode": "4556",
+          "phone": "0426 364 141",
+          "facebookUrl": "https://www.facebook.com/jettsbuderim",
+          "instagramUrl": "https://www.instagram.com/jettsbuderim",
+          "lat": "-26.68742108330005",
+          "lng": "153.0488531840901",
+          "email": "buderim@jetts.com.au",
+          "glofoxBranchId": "",
+          "gymsalesId": ""
+        },
+        "locAmenities": {
+          "locAmenities": [
+            "Brand New Club",
+            "24/7 Access",
+            "Functional Training Zone",
+            "Cardio and Strength Zones",
+            "Personal Training",
+            "Exercise Physiologist",
+            "Close to Public Transport",
+            "Private Bathrooms",
+            "Free Wifi"
+          ]
+        },
+        "locGallery": {
+          "items": [
+            {
+              "image": {
+                "url": "",
+                "type": "Image",
+                "width": 0,
+                "height": 0,
+                "altText": "",
+                "fileName": "",
+                "mimeType": "",
+                "sizeInBytes": 0
+              },
+              "videoUrl": ""
+            }
+          ]
+        },
+        "locationType": "comingsoon"
+      },
+      "urlPath": "/gyms/buderim"
     }
   ],
-  "total": 126
+  "total": 128
 }
