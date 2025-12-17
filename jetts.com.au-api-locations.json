@@ -7162,48 +7162,6 @@
       "urlPath": "/gyms/mermaid-beach"
     },
     {
-      "id": 15029,
-      "name": "Miranda",
-      "metaTitle": null,
-      "metaDescription": null,
-      "allowCrawling": null,
-      "customProperties": {
-        "locDetails": {
-          "address": "Westfield Miranda, 3, Shop G102/600 Kingsway",
-          "city": "Miranda",
-          "state": "New South Wales",
-          "postcode": "2228",
-          "phone": "0478 068 574",
-          "facebookUrl": "https://www.facebook.com/JettsMiranda/",
-          "instagramUrl": "https://www.instagram.com/jettsmiranda/",
-          "lat": "-34.03573818927155",
-          "lng": "151.10162880787783",
-          "email": "miranda@jetts.com.au",
-          "glofoxBranchId": "66cebd298177256b170bd9d9",
-          "gymsalesId": "4459"
-        },
-        "locAmenities": {
-          "locAmenities": [
-            "24/7 Access",
-            "Cardio and Strength Zones",
-            "Close to Public Transport",
-            "Private Bathrooms",
-            "Free Wifi",
-            "Functional Training Zone",
-            "Personal Training",
-            "Free Cold Filtered Water",
-            "Jetts Vending Machine",
-            "Free Parking"
-          ]
-        },
-        "locGallery": {
-          "items": []
-        },
-        "locationType": "open"
-      },
-      "urlPath": "/gyms/miranda"
-    },
-    {
       "id": 15030,
       "name": "Mitchelton",
       "metaTitle": null,
@@ -9356,15 +9314,10 @@
         },
         "locAmenities": {
           "locAmenities": [
-            "Dedicated Reformer Studio",
-            "Infrared Sauna",
             "24/7 Access",
             "Fitness Classes",
             "Cardio and Strength Zones",
             "Functional Training Zone",
-            "Recovery Zone",
-            "Massage Chairs",
-            "Recovery Boots",
             "Personal Training",
             "Exercise Physiologist",
             "Free Wifi",
@@ -12993,51 +12946,6 @@
       "urlPath": "/gyms/moorebank"
     },
     {
-      "id": 35148,
-      "name": "Test",
-      "metaTitle": null,
-      "metaDescription": null,
-      "allowCrawling": null,
-      "customProperties": {
-        "locDetails": {
-          "address": "345-351 Southport-Nerang Road, Showroom 2, Spotlight Shopping Centre",
-          "city": "Ashmore",
-          "state": "Tasmania",
-          "postcode": "4214",
-          "phone": "",
-          "facebookUrl": "",
-          "instagramUrl": "",
-          "lat": "-27.977488679337707",
-          "lng": "153.37935726577354",
-          "email": "",
-          "glofoxBranchId": "66ce82ab96678fd9910a39da",
-          "gymsalesId": "4575"
-        },
-        "locAmenities": {
-          "locAmenities": []
-        },
-        "locGallery": {
-          "items": [
-            {
-              "image": {
-                "url": "",
-                "type": "Image",
-                "width": 0,
-                "height": 0,
-                "altText": "",
-                "fileName": "",
-                "mimeType": "",
-                "sizeInBytes": 0
-              },
-              "videoUrl": ""
-            }
-          ]
-        },
-        "locationType": "open"
-      },
-      "urlPath": "/gyms/test"
-    },
-    {
       "id": 35149,
       "name": "Buderim",
       "metaTitle": null,
@@ -13055,8 +12963,8 @@
           "lat": "-26.68742108330005",
           "lng": "153.0488531840901",
           "email": "buderim@jetts.com.au",
-          "glofoxBranchId": "",
-          "gymsalesId": ""
+          "glofoxBranchId": "691e624cf14605e99e04bba9",
+          "gymsalesId": "20435"
         },
         "locAmenities": {
           "locAmenities": [
@@ -13093,5 +13001,5 @@
       "urlPath": "/gyms/buderim"
     }
   ],
-  "total": 128
+  "total": 126
 }
