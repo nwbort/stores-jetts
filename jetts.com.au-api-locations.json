@@ -12999,7 +12999,60 @@
         "locationType": "comingsoon"
       },
       "urlPath": "/gyms/buderim"
+    },
+    {
+      "id": 35150,
+      "name": "Carseldine",
+      "metaTitle": null,
+      "metaDescription": null,
+      "allowCrawling": null,
+      "customProperties": {
+        "locDetails": {
+          "address": "520 Beams Road, Level 1",
+          "city": "Carseldine",
+          "state": "Queensland",
+          "postcode": "4034",
+          "phone": "0450 224 323",
+          "facebookUrl": "https://www.facebook.com/jettscarseldine",
+          "instagramUrl": "https://www.instagram.com/jettscarseldine",
+          "lat": "-27.34822915071576",
+          "lng": "153.0259763002635",
+          "email": "carseldine@jetts.com.au",
+          "glofoxBranchId": "",
+          "gymsalesId": ""
+        },
+        "locAmenities": {
+          "locAmenities": [
+            "24/7 Access",
+            "Brand New Club",
+            "Functional Training Zone",
+            "Cardio and Strength Zones",
+            "Personal Training",
+            "Free Wifi",
+            "Private Bathrooms"
+          ]
+        },
+        "locGallery": {
+          "items": [
+            {
+              "image": {
+                "url": "",
+                "type": "Image",
+                "width": 0,
+                "height": 0,
+                "altText": "",
+                "fileName": "",
+                "mimeType": "",
+                "sizeInBytes": 0
+              },
+              "videoUrl": ""
+            }
+          ]
+        },
+        "locationType": "comingsoon"
+      },
+      "urlPath": "/gyms/carseldine"
     }
   ],
-  "total": 126
+  "total": 127
 }
