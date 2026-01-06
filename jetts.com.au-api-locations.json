@@ -12823,24 +12823,17 @@
           "gymsalesId": "11416"
         },
         "locAmenities": {
-          "locAmenities": []
+          "locAmenities": [
+            "Brand New Club",
+            "24/7 Access",
+            "Functional Training Zone",
+            "Cardio and Strength Zones",
+            "Personal Training",
+            "Free Wifi"
+          ]
         },
         "locGallery": {
-          "items": [
-            {
-              "image": {
-                "url": "",
-                "type": "Image",
-                "width": 0,
-                "height": 0,
-                "altText": "",
-                "fileName": "",
-                "mimeType": "",
-                "sizeInBytes": 0
-              },
-              "videoUrl": ""
-            }
-          ]
+          "items": []
         },
         "locationType": "comingsoon"
       },
