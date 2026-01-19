@@ -2904,12 +2904,12 @@
             "Change Rooms",
             "Dedicated Stretching Area",
             "Free Weights",
-            "Free Wifi",
             "Functional Training Zone",
             "Personal Training",
             "Strength Equipment",
             "Stretching Area",
-            "Free Parking"
+            "Free Parking",
+            "Free Workout of the Day (WOD)"
           ]
         },
         "locGallery": {
@@ -3540,13 +3540,14 @@
             "Cardio Equipment",
             "Change Rooms",
             "Dedicated Stretching Area",
-            "Free Weights",
+            "Reformers",
             "Free Wifi",
             "Functional Training Zone",
             "Personal Training",
             "Newly Refurbished",
             "Stretching Area",
-            "Free Parking"
+            "Free Parking",
+            "24/7 Access"
           ]
         },
         "locGallery": {
@@ -5332,8 +5333,8 @@
           "city": "Gympie",
           "state": "Queensland",
           "postcode": "4570",
-          "phone": "0754836645",
-          "facebookUrl": "https://www.facebook.com/jettsgympie/?fref=ts",
+          "phone": "0412 408 608",
+          "facebookUrl": "https://www.facebook.com/jettsgympie/",
           "instagramUrl": "https://www.instagram.com/jettsgympie/",
           "lat": "-26.197808825692498",
           "lng": "152.66728220178342",
@@ -8402,7 +8403,8 @@
             "Free Wifi",
             "Free Cold Filtered Water",
             "Jetts Vending Machine",
-            "Private Bathrooms"
+            "Private Bathrooms",
+            "Exercise Physiologist"
           ]
         },
         "locGallery": {
@@ -9230,16 +9232,16 @@
         },
         "locAmenities": {
           "locAmenities": [
-            "Cardio Equipment",
-            "Change Rooms",
-            "Dedicated Stretching Area",
-            "Free Weights",
-            "Free Wifi",
-            "Functional Training Zone",
+            "24/7 Access",
             "Personal Training",
+            "Cardio and Strength Zones",
+            "Free Parking",
+            "Functional Training Zone",
+            "Close to Public Transport",
+            "Free Weights",
             "Strength Equipment",
             "Stretching Area",
-            "Free Parking"
+            "Free Workout of the Day (WOD)"
           ]
         },
         "locGallery": {
@@ -9696,8 +9698,8 @@
           "phone": "07 5623 3315",
           "facebookUrl": "https://www.facebook.com/jettsrobina",
           "instagramUrl": "https://www.instagram.com/jettsrobina/",
-          "lat": "-28.09216243607487",
-          "lng": "153.39460492110172",
+          "lat": "-28.09196",
+          "lng": "153.39462",
           "email": "robina@jetts.com.au",
           "glofoxBranchId": "66ce9382020b14c1e204c246",
           "gymsalesId": "7450"
@@ -9706,13 +9708,13 @@
           "locAmenities": [
             "24/7 Access",
             "Recovery Zone",
-            "Dedicated Stretching Area",
-            "Free Weights",
-            "Free Wifi",
+            "Cardio and Strength Zones",
+            "Infrared Sauna",
             "Functional Training Zone",
+            "Massage Chairs",
             "Personal Training",
-            "Strength Equipment",
             "Stretching Area",
+            "Strength Equipment",
             "Free Parking"
           ]
         },
@@ -10934,8 +10936,8 @@
           "phone": "0492 033 027",
           "facebookUrl": "https://www.facebook.com/jettsvarsitylakes/",
           "instagramUrl": "https://www.instagram.com/jetts_varsity_lakes/",
-          "lat": "-28.077292874007934",
-          "lng": "153.4143976071648",
+          "lat": "-28.07712",
+          "lng": "153.41445",
           "email": "varsitylakes@jetts.com.au",
           "glofoxBranchId": "66d0e5015bf0c00e0e047188",
           "gymsalesId": "10943"
@@ -12828,7 +12830,10 @@
             "24/7 Access",
             "Functional Training Zone",
             "Cardio and Strength Zones",
+            "Dedicated Reformer Studio",
             "Personal Training",
+            "Fitness Classes",
+            "Reformers",
             "Free Wifi"
           ]
         },
@@ -12861,7 +12866,14 @@
           "gymsalesId": "11888"
         },
         "locAmenities": {
-          "locAmenities": []
+          "locAmenities": [
+            "Brand New Club",
+            "24/7 Access",
+            "Functional Training Zone",
+            "Cardio and Strength Zones",
+            "Personal Training",
+            "Recovery Zone"
+          ]
         },
         "locGallery": {
           "items": [
@@ -13005,38 +13017,153 @@
           "city": "Carseldine",
           "state": "Queensland",
           "postcode": "4034",
-          "phone": "0450 224 323",
+          "phone": "0494 644 884",
           "facebookUrl": "https://www.facebook.com/jettscarseldine",
-          "instagramUrl": "https://www.instagram.com/jettscarseldine",
+          "instagramUrl": "https://www.instagram.com/jetts_carseldine",
           "lat": "-27.34822915071576",
           "lng": "153.0259763002635",
           "email": "carseldine@jetts.com.au",
-          "glofoxBranchId": "",
-          "gymsalesId": ""
+          "glofoxBranchId": "6943b0b6f294e8d3b5070971",
+          "gymsalesId": "21293"
         },
         "locAmenities": {
           "locAmenities": [
             "24/7 Access",
-            "Brand New Club",
             "Functional Training Zone",
             "Cardio and Strength Zones",
             "Personal Training",
+            "Exercise Physiologist",
+            "Close to Public Transport",
+            "Free Parking",
             "Free Wifi",
-            "Private Bathrooms"
+            "Free Classes",
+            "Fitness Classes",
+            "Recovery Zone",
+            "Free Cold Filtered Water",
+            "Jetts Vending Machine",
+            "Jetts Merchandise",
+            "Private Bathrooms",
+            "Brand New Club"
           ]
         },
         "locGallery": {
           "items": [
             {
               "image": {
-                "url": "",
+                "url": "https://storage-prod.twotaps.io/uploads/images/55682fc8-e238-4d52-9c6e-19fd800dcff2/2025-07-08-1540-27-5409.jpg?cx=339.15&cy=0&cw=5310.69&ch=3993",
                 "type": "Image",
-                "width": 0,
-                "height": 0,
-                "altText": "",
-                "fileName": "",
+                "cropX": 339.15,
+                "cropY": 0,
+                "width": 5989,
+                "height": 3993,
+                "altText": "JETTS CARSELDINE",
+                "fileName": "2025-07-08-1540-27-5409.jpg",
                 "mimeType": "",
-                "sizeInBytes": 0
+                "cropWidth": 5310.69,
+                "cropHeight": 3993,
+                "sizeInBytes": 15467020
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/db78d2cf-0cf7-4794-8efd-630952c8c4f8/2025-07-08-1539-31-5404.jpg?cx=337.11&cy=0&cw=5278.77&ch=3969",
+                "type": "Image",
+                "cropX": 337.11,
+                "cropY": 0,
+                "width": 5953,
+                "height": 3969,
+                "altText": "JETTS CARSELDINE",
+                "fileName": "2025-07-08-1539-31-5404.jpg",
+                "mimeType": "",
+                "cropWidth": 5278.77,
+                "cropHeight": 3969,
+                "sizeInBytes": 15815930
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/826e26f0-3fc2-4267-8656-8ca57e521245/2025-07-08-1540-27-5409.jpg?cx=339.15&cy=0&cw=5310.69&ch=3993",
+                "type": "Image",
+                "cropX": 339.15,
+                "cropY": 0,
+                "width": 5989,
+                "height": 3993,
+                "altText": "JETTS CARSELDINE",
+                "fileName": "2025-07-08-1540-27-5409.jpg",
+                "mimeType": "",
+                "cropWidth": 5310.69,
+                "cropHeight": 3993,
+                "sizeInBytes": 15467020
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/8e72c154-a2c9-4bc2-84e5-14370c7d235f/2025-07-08-1541-53-5419.jpg?cx=337.28&cy=0&cw=5277.44&ch=3968",
+                "type": "Image",
+                "cropX": 337.28,
+                "cropY": 0,
+                "width": 5952,
+                "height": 3968,
+                "altText": "JETTS CARSELDINE",
+                "fileName": "2025-07-08-1541-53-5419.jpg",
+                "mimeType": "",
+                "cropWidth": 5277.44,
+                "cropHeight": 3968,
+                "sizeInBytes": 14309049
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/06671781-0109-4420-8611-a33ef813b1f3/2025-07-08-1542-32-5429.jpg?cx=337.45&cy=0&cw=5280.1&ch=3970",
+                "type": "Image",
+                "cropX": 337.45,
+                "cropY": 0,
+                "width": 5955,
+                "height": 3970,
+                "altText": "",
+                "fileName": "2025-07-08-1542-32-5429.jpg",
+                "mimeType": "",
+                "cropWidth": 5280.1,
+                "cropHeight": 3970,
+                "sizeInBytes": 15753064
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/dace5b51-fd29-4f12-b537-5e0f2c85d41c/2025-07-08-1542-55-5434.jpg?cx=339.15&cy=0&cw=5306.7&ch=3990",
+                "type": "Image",
+                "cropX": 339.15,
+                "cropY": 0,
+                "width": 5985,
+                "height": 3990,
+                "altText": "JETTS CARSELDINE",
+                "fileName": "2025-07-08-1542-55-5434.jpg",
+                "mimeType": "",
+                "cropWidth": 5306.7,
+                "cropHeight": 3990,
+                "sizeInBytes": 15463544
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/d2b73cba-0285-4f09-8c1a-8d123084ba71/1000007572.jpg?cx=0&cy=872.18&cw=3000&ch=2255.64",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 872.18,
+                "width": 3000,
+                "height": 4000,
+                "altText": "JETTS CARSELDINE",
+                "fileName": "1000007572.jpg",
+                "mimeType": "",
+                "cropWidth": 3000,
+                "cropHeight": 2255.64,
+                "sizeInBytes": 1373523
               },
               "videoUrl": ""
             }
