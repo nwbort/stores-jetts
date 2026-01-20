@@ -38,6 +38,13 @@
         "locGallery": {
           "items": []
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/hawthorn"
@@ -8999,6 +9006,13 @@
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/nowra"
@@ -9369,6 +9383,40 @@
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "Freedom Gym Only",
+            "inclusions": [
+              "No lock-in contract membership",
+              "Free Cancellations",
+              "24/7 Gym Access",
+              "Free Parking & WIFI"
+            ],
+            "favoritePlan": "no"
+          },
+          {
+            "planTitleMatch": "Freedom Gym + Recovery",
+            "inclusions": [
+              "Full Gym Access",
+              "Group Fitness Classes",
+              "1 x Infrared Sauna per week",
+              "24/7 Recovery Access (Massage chairs, compression boots & Thera-guns)"
+            ],
+            "favoritePlan": "no"
+          },
+          {
+            "planTitleMatch": "Freedom Gym + Recovery + Pilates",
+            "inclusions": [
+              "Full Gym Access",
+              "Group Fitness Classes",
+              "1 x Infrared Sauna per week",
+              "24/7 Recovery Access (Massage chairs, compression boots & Thera-guns)",
+              "3 x Instructor-led Reformer Pilates classes per week",
+              "Unlimited 24/7 virtual Reformer classes"
+            ],
+            "favoritePlan": "yes"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/peregian"
@@ -12892,6 +12940,13 @@
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "comingsoon"
       },
       "urlPath": "/gyms/kalamunda"
