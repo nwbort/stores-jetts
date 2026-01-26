@@ -2427,16 +2427,6 @@
         "locGallery": {
           "items": []
         },
-        "planDescriptions": [
-          {
-            "planTitleMatch": "Reformer Pilates",
-            "inclusions": [
-              "Reformer Pilates",
-              ""
-            ],
-            "favoritePlan": "no"
-          }
-        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/brisbane-airport"
