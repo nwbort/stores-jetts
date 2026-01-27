@@ -916,15 +916,15 @@
       "allowCrawling": null,
       "customProperties": {
         "locDetails": {
-          "address": "Shop 5/338 Waterworks Road",
+          "address": "20-30 Harry Street",
           "city": "Ashgrove",
           "state": "Queensland",
           "postcode": "4060",
           "phone": "0499026517",
           "facebookUrl": "https://www.facebook.com/jettsashgrove/",
           "instagramUrl": "https://www.instagram.com/jettsashgrove_/",
-          "lat": "-27.446520673792065",
-          "lng": "152.9866451513086",
+          "lat": "-27.44457",
+          "lng": "152.99265",
           "email": "ashgrove@jetts.com.au",
           "glofoxBranchId": "66ce71c77b701781ec03caa6",
           "gymsalesId": "4830"
@@ -1012,6 +1012,13 @@
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/ashgrove"
@@ -2427,6 +2434,16 @@
         "locGallery": {
           "items": []
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "Reformer Pilates",
+            "inclusions": [
+              "Reformer Pilates",
+              ""
+            ],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/brisbane-airport"
@@ -5324,6 +5341,13 @@
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/gumdale"
@@ -9457,8 +9481,101 @@
           ]
         },
         "locGallery": {
-          "items": []
+          "items": [
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/fb151efc-1d77-4863-9052-467ba90b6ebf/744AAE65-8AE3-4E3D-80BA-C9BF4A3A80E4.jpeg?cx=0&cy=436.09&cw=1500&ch=1127.82",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 436.09,
+                "width": 1500,
+                "height": 2000,
+                "altText": "",
+                "fileName": "744AAE65-8AE3-4E3D-80BA-C9BF4A3A80E4.jpeg",
+                "mimeType": "",
+                "cropWidth": 1500,
+                "cropHeight": 1127.82,
+                "sizeInBytes": 500512
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/f2787f8a-5f21-4220-8108-02b6e2f7fe20/IMG0261.jpeg?cx=0&cy=1245.47&cw=4284&ch=3221.05",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1245.47,
+                "width": 4284,
+                "height": 5712,
+                "altText": "",
+                "fileName": "IMG0261.jpeg",
+                "mimeType": "",
+                "cropWidth": 4284,
+                "cropHeight": 3221.05,
+                "sizeInBytes": 5145337
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/de9db5d2-0f96-4fbc-832c-8cfe90ef9d5e/IMG0120.jpeg?cx=0&cy=1245.47&cw=4284&ch=3221.05",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1245.47,
+                "width": 4284,
+                "height": 5712,
+                "altText": "",
+                "fileName": "IMG0120.jpeg",
+                "mimeType": "",
+                "cropWidth": 4284,
+                "cropHeight": 3221.05,
+                "sizeInBytes": 5693700
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/4e76adb0-300c-4ad3-a915-1bbe5a998640/IMG0471.jpeg?cx=0&cy=1245.47&cw=4284&ch=3221.05",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1245.47,
+                "width": 4284,
+                "height": 5712,
+                "altText": "",
+                "fileName": "IMG0471.jpeg",
+                "mimeType": "",
+                "cropWidth": 4284,
+                "cropHeight": 3221.05,
+                "sizeInBytes": 3255155
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/05e0d5ad-dd88-47c4-afa4-5339e82ecfb5/evolt-body-scanner-3720x.webp?cx=0&cy=89.32&cw=720&ch=541.35",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 89.32,
+                "width": 720,
+                "height": 720,
+                "altText": "",
+                "fileName": "evolt-body-scanner-3720x.webp",
+                "mimeType": "",
+                "cropWidth": 720,
+                "cropHeight": 541.35,
+                "sizeInBytes": 22362
+              },
+              "videoUrl": ""
+            }
+          ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/pimpama"
@@ -10965,6 +11082,13 @@
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/grange"
