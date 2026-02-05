@@ -4572,9 +4572,33 @@
                 "sizeInBytes": 972689
               },
               "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/51e7683e-422e-4ccf-8ad8-8daed9f00d66/IMG4156.jpeg?cx=0&cy=151.59&cw=1080&ch=812.03",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 151.59,
+                "width": 1080,
+                "height": 1350,
+                "altText": "group1",
+                "fileName": "IMG4156.jpeg",
+                "mimeType": "",
+                "cropWidth": 1080,
+                "cropHeight": 812.03,
+                "sizeInBytes": 314958
+              },
+              "videoUrl": ""
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/forest-lakes"
@@ -8932,6 +8956,13 @@
         "locGallery": {
           "items": []
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/pacific-pines"
