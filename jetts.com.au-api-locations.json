@@ -7004,6 +7004,13 @@
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/mango-hill"
@@ -9171,7 +9178,7 @@
         },
         "planDescriptions": [
           {
-            "planTitleMatch": "Freedom",
+            "planTitleMatch": "Freedom Gym Only",
             "inclusions": [
               "No lock-in contract membership",
               "Free Cancellations",
