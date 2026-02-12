@@ -4777,7 +4777,7 @@
           "city": "Geelong West",
           "state": "Victoria",
           "postcode": "3218",
-          "phone": "0352228945",
+          "phone": "+61 448 575 680",
           "facebookUrl": "https://www.facebook.com/jettsgeelong",
           "instagramUrl": "https://www.instagram.com/jettsgeelongwest/?hl=en",
           "lat": "-38.13565586380806",
@@ -4803,6 +4803,13 @@
         "locGallery": {
           "items": []
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/geelong-west"
@@ -12399,8 +12406,8 @@
           "phone": "0438 185 094",
           "facebookUrl": "https://www.facebook.com/profile.php?id=61559843373346",
           "instagramUrl": "https://www.instagram.com/jettsmickleham",
-          "lat": "-37.536352816360285",
-          "lng": "144.92031352724902",
+          "lat": "-37.53617357851355",
+          "lng": "144.92034588650466",
           "email": "mickleham@jetts.com.au",
           "glofoxBranchId": "66d00acf1fc38c7556078563",
           "gymsalesId": "10604"
@@ -12489,6 +12496,13 @@
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/mickleham"
