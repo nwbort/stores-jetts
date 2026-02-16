@@ -13038,7 +13038,7 @@
             "favoritePlan": "no"
           }
         ],
-        "locationType": "comingsoon"
+        "locationType": "open"
       },
       "urlPath": "/gyms/truganina"
     },
@@ -13381,6 +13381,13 @@
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "comingsoon"
       },
       "urlPath": "/gyms/carseldine"
