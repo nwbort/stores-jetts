@@ -1975,18 +1975,18 @@
             },
             {
               "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/6b61e30f-d6b4-4eba-8853-6540678d398d/jetts-BoX-hill-membership.jpg?cx=0&cy=292.98&cw=1080&ch=812.03",
+                "url": "https://storage-prod.twotaps.io/uploads/images/7f648fd0-d5d3-4941-8d00-ca2df187683c/jETTS-bOX-hILL-mEMBERSHIP-OPTIONS-1.png?cx=0&cy=346.98&cw=1080&ch=812.03",
                 "type": "Image",
                 "cropX": 0,
-                "cropY": 292.98,
+                "cropY": 346.98,
                 "width": 1080,
-                "height": 1398,
+                "height": 1506,
                 "altText": "",
-                "fileName": "jetts-BoX-hill-membership.jpg",
+                "fileName": "jETTS-bOX-hILL-mEMBERSHIP-OPTIONS-1.png",
                 "mimeType": "",
                 "cropWidth": 1080,
                 "cropHeight": 812.03,
-                "sizeInBytes": 124973
+                "sizeInBytes": 1503130
               },
               "videoUrl": ""
             },
@@ -2329,26 +2329,10 @@
                 "sizeInBytes": 722144
               },
               "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/908cff9a-776d-4901-bbf8-211a9c5d326f/jetts-BoX-hill-membership.jpg?cx=0&cy=310.98&cw=1080&ch=812.03",
-                "type": "Image",
-                "cropX": 0,
-                "cropY": 310.98,
-                "width": 1080,
-                "height": 1434,
-                "altText": "",
-                "fileName": "jetts-BoX-hill-membership.jpg",
-                "mimeType": "",
-                "cropWidth": 1080,
-                "cropHeight": 812.03,
-                "sizeInBytes": 166792
-              },
-              "videoUrl": ""
             }
           ]
         },
+        "planDescriptions": [],
         "locationType": "open"
       },
       "urlPath": "/gyms/box-hill"
@@ -13240,7 +13224,7 @@
         },
         "locAmenities": {
           "locAmenities": [
-            "24/7 Access",
+            "Reformers",
             "Functional Training Zone",
             "Cardio and Strength Zones",
             "Personal Training",
@@ -13255,7 +13239,11 @@
             "Jetts Vending Machine",
             "Jetts Merchandise",
             "Private Bathrooms",
-            "Brand New Club"
+            "Brand New Club",
+            "24/7 Access",
+            "Recovery Boots",
+            "Massage Chairs",
+            "Dedicated Reformer Studio"
           ]
         },
         "locGallery": {
@@ -13376,6 +13364,23 @@
                 "cropWidth": 3000,
                 "cropHeight": 2255.64,
                 "sizeInBytes": 1373523
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/7b8d5270-ea0a-4381-955e-934d94cdcff4/PilatesAbworkout.webp?cx=0&cy=133.98&cw=1080&ch=812.03",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 133.98,
+                "width": 1080,
+                "height": 1080,
+                "altText": "Reforma Pilates",
+                "fileName": "PilatesAbworkout.webp",
+                "mimeType": "",
+                "cropWidth": 1080,
+                "cropHeight": 812.03,
+                "sizeInBytes": 85666
               },
               "videoUrl": ""
             }
