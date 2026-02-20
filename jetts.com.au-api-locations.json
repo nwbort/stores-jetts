@@ -2573,6 +2573,13 @@
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/bundoora"
@@ -6024,7 +6031,7 @@
           "city": "Hillarys",
           "state": "Western Australia",
           "postcode": "6025",
-          "phone": "0894024148",
+          "phone": "61 86205 9496",
           "facebookUrl": "https://www.facebook.com/Jettshillarys/",
           "instagramUrl": "https://www.instagram.com/jettsfitnesshillarys/",
           "lat": "-31.796851734763635",
@@ -6050,6 +6057,13 @@
         "locGallery": {
           "items": []
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/hillarys"
