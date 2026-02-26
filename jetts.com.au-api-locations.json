@@ -4370,23 +4370,6 @@
             },
             {
               "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/e340393b-f285-4ed2-8e20-0ec0fb0e29fe/IMG2237.jpeg?cx=0&cy=879.16&cw=3024&ch=2273.68",
-                "type": "Image",
-                "cropX": 0,
-                "cropY": 879.16,
-                "width": 3024,
-                "height": 4032,
-                "altText": "Coach Lucy ",
-                "fileName": "IMG2237.jpeg",
-                "mimeType": "",
-                "cropWidth": 3024,
-                "cropHeight": 2273.68,
-                "sizeInBytes": 3018073
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
                 "url": "https://storage-prod.twotaps.io/uploads/images/db5454dc-a467-44a3-b35e-cbda106f8fb6/Copy-of-PT-Profile-Emily-Presentation.jpg?cx=118.03&cy=0&cw=1436.4&ch=1080",
                 "type": "Image",
                 "cropX": 118.03,
@@ -4404,57 +4387,81 @@
             },
             {
               "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/5f0cc7bd-12c5-4a68-bcf7-2cff21d9b15c/Copy-of-PT-Profile-Lucy-Presentation.jpg?cx=115.01&cy=0&cw=1436.4&ch=1080",
+                "url": "https://storage-prod.twotaps.io/uploads/images/4be98c1e-adb1-4735-8fce-dde394eb3e4d/Profile-Bd-Presentation.png?cx=0&cy=0&cw=1436.4&ch=1080",
                 "type": "Image",
-                "cropX": 115.01,
+                "cropX": 0,
                 "cropY": 0,
                 "width": 1920,
                 "height": 1080,
                 "altText": "Coach Lucy ",
-                "fileName": "Copy-of-PT-Profile-Lucy-Presentation.jpg",
+                "fileName": "Profile-Bd-Presentation.png",
                 "mimeType": "",
                 "cropWidth": 1436.4,
                 "cropHeight": 1080,
-                "sizeInBytes": 307569
+                "sizeInBytes": 1302278
               },
               "videoUrl": ""
             },
             {
               "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/d3a78580-7782-4658-8f5f-e7671dec6a6d/Matt-PT-Profile-Presentation.jpg?cx=36.52&cy=0&cw=1436.4&ch=1080",
-                "type": "Image",
-                "cropX": 36.52,
-                "cropY": 0,
-                "width": 1920,
-                "height": 1080,
-                "altText": "Coach Matt",
-                "fileName": "Matt-PT-Profile-Presentation.jpg",
-                "mimeType": "",
-                "cropWidth": 1436.4,
-                "cropHeight": 1080,
-                "sizeInBytes": 311647
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/9f36ec40-feec-4f43-a204-1169adca998a/Current-Group-Timetable--2025-1.png?cx=0&cy=17.2&cw=1650&ch=1240.6",
+                "url": "https://storage-prod.twotaps.io/uploads/images/6402a170-f981-41cd-8f2b-99cbb6483cb0/OUR-GROUPS-ARE-FREE-TO-JOIN.png?cx=0&cy=17.2&cw=1650&ch=1240.6",
                 "type": "Image",
                 "cropX": 0,
                 "cropY": 17.2,
                 "width": 1650,
                 "height": 1275,
-                "altText": "Group Training Timetable ",
-                "fileName": "Current-Group-Timetable--2025-1.png",
+                "altText": "Group Timetable ",
+                "fileName": "OUR-GROUPS-ARE-FREE-TO-JOIN.png",
                 "mimeType": "",
                 "cropWidth": 1650,
                 "cropHeight": 1240.6,
-                "sizeInBytes": 1824169
+                "sizeInBytes": 1665842
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/5300a449-e940-41c6-a91c-32e0880796b2/Profile-Bd-Presentation-1.jpg?cx=241.8&cy=0&cw=1436.4&ch=1080",
+                "type": "Image",
+                "cropX": 241.8,
+                "cropY": 0,
+                "width": 1920,
+                "height": 1080,
+                "altText": "PT Oscar ",
+                "fileName": "Profile-Bd-Presentation-1.jpg",
+                "mimeType": "",
+                "cropWidth": 1436.4,
+                "cropHeight": 1080,
+                "sizeInBytes": 399983
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/455ac34f-5172-42b3-bd10-ef3c16763535/Primary-Logo.png?cx=0&cy=134.96&cw=971&ch=730.08",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 134.96,
+                "width": 971,
+                "height": 1000,
+                "altText": "Jetts FG ",
+                "fileName": "Primary-Logo.png",
+                "mimeType": "",
+                "cropWidth": 971,
+                "cropHeight": 730.08,
+                "sizeInBytes": 56810
               },
               "videoUrl": ""
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/forest-glen"
@@ -10234,7 +10241,7 @@
           "city": "St Leonards",
           "state": "New South Wales",
           "postcode": "2065",
-          "phone": "0294384100",
+          "phone": "61862348075",
           "facebookUrl": "https://www.facebook.com/jettsstleonards?fref=ts",
           "instagramUrl": "https://www.instagram.com/jettsstleonards/",
           "lat": "-33.822985729572856",
@@ -13007,7 +13014,7 @@
       "allowCrawling": null,
       "customProperties": {
         "locDetails": {
-          "address": "50 Mainview Boulevard, Tenancy 9",
+          "address": "Shop 9A 320 Forsyth Road",
           "city": "Truganina",
           "state": "Victoria",
           "postcode": "3029",
