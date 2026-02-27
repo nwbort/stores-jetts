@@ -47,7 +47,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/hawthorn"
+      "urlPath": "/gyms/hawthorn",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14961,
@@ -285,7 +290,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/baringa"
+      "urlPath": "/gyms/baringa",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14963,
@@ -322,7 +332,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/ashmore"
+      "urlPath": "/gyms/ashmore",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14964,
@@ -565,7 +580,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/applecross"
+      "urlPath": "/gyms/applecross",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14965,
@@ -771,7 +791,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/aveley"
+      "urlPath": "/gyms/aveley",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14966,
@@ -864,7 +889,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/ballina"
+      "urlPath": "/gyms/ballina",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14967,
@@ -979,7 +1009,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/ashgrove"
+      "urlPath": "/gyms/ashgrove",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14968,
@@ -1087,7 +1122,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/bassendean"
+      "urlPath": "/gyms/bassendean",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14969,
@@ -1232,7 +1272,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/baldivis"
+      "urlPath": "/gyms/baldivis",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14970,
@@ -1270,7 +1315,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/berwick"
+      "urlPath": "/gyms/berwick",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14971,
@@ -1312,7 +1362,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/albany-creek"
+      "urlPath": "/gyms/albany-creek",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14972,
@@ -1491,7 +1546,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/blackburn-north"
+      "urlPath": "/gyms/blackburn-north",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14973,
@@ -1658,7 +1718,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/beechboro"
+      "urlPath": "/gyms/beechboro",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14974,
@@ -1862,7 +1927,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/bli-bli"
+      "urlPath": "/gyms/bli-bli",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14975,
@@ -1917,7 +1987,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/bracken-ridge"
+      "urlPath": "/gyms/bracken-ridge",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14976,
@@ -2335,7 +2410,12 @@
         "planDescriptions": [],
         "locationType": "open"
       },
-      "urlPath": "/gyms/box-hill"
+      "urlPath": "/gyms/box-hill",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14977,
@@ -2388,7 +2468,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/brisbane-airport"
+      "urlPath": "/gyms/brisbane-airport",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14978,
@@ -2430,7 +2515,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/bundaberg"
+      "urlPath": "/gyms/bundaberg",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14979,
@@ -2582,7 +2672,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/bundoora"
+      "urlPath": "/gyms/bundoora",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14980,
@@ -2848,7 +2943,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/burpengary"
+      "urlPath": "/gyms/burpengary",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14981,
@@ -2890,7 +2990,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/burleigh-heads"
+      "urlPath": "/gyms/burleigh-heads",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14982,
@@ -2932,7 +3037,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/caloundra"
+      "urlPath": "/gyms/caloundra",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14983,
@@ -3026,7 +3136,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/campsie"
+      "urlPath": "/gyms/campsie",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14984,
@@ -3227,7 +3342,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/canning-vale-south"
+      "urlPath": "/gyms/canning-vale-south",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14985,
@@ -3269,7 +3389,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/capalaba"
+      "urlPath": "/gyms/capalaba",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14986,
@@ -3318,7 +3443,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/canning-vale"
+      "urlPath": "/gyms/canning-vale",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14987,
@@ -3359,7 +3489,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/chermside-west"
+      "urlPath": "/gyms/chermside-west",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14988,
@@ -3401,7 +3536,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/caroline-springs"
+      "urlPath": "/gyms/caroline-springs",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14989,
@@ -3443,7 +3583,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/carrum-downs"
+      "urlPath": "/gyms/carrum-downs",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14990,
@@ -3485,7 +3630,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/cobblebank"
+      "urlPath": "/gyms/cobblebank",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14991,
@@ -3528,7 +3678,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/coburg"
+      "urlPath": "/gyms/coburg",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14992,
@@ -3575,7 +3730,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/coburg-north"
+      "urlPath": "/gyms/coburg-north",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14993,
@@ -3725,7 +3885,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/cranbourne-west"
+      "urlPath": "/gyms/cranbourne-west",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14994,
@@ -3922,7 +4087,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/coomera"
+      "urlPath": "/gyms/coomera",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14995,
@@ -3964,7 +4134,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/elanora"
+      "urlPath": "/gyms/elanora",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14996,
@@ -4006,7 +4181,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/ferny-grove"
+      "urlPath": "/gyms/ferny-grove",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14997,
@@ -4117,7 +4297,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/dianella"
+      "urlPath": "/gyms/dianella",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14998,
@@ -4159,7 +4344,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/doncaster-east"
+      "urlPath": "/gyms/doncaster-east",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 14999,
@@ -4207,7 +4397,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/coolum"
+      "urlPath": "/gyms/coolum",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15000,
@@ -4464,7 +4659,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/forest-glen"
+      "urlPath": "/gyms/forest-glen",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15002,
@@ -4599,7 +4799,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/forest-lakes"
+      "urlPath": "/gyms/forest-lakes",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15003,
@@ -4761,7 +4966,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/fortitude-valley"
+      "urlPath": "/gyms/fortitude-valley",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15004,
@@ -4810,7 +5020,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/geelong-west"
+      "urlPath": "/gyms/geelong-west",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15005,
@@ -5039,7 +5254,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/fremantle"
+      "urlPath": "/gyms/fremantle",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15006,
@@ -5235,7 +5455,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/greenslopes"
+      "urlPath": "/gyms/greenslopes",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15007,
@@ -5350,7 +5575,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/gumdale"
+      "urlPath": "/gyms/gumdale",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15008,
@@ -5392,7 +5622,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/gympie"
+      "urlPath": "/gyms/gympie",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15009,
@@ -5510,7 +5745,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/grafton"
+      "urlPath": "/gyms/grafton",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15010,
@@ -5552,7 +5792,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/hamilton"
+      "urlPath": "/gyms/hamilton",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15011,
@@ -5590,7 +5835,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/hallam"
+      "urlPath": "/gyms/hallam",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15012,
@@ -5769,7 +6019,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/harrisdale"
+      "urlPath": "/gyms/harrisdale",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15013,
@@ -5917,7 +6172,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/hervey-bay"
+      "urlPath": "/gyms/hervey-bay",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15014,
@@ -6024,7 +6284,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/helensvale"
+      "urlPath": "/gyms/helensvale",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15015,
@@ -6073,7 +6338,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/hillarys"
+      "urlPath": "/gyms/hillarys",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15016,
@@ -6115,7 +6385,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/kawana"
+      "urlPath": "/gyms/kawana",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15017,
@@ -6243,7 +6518,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/kenmore"
+      "urlPath": "/gyms/kenmore",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15018,
@@ -6302,7 +6582,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/kallangur"
+      "urlPath": "/gyms/kallangur",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15021,
@@ -6344,7 +6629,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/langwarrin"
+      "urlPath": "/gyms/langwarrin",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15022,
@@ -6574,7 +6864,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/lutwyche"
+      "urlPath": "/gyms/lutwyche",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15023,
@@ -6701,7 +6996,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/lilydale"
+      "urlPath": "/gyms/lilydale",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15024,
@@ -6812,7 +7112,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/lynbrook"
+      "urlPath": "/gyms/lynbrook",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15025,
@@ -7032,7 +7337,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/mango-hill"
+      "urlPath": "/gyms/mango-hill",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15026,
@@ -7177,7 +7487,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/maroochydore"
+      "urlPath": "/gyms/maroochydore",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15027,
@@ -7219,7 +7534,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/mermaid-beach"
+      "urlPath": "/gyms/mermaid-beach",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15030,
@@ -7295,7 +7615,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/mitchelton"
+      "urlPath": "/gyms/mitchelton",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15031,
@@ -7757,7 +8082,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/mooloolaba"
+      "urlPath": "/gyms/mooloolaba",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15033,
@@ -7799,7 +8129,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/mornington"
+      "urlPath": "/gyms/mornington",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15034,
@@ -7855,7 +8190,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/morningside"
+      "urlPath": "/gyms/morningside",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15035,
@@ -7897,7 +8237,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/mt-gambier"
+      "urlPath": "/gyms/mt-gambier",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15036,
@@ -8110,7 +8455,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/mt-gravatt"
+      "urlPath": "/gyms/mt-gravatt",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15037,
@@ -8152,7 +8502,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/mt-warren-park"
+      "urlPath": "/gyms/mt-warren-park",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15038,
@@ -8194,7 +8549,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/mudgeeraba"
+      "urlPath": "/gyms/mudgeeraba",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15039,
@@ -8236,7 +8596,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/murrumba-downs"
+      "urlPath": "/gyms/murrumba-downs",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15040,
@@ -8277,7 +8642,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/narangba"
+      "urlPath": "/gyms/narangba",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15042,
@@ -8319,7 +8689,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/nerang"
+      "urlPath": "/gyms/nerang",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15043,
@@ -8435,7 +8810,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/neutral-bay"
+      "urlPath": "/gyms/neutral-bay",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15044,
@@ -8560,7 +8940,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/noosa"
+      "urlPath": "/gyms/noosa",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15045,
@@ -8602,7 +8987,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/northmead"
+      "urlPath": "/gyms/northmead",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15047,
@@ -8827,7 +9217,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/nowra"
+      "urlPath": "/gyms/nowra",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15048,
@@ -8869,7 +9264,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/ocean-grove"
+      "urlPath": "/gyms/ocean-grove",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15049,
@@ -8951,7 +9351,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/oconnor"
+      "urlPath": "/gyms/oconnor",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15050,
@@ -8998,7 +9403,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/pacific-pines"
+      "urlPath": "/gyms/pacific-pines",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15051,
@@ -9040,7 +9450,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/pakenham"
+      "urlPath": "/gyms/pakenham",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15052,
@@ -9082,7 +9497,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/palm-beach"
+      "urlPath": "/gyms/palm-beach",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15053,
@@ -9124,7 +9544,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/penshurst"
+      "urlPath": "/gyms/penshurst",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15054,
@@ -9238,7 +9663,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/peregian"
+      "urlPath": "/gyms/peregian",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15055,
@@ -9373,7 +9803,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/pimpama"
+      "urlPath": "/gyms/pimpama",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15056,
@@ -9415,7 +9850,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/point-cook"
+      "urlPath": "/gyms/point-cook",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15057,
@@ -9543,7 +9983,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/preston"
+      "urlPath": "/gyms/preston",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15058,
@@ -9585,7 +10030,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/redland-bay"
+      "urlPath": "/gyms/redland-bay",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15060,
@@ -9641,7 +10091,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/rivervale"
+      "urlPath": "/gyms/rivervale",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15061,
@@ -9683,7 +10138,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/robina"
+      "urlPath": "/gyms/robina",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15062,
@@ -9725,7 +10185,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/rosanna"
+      "urlPath": "/gyms/rosanna",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15063,
@@ -9836,7 +10301,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/rockingham"
+      "urlPath": "/gyms/rockingham",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15064,
@@ -9878,7 +10348,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/scarborough"
+      "urlPath": "/gyms/scarborough",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15066,
@@ -10001,7 +10476,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/sippy-downs"
+      "urlPath": "/gyms/sippy-downs",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15067,
@@ -10129,7 +10609,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/willetton-southlands"
+      "urlPath": "/gyms/willetton-southlands",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15068,
@@ -10178,7 +10663,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/spring-mountain"
+      "urlPath": "/gyms/spring-mountain",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15069,
@@ -10227,7 +10717,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/stirling"
+      "urlPath": "/gyms/stirling",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15070,
@@ -10348,7 +10843,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/st-leonards"
+      "urlPath": "/gyms/st-leonards",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15071,
@@ -10390,7 +10890,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/strathpine"
+      "urlPath": "/gyms/strathpine",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15072,
@@ -10501,7 +11006,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/sunnybank-hills"
+      "urlPath": "/gyms/sunnybank-hills",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15073,
@@ -10580,7 +11090,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/taigum"
+      "urlPath": "/gyms/taigum",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15074,
@@ -10622,7 +11137,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/taringa"
+      "urlPath": "/gyms/taringa",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15075,
@@ -10785,7 +11305,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/templestowe"
+      "urlPath": "/gyms/templestowe",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15076,
@@ -10914,7 +11439,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/grange"
+      "urlPath": "/gyms/grange",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15077,
@@ -11229,7 +11759,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/varsity-lakes"
+      "urlPath": "/gyms/varsity-lakes",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15078,
@@ -11339,7 +11874,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/victoria-park"
+      "urlPath": "/gyms/victoria-park",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15079,
@@ -11378,7 +11918,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/wallsend"
+      "urlPath": "/gyms/wallsend",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15080,
@@ -11420,7 +11965,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/wendouree"
+      "urlPath": "/gyms/wendouree",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15081,
@@ -11462,7 +12012,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/worongary"
+      "urlPath": "/gyms/worongary",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15082,
@@ -11504,7 +12059,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/wynnum"
+      "urlPath": "/gyms/wynnum",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 15083,
@@ -11685,7 +12245,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/yokine"
+      "urlPath": "/gyms/yokine",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 29017,
@@ -11798,7 +12363,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/beerwah"
+      "urlPath": "/gyms/beerwah",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 29079,
@@ -11924,7 +12494,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/toowoomba"
+      "urlPath": "/gyms/toowoomba",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 29143,
@@ -12281,7 +12856,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/dakabin"
+      "urlPath": "/gyms/dakabin",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 29144,
@@ -12415,7 +12995,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/thornlands"
+      "urlPath": "/gyms/thornlands",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 29145,
@@ -12531,7 +13116,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/mickleham"
+      "urlPath": "/gyms/mickleham",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 29162,
@@ -12786,7 +13376,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/berrinba"
+      "urlPath": "/gyms/berrinba",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 29441,
@@ -12842,7 +13437,8 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/northam"
+      "urlPath": "/gyms/northam",
+      "campaigns": []
     },
     {
       "id": 29808,
@@ -13004,7 +13600,12 @@
         },
         "locationType": "open"
       },
-      "urlPath": "/gyms/mt-duneed"
+      "urlPath": "/gyms/mt-duneed",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 34249,
@@ -13052,7 +13653,12 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/truganina"
+      "urlPath": "/gyms/truganina",
+      "campaigns": [
+        {
+          "id": 663
+        }
+      ]
     },
     {
       "id": 34250,
@@ -13111,7 +13717,8 @@
         ],
         "locationType": "comingsoon"
       },
-      "urlPath": "/gyms/kalamunda"
+      "urlPath": "/gyms/kalamunda",
+      "campaigns": []
     },
     {
       "id": 34261,
@@ -13163,9 +13770,17 @@
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "comingsoon"
       },
-      "urlPath": "/gyms/moorebank"
+      "urlPath": "/gyms/moorebank",
+      "campaigns": []
     },
     {
       "id": 35149,
@@ -13227,7 +13842,8 @@
         ],
         "locationType": "comingsoon"
       },
-      "urlPath": "/gyms/buderim"
+      "urlPath": "/gyms/buderim",
+      "campaigns": []
     },
     {
       "id": 35150,
@@ -13423,7 +14039,8 @@
         ],
         "locationType": "comingsoon"
       },
-      "urlPath": "/gyms/carseldine"
+      "urlPath": "/gyms/carseldine",
+      "campaigns": []
     }
   ],
   "total": 126
