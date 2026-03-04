@@ -10304,7 +10304,7 @@
           "city": "Scarborough",
           "state": "Western Australia",
           "postcode": "6019",
-          "phone": "08 9245 6282",
+          "phone": "08) 6255 8618",
           "facebookUrl": "https://www.facebook.com/JettsFitnessScarborough",
           "instagramUrl": "https://www.instagram.com/jettsscarboroughbeach/",
           "lat": "-31.893882320620108",
@@ -10330,6 +10330,13 @@
         "locGallery": {
           "items": []
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/scarborough",
