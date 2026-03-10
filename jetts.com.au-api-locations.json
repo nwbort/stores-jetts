@@ -6399,7 +6399,7 @@
           "city": "Kenmore",
           "state": "Queensland",
           "postcode": "4069",
-          "phone": "0738788459",
+          "phone": "0411699120",
           "facebookUrl": "https://www.facebook.com/jetts.kenmore?fref=ts",
           "instagramUrl": "https://www.instagram.com/jetts.kenmore/",
           "lat": "-27.508514496538627",
@@ -6511,6 +6511,13 @@
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/kenmore",
