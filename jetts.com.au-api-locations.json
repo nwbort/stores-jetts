@@ -13659,7 +13659,11 @@
         "locationType": "open"
       },
       "urlPath": "/gyms/truganina",
-      "campaigns": []
+      "campaigns": [
+        {
+          "id": 708
+        }
+      ]
     },
     {
       "id": 34250,
