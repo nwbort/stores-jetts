@@ -9529,21 +9529,27 @@
         },
         "locAmenities": {
           "locAmenities": [
-            "Cardio Equipment",
-            "Change Rooms",
-            "Dedicated Stretching Area",
-            "Free Weights",
-            "Free Wifi",
+            "24/7 Access",
+            "Newly Refurbished",
             "Functional Training Zone",
             "Personal Training",
+            "Free Parking",
+            "Free Weights",
             "Strength Equipment",
             "Stretching Area",
-            "Free Parking"
+            "Dedicated Stretching Area"
           ]
         },
         "locGallery": {
           "items": []
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/penshurst",
@@ -9590,40 +9596,103 @@
           "items": [
             {
               "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/958904cd-e6dd-4639-b404-8e4be34a5c93/leg-press-website.jpg?",
+                "url": "https://storage-prod.twotaps.io/uploads/images/616759f3-d892-42fc-9fb4-85830edadb08/Jetts-Peregian-21.jpg?cx=301.4&cy=0&cw=4712.19&ch=3543",
                 "type": "Image",
-                "width": 2856,
-                "height": 2142,
+                "cropX": 301.4,
+                "cropY": 0,
+                "width": 5315,
+                "height": 3543,
                 "altText": "Strength",
-                "fileName": "leg-press-website.jpg",
+                "fileName": "Jetts-Peregian-21.jpg",
                 "mimeType": "",
-                "sizeInBytes": 1289129
+                "cropWidth": 4712.19,
+                "cropHeight": 3543,
+                "sizeInBytes": 19207003
               },
               "videoUrl": ""
             },
             {
               "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/0eecc982-d710-42c1-a4af-6ff52ec7a1e3/cardio-website.jpg?",
+                "url": "https://storage-prod.twotaps.io/uploads/images/bb4caa5b-2cc1-47ed-be79-31ec22485575/Jetts-Peregian-25.jpg?cx=301.4&cy=0&cw=4712.19&ch=3543",
                 "type": "Image",
-                "width": 2856,
-                "height": 2142,
+                "cropX": 301.4,
+                "cropY": 0,
+                "width": 5315,
+                "height": 3543,
                 "altText": "Cardio",
-                "fileName": "cardio-website.jpg",
+                "fileName": "Jetts-Peregian-25.jpg",
                 "mimeType": "",
-                "sizeInBytes": 1072429
+                "cropWidth": 4712.19,
+                "cropHeight": 3543,
+                "sizeInBytes": 14770644
               },
               "videoUrl": ""
             },
             {
               "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/617d1916-57ad-4016-8862-c8faf22ed537/free-weights-website.jpg?",
+                "url": "https://storage-prod.twotaps.io/uploads/images/f424da5e-64b0-414e-a73e-14c884822ec9/Jetts-Peregian-17.jpg?cx=301.4&cy=0&cw=4712.19&ch=3543",
                 "type": "Image",
-                "width": 2016,
-                "height": 1512,
+                "cropX": 301.4,
+                "cropY": 0,
+                "width": 5315,
+                "height": 3543,
                 "altText": "free weights",
-                "fileName": "free-weights-website.jpg",
+                "fileName": "Jetts-Peregian-17.jpg",
                 "mimeType": "",
-                "sizeInBytes": 1578425
+                "cropWidth": 4712.19,
+                "cropHeight": 3543,
+                "sizeInBytes": 14124826
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/1c4e7f66-3c23-4f73-b7c1-9f92b98193cf/Jetts-Peregian-16.jpg?cx=301.4&cy=0&cw=4712.19&ch=3543",
+                "type": "Image",
+                "cropX": 301.4,
+                "cropY": 0,
+                "width": 5315,
+                "height": 3543,
+                "altText": "Pilates Reformer Room",
+                "fileName": "Jetts-Peregian-16.jpg",
+                "mimeType": "",
+                "cropWidth": 4712.19,
+                "cropHeight": 3543,
+                "sizeInBytes": 13973817
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/92c7db6b-4e62-425d-b59e-7ac40f80e342/Jetts-Peregian-13.jpg?cx=301.4&cy=0&cw=4712.19&ch=3543",
+                "type": "Image",
+                "cropX": 301.4,
+                "cropY": 0,
+                "width": 5315,
+                "height": 3543,
+                "altText": "Gym Floor",
+                "fileName": "Jetts-Peregian-13.jpg",
+                "mimeType": "",
+                "cropWidth": 4712.19,
+                "cropHeight": 3543,
+                "sizeInBytes": 19631734
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/8c84b330-c376-4292-b0b1-cce3bf542572/Jetts-Peregian-5.jpg?cx=301.4&cy=0&cw=4712.19&ch=3543",
+                "type": "Image",
+                "cropX": 301.4,
+                "cropY": 0,
+                "width": 5315,
+                "height": 3543,
+                "altText": "Recovery area with infraed sauna",
+                "fileName": "Jetts-Peregian-5.jpg",
+                "mimeType": "",
+                "cropWidth": 4712.19,
+                "cropHeight": 3543,
+                "sizeInBytes": 18231129
               },
               "videoUrl": ""
             }
@@ -13737,9 +13806,9 @@
           "city": "Moorebank",
           "state": "New South Wales",
           "postcode": "2170",
-          "phone": "",
-          "facebookUrl": "",
-          "instagramUrl": "",
+          "phone": "0451311311",
+          "facebookUrl": "https://www.facebook.com/jettsmoorebank/",
+          "instagramUrl": "https://www.instagram.com/jettsmoorebank",
           "lat": "-33.9330944",
           "lng": "150.9532913",
           "email": "moorebank@jetts.com.au",
@@ -13750,12 +13819,14 @@
           "locAmenities": [
             "Brand New Club",
             "24/7 Access",
-            "Functional Training Zone",
+            "Dedicated Reformer Studio",
             "Cardio and Strength Zones",
             "Personal Training",
             "Free Parking",
             "Free Wifi",
-            "Private Bathrooms"
+            "Private Bathrooms",
+            "Functional Training Zone",
+            "Jetts Vending Machine"
           ]
         },
         "locGallery": {
@@ -13782,10 +13853,14 @@
             "favoritePlan": "no"
           }
         ],
-        "locationType": "comingsoon"
+        "locationType": "open"
       },
       "urlPath": "/gyms/moorebank",
-      "campaigns": []
+      "campaigns": [
+        {
+          "id": 710
+        }
+      ]
     },
     {
       "id": 35149,
