@@ -1536,6 +1536,13 @@
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/blackburn-north",
@@ -4077,6 +4084,13 @@
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/coomera",
