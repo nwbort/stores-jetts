@@ -8261,7 +8261,7 @@
       "allowCrawling": null,
       "customProperties": {
         "locDetails": {
-          "address": "Shop 6, 165 Commercial Street",
+          "address": "Shop 6, 165 Commercial St",
           "city": "Mt Gambier",
           "state": "South Australia",
           "postcode": "5290",
@@ -8291,6 +8291,13 @@
         "locGallery": {
           "items": []
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/mt-gambier",
