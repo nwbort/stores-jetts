@@ -7132,23 +7132,6 @@
             },
             {
               "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/f1a737a7-806b-4459-8c4c-7ddbea7ca5a7/Untitled-design-2.png?cx=69.33&cy=0&cw=1880.62&ch=1414",
-                "type": "Image",
-                "cropX": 69.33,
-                "cropY": 0,
-                "width": 2000,
-                "height": 1414,
-                "altText": "person",
-                "fileName": "Untitled-design-2.png",
-                "mimeType": "",
-                "cropWidth": 1880.62,
-                "cropHeight": 1414,
-                "sizeInBytes": 117020
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
                 "url": "https://storage-prod.twotaps.io/uploads/images/c5e0aca5-298c-41ce-9f6c-342769b7c4c7/IMG5911.jpg?cx=5.04&cy=0&cw=4021.92&ch=3024",
                 "type": "Image",
                 "cropX": 5.04,
@@ -7163,9 +7146,29 @@
                 "sizeInBytes": 3896716
               },
               "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "",
+                "type": "Image",
+                "width": 0,
+                "height": 0,
+                "altText": "",
+                "fileName": "",
+                "mimeType": "",
+                "sizeInBytes": 0
+              },
+              "videoUrl": ""
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/lynbrook",
@@ -8261,7 +8264,7 @@
       "allowCrawling": null,
       "customProperties": {
         "locDetails": {
-          "address": "Shop 6, 165 Commercial St",
+          "address": "Shop 6, 165 Commercial Street",
           "city": "Mt Gambier",
           "state": "South Australia",
           "postcode": "5290",
@@ -11892,6 +11895,13 @@
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/varsity-lakes",
@@ -12007,6 +12017,13 @@
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/victoria-park",
