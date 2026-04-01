@@ -50,7 +50,7 @@
       "urlPath": "/gyms/hawthorn",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -300,7 +300,7 @@
       "urlPath": "/gyms/baringa",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -342,7 +342,7 @@
       "urlPath": "/gyms/ashmore",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -590,7 +590,7 @@
       "urlPath": "/gyms/applecross",
       "campaigns": [
         {
-          "id": 712
+          "id": 726
         }
       ]
     },
@@ -801,7 +801,7 @@
       "urlPath": "/gyms/aveley",
       "campaigns": [
         {
-          "id": 712
+          "id": 726
         }
       ]
     },
@@ -897,7 +897,11 @@
         "locationType": "open"
       },
       "urlPath": "/gyms/ballina",
-      "campaigns": []
+      "campaigns": [
+        {
+          "id": 726
+        }
+      ]
     },
     {
       "id": 14967,
@@ -1015,7 +1019,7 @@
       "urlPath": "/gyms/ashgrove",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -1128,7 +1132,7 @@
       "urlPath": "/gyms/bassendean",
       "campaigns": [
         {
-          "id": 712
+          "id": 726
         }
       ]
     },
@@ -1278,7 +1282,7 @@
       "urlPath": "/gyms/baldivis",
       "campaigns": [
         {
-          "id": 712
+          "id": 726
         }
       ]
     },
@@ -1321,7 +1325,7 @@
       "urlPath": "/gyms/berwick",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -1368,7 +1372,7 @@
       "urlPath": "/gyms/albany-creek",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -1559,7 +1563,7 @@
       "urlPath": "/gyms/blackburn-north",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -1731,7 +1735,7 @@
       "urlPath": "/gyms/beechboro",
       "campaigns": [
         {
-          "id": 712
+          "id": 726
         }
       ]
     },
@@ -1940,7 +1944,7 @@
       "urlPath": "/gyms/bli-bli",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -2000,7 +2004,7 @@
       "urlPath": "/gyms/bracken-ridge",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -2423,7 +2427,7 @@
       "urlPath": "/gyms/box-hill",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -2481,7 +2485,7 @@
       "urlPath": "/gyms/brisbane-airport",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -2528,7 +2532,7 @@
       "urlPath": "/gyms/bundaberg",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -2685,7 +2689,7 @@
       "urlPath": "/gyms/bundoora",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -2956,7 +2960,7 @@
       "urlPath": "/gyms/burpengary",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -3003,7 +3007,7 @@
       "urlPath": "/gyms/burleigh-heads",
       "campaigns": [
         {
-          "id": 711
+          "id": 705
         }
       ]
     },
@@ -3050,7 +3054,7 @@
       "urlPath": "/gyms/caloundra",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -3149,7 +3153,7 @@
       "urlPath": "/gyms/campsie",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -3355,7 +3359,7 @@
       "urlPath": "/gyms/canning-vale-south",
       "campaigns": [
         {
-          "id": 712
+          "id": 726
         }
       ]
     },
@@ -3402,7 +3406,7 @@
       "urlPath": "/gyms/capalaba",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -3456,7 +3460,7 @@
       "urlPath": "/gyms/canning-vale",
       "campaigns": [
         {
-          "id": 712
+          "id": 726
         }
       ]
     },
@@ -3502,7 +3506,7 @@
       "urlPath": "/gyms/chermside-west",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -3549,7 +3553,7 @@
       "urlPath": "/gyms/caroline-springs",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -3596,7 +3600,7 @@
       "urlPath": "/gyms/carrum-downs",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -3643,7 +3647,7 @@
       "urlPath": "/gyms/cobblebank",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -3691,7 +3695,7 @@
       "urlPath": "/gyms/coburg",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -3743,7 +3747,7 @@
       "urlPath": "/gyms/coburg-north",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -3898,7 +3902,7 @@
       "urlPath": "/gyms/cranbourne-west",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -4107,7 +4111,7 @@
       "urlPath": "/gyms/coomera",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -4154,7 +4158,7 @@
       "urlPath": "/gyms/elanora",
       "campaigns": [
         {
-          "id": 711
+          "id": 705
         }
       ]
     },
@@ -4201,7 +4205,7 @@
       "urlPath": "/gyms/ferny-grove",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -4317,7 +4321,7 @@
       "urlPath": "/gyms/dianella",
       "campaigns": [
         {
-          "id": 712
+          "id": 726
         }
       ]
     },
@@ -4364,7 +4368,7 @@
       "urlPath": "/gyms/doncaster-east",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -4417,7 +4421,7 @@
       "urlPath": "/gyms/coolum",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -4704,7 +4708,7 @@
       "urlPath": "/gyms/forest-glen",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -4844,7 +4848,7 @@
       "urlPath": "/gyms/forest-lakes",
       "campaigns": [
         {
-          "id": 712
+          "id": 726
         }
       ]
     },
@@ -5011,7 +5015,7 @@
       "urlPath": "/gyms/fortitude-valley",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -5065,7 +5069,7 @@
       "urlPath": "/gyms/geelong-west",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -5299,7 +5303,7 @@
       "urlPath": "/gyms/fremantle",
       "campaigns": [
         {
-          "id": 712
+          "id": 726
         }
       ]
     },
@@ -5500,7 +5504,7 @@
       "urlPath": "/gyms/greenslopes",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -5620,7 +5624,7 @@
       "urlPath": "/gyms/gumdale",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -5667,7 +5671,7 @@
       "urlPath": "/gyms/gympie",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -5790,7 +5794,7 @@
       "urlPath": "/gyms/grafton",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -5837,7 +5841,7 @@
       "urlPath": "/gyms/hamilton",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -5880,7 +5884,7 @@
       "urlPath": "/gyms/hallam",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -6064,7 +6068,7 @@
       "urlPath": "/gyms/harrisdale",
       "campaigns": [
         {
-          "id": 712
+          "id": 726
         }
       ]
     },
@@ -6217,7 +6221,7 @@
       "urlPath": "/gyms/hervey-bay",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -6329,7 +6333,7 @@
       "urlPath": "/gyms/helensvale",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -6383,7 +6387,7 @@
       "urlPath": "/gyms/hillarys",
       "campaigns": [
         {
-          "id": 712
+          "id": 726
         }
       ]
     },
@@ -6437,7 +6441,7 @@
       "urlPath": "/gyms/kawana",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -6577,7 +6581,7 @@
       "urlPath": "/gyms/kenmore",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -6641,7 +6645,7 @@
       "urlPath": "/gyms/kallangur",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -6688,7 +6692,7 @@
       "urlPath": "/gyms/langwarrin",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -6923,7 +6927,7 @@
       "urlPath": "/gyms/lutwyche",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -7055,7 +7059,7 @@
       "urlPath": "/gyms/lilydale",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -7174,7 +7178,7 @@
       "urlPath": "/gyms/lynbrook",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -7399,7 +7403,7 @@
       "urlPath": "/gyms/mango-hill",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -7549,7 +7553,7 @@
       "urlPath": "/gyms/maroochydore",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -7596,7 +7600,7 @@
       "urlPath": "/gyms/mermaid-beach",
       "campaigns": [
         {
-          "id": 711
+          "id": 705
         }
       ]
     },
@@ -7677,7 +7681,7 @@
       "urlPath": "/gyms/mitchelton",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -8144,7 +8148,7 @@
       "urlPath": "/gyms/mooloolaba",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -8191,7 +8195,7 @@
       "urlPath": "/gyms/mornington",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -8252,7 +8256,7 @@
       "urlPath": "/gyms/morningside",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -8306,7 +8310,7 @@
       "urlPath": "/gyms/mt-gambier",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -8524,7 +8528,7 @@
       "urlPath": "/gyms/mt-gravatt",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -8571,7 +8575,7 @@
       "urlPath": "/gyms/mt-warren-park",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -8618,7 +8622,7 @@
       "urlPath": "/gyms/mudgeeraba",
       "campaigns": [
         {
-          "id": 711
+          "id": 705
         }
       ]
     },
@@ -8665,7 +8669,7 @@
       "urlPath": "/gyms/murrumba-downs",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -8711,7 +8715,7 @@
       "urlPath": "/gyms/narangba",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -8758,7 +8762,7 @@
       "urlPath": "/gyms/nerang",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -8879,7 +8883,7 @@
       "urlPath": "/gyms/neutral-bay",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -9056,7 +9060,7 @@
       "urlPath": "/gyms/northmead",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -9286,7 +9290,7 @@
       "urlPath": "/gyms/nowra",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -9333,7 +9337,7 @@
       "urlPath": "/gyms/ocean-grove",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -9420,7 +9424,7 @@
       "urlPath": "/gyms/oconnor",
       "campaigns": [
         {
-          "id": 712
+          "id": 726
         }
       ]
     },
@@ -9472,7 +9476,7 @@
       "urlPath": "/gyms/pacific-pines",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -9519,7 +9523,7 @@
       "urlPath": "/gyms/pakenham",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -9566,7 +9570,7 @@
       "urlPath": "/gyms/palm-beach",
       "campaigns": [
         {
-          "id": 711
+          "id": 705
         }
       ]
     },
@@ -9619,7 +9623,7 @@
       "urlPath": "/gyms/penshurst",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -9937,7 +9941,7 @@
       "urlPath": "/gyms/pimpama",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -9984,7 +9988,7 @@
       "urlPath": "/gyms/point-cook",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -10117,7 +10121,7 @@
       "urlPath": "/gyms/preston",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -10164,7 +10168,7 @@
       "urlPath": "/gyms/redland-bay",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -10225,7 +10229,7 @@
       "urlPath": "/gyms/rivervale",
       "campaigns": [
         {
-          "id": 712
+          "id": 726
         }
       ]
     },
@@ -10272,7 +10276,7 @@
       "urlPath": "/gyms/robina",
       "campaigns": [
         {
-          "id": 711
+          "id": 705
         }
       ]
     },
@@ -10319,7 +10323,7 @@
       "urlPath": "/gyms/rosanna",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -10435,7 +10439,7 @@
       "urlPath": "/gyms/rockingham",
       "campaigns": [
         {
-          "id": 712
+          "id": 726
         }
       ]
     },
@@ -10489,7 +10493,7 @@
       "urlPath": "/gyms/scarborough",
       "campaigns": [
         {
-          "id": 712
+          "id": 726
         }
       ]
     },
@@ -10617,7 +10621,7 @@
       "urlPath": "/gyms/sippy-downs",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -10750,7 +10754,7 @@
       "urlPath": "/gyms/willetton-southlands",
       "campaigns": [
         {
-          "id": 712
+          "id": 726
         }
       ]
     },
@@ -10804,7 +10808,7 @@
       "urlPath": "/gyms/spring-mountain",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -10858,7 +10862,7 @@
       "urlPath": "/gyms/stirling",
       "campaigns": [
         {
-          "id": 712
+          "id": 726
         }
       ]
     },
@@ -10984,7 +10988,7 @@
       "urlPath": "/gyms/st-leonards",
       "campaigns": [
         {
-          "id": 717
+          "id": 726
         }
       ]
     },
@@ -11031,7 +11035,7 @@
       "urlPath": "/gyms/strathpine",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -11147,7 +11151,7 @@
       "urlPath": "/gyms/sunnybank-hills",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -11231,7 +11235,7 @@
       "urlPath": "/gyms/taigum",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -11278,7 +11282,7 @@
       "urlPath": "/gyms/taringa",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -11446,7 +11450,7 @@
       "urlPath": "/gyms/templestowe",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -11580,7 +11584,7 @@
       "urlPath": "/gyms/grange",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -11907,7 +11911,7 @@
       "urlPath": "/gyms/varsity-lakes",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -12029,7 +12033,7 @@
       "urlPath": "/gyms/victoria-park",
       "campaigns": [
         {
-          "id": 712
+          "id": 726
         }
       ]
     },
@@ -12073,7 +12077,7 @@
       "urlPath": "/gyms/wallsend",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -12120,7 +12124,7 @@
       "urlPath": "/gyms/wendouree",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -12167,7 +12171,7 @@
       "urlPath": "/gyms/worongary",
       "campaigns": [
         {
-          "id": 711
+          "id": 705
         }
       ]
     },
@@ -12214,7 +12218,7 @@
       "urlPath": "/gyms/wynnum",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -12400,7 +12404,7 @@
       "urlPath": "/gyms/yokine",
       "campaigns": [
         {
-          "id": 712
+          "id": 726
         }
       ]
     },
@@ -12518,7 +12522,7 @@
       "urlPath": "/gyms/beerwah",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -12647,11 +12651,7 @@
         "locationType": "open"
       },
       "urlPath": "/gyms/toowoomba",
-      "campaigns": [
-        {
-          "id": 711
-        }
-      ]
+      "campaigns": []
     },
     {
       "id": 29143,
@@ -13011,7 +13011,7 @@
       "urlPath": "/gyms/dakabin",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -13150,7 +13150,7 @@
       "urlPath": "/gyms/thornlands",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -13271,7 +13271,7 @@
       "urlPath": "/gyms/mickleham",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -13531,7 +13531,7 @@
       "urlPath": "/gyms/berrinba",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -13590,7 +13590,11 @@
         "locationType": "open"
       },
       "urlPath": "/gyms/northam",
-      "campaigns": []
+      "campaigns": [
+        {
+          "id": 726
+        }
+      ]
     },
     {
       "id": 29808,
@@ -13755,7 +13759,7 @@
       "urlPath": "/gyms/mt-duneed",
       "campaigns": [
         {
-          "id": 711
+          "id": 726
         }
       ]
     },
@@ -13808,7 +13812,7 @@
       "urlPath": "/gyms/truganina",
       "campaigns": [
         {
-          "id": 708
+          "id": 726
         }
       ]
     },
@@ -13936,7 +13940,7 @@
       "urlPath": "/gyms/moorebank",
       "campaigns": [
         {
-          "id": 710
+          "id": 740
         }
       ]
     },
@@ -14026,25 +14030,15 @@
         },
         "locAmenities": {
           "locAmenities": [
-            "Reformers",
             "Functional Training Zone",
             "Cardio and Strength Zones",
             "Personal Training",
             "Exercise Physiologist",
-            "Close to Public Transport",
             "Free Parking",
             "Free Wifi",
-            "Free Classes",
             "Fitness Classes",
-            "Recovery Zone",
-            "Free Cold Filtered Water",
-            "Jetts Vending Machine",
-            "Jetts Merchandise",
-            "Private Bathrooms",
-            "Brand New Club",
             "24/7 Access",
             "Recovery Boots",
-            "Massage Chairs",
             "Dedicated Reformer Studio"
           ]
         },
@@ -14195,10 +14189,14 @@
             "favoritePlan": "no"
           }
         ],
-        "locationType": "comingsoon"
+        "locationType": "open"
       },
       "urlPath": "/gyms/carseldine",
-      "campaigns": []
+      "campaigns": [
+        {
+          "id": 736
+        }
+      ]
     }
   ],
   "total": 126
