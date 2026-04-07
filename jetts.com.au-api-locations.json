@@ -9803,7 +9803,11 @@
         "locationType": "open"
       },
       "urlPath": "/gyms/peregian",
-      "campaigns": []
+      "campaigns": [
+        {
+          "id": 744
+        }
+      ]
     },
     {
       "id": 15055,
@@ -13590,11 +13594,7 @@
         "locationType": "open"
       },
       "urlPath": "/gyms/northam",
-      "campaigns": [
-        {
-          "id": 726
-        }
-      ]
+      "campaigns": []
     },
     {
       "id": 29808,
