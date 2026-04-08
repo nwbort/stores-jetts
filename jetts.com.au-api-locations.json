@@ -1320,6 +1320,13 @@
         "locGallery": {
           "items": []
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/berwick",
@@ -11991,35 +11998,52 @@
             },
             {
               "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/4599c47c-bd25-4dc1-92e5-76cbe49db571/Free.jpg?cx=244.56&cy=0&cw=2995.16&ch=2252",
+                "url": "https://storage-prod.twotaps.io/uploads/images/e4946dc3-ef95-45e5-a86f-1e92aef17d87/20260407173554.jpg?cx=5.1&cy=0&cw=4069.8&ch=3060",
                 "type": "Image",
-                "cropX": 244.56,
+                "cropX": 5.1,
                 "cropY": 0,
-                "width": 4000,
-                "height": 2252,
-                "altText": "person",
-                "fileName": "Free.jpg",
+                "width": 4080,
+                "height": 3060,
+                "altText": "View of cardio & pin loaded",
+                "fileName": "20260407173554.jpg",
                 "mimeType": "",
-                "cropWidth": 2995.16,
-                "cropHeight": 2252,
-                "sizeInBytes": 3121380
+                "cropWidth": 4069.8,
+                "cropHeight": 3060,
+                "sizeInBytes": 3306626
               },
               "videoUrl": ""
             },
             {
               "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/3418c2e1-212f-45e7-80b2-4a88a575514a/plate.jpg?cx=502.42&cy=0&cw=2995.16&ch=2252",
+                "url": "https://storage-prod.twotaps.io/uploads/images/86983da3-c543-4a2d-b767-e97164b494ba/20260407173520.jpg?cx=5.1&cy=0&cw=4069.8&ch=3060",
                 "type": "Image",
-                "cropX": 502.42,
+                "cropX": 5.1,
                 "cropY": 0,
-                "width": 4000,
-                "height": 2252,
-                "altText": "person",
-                "fileName": "plate.jpg",
+                "width": 4080,
+                "height": 3060,
+                "altText": "Functional area",
+                "fileName": "20260407173520.jpg",
                 "mimeType": "",
-                "cropWidth": 2995.16,
-                "cropHeight": 2252,
-                "sizeInBytes": 3312507
+                "cropWidth": 4069.8,
+                "cropHeight": 3060,
+                "sizeInBytes": 3414205
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/c0ca93a0-9ec2-4be9-a214-2cb66671e88b/20260407180618.jpg?cx=237.36&cy=178.47&cw=3832.44&ch=2881.53",
+                "type": "Image",
+                "cropX": 237.36,
+                "cropY": 178.47,
+                "width": 4080,
+                "height": 3060,
+                "altText": "Jetts road view",
+                "fileName": "20260407180618.jpg",
+                "mimeType": "",
+                "cropWidth": 3832.44,
+                "cropHeight": 2881.53,
+                "sizeInBytes": 3464132
               },
               "videoUrl": ""
             }
