@@ -8353,7 +8353,7 @@
             "Personal Training",
             "Jetts Vending Machine",
             "Free Parking",
-            "Recovery Zone"
+            "Massage Chairs"
           ]
         },
         "locGallery": {
@@ -8530,6 +8530,13 @@
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/mt-gravatt",
@@ -11288,6 +11295,13 @@
         "locGallery": {
           "items": []
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/taringa",
