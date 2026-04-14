@@ -1175,108 +1175,404 @@
           "items": [
             {
               "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/ed16c885-1eca-4ed5-aad1-95ec20f54d24/cardio.jpg?cx=0&cy=270.65&cw=1440&ch=1082.71",
+                "url": "https://storage-prod.twotaps.io/uploads/images/f4c416fe-1855-49dd-96f9-36676fe591e6/IMG0194.jpg?cx=85&cy=0&cw=1330&ch=1000",
                 "type": "Image",
-                "cropX": 0,
-                "cropY": 270.65,
-                "width": 1440,
-                "height": 1624,
-                "altText": "Cardio",
-                "fileName": "cardio.jpg",
+                "cropX": 85,
+                "cropY": 0,
+                "width": 1500,
+                "height": 1000,
+                "altText": "Deadlift Platforms",
+                "fileName": "IMG0194.jpg",
                 "mimeType": "",
-                "cropWidth": 1440,
-                "cropHeight": 1082.71,
-                "sizeInBytes": 302526
+                "cropWidth": 1330,
+                "cropHeight": 1000,
+                "sizeInBytes": 241287
               },
               "videoUrl": ""
             },
             {
               "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/a3364480-df8f-4b49-9e94-aa38a146092b/JSeries.jpg?cx=0&cy=254.08&cw=2048&ch=1539.85",
+                "url": "https://storage-prod.twotaps.io/uploads/images/03f6403b-8eba-4b58-9985-402c65efce66/IMG0211.jpg?cx=85&cy=0&cw=1330&ch=1000",
                 "type": "Image",
-                "cropX": 0,
-                "cropY": 254.08,
-                "width": 2048,
-                "height": 2048,
-                "altText": "Class",
-                "fileName": "JSeries.jpg",
+                "cropX": 85,
+                "cropY": 0,
+                "width": 1500,
+                "height": 1000,
+                "altText": "Half Racks",
+                "fileName": "IMG0211.jpg",
                 "mimeType": "",
-                "cropWidth": 2048,
-                "cropHeight": 1539.85,
-                "sizeInBytes": 1050723
+                "cropWidth": 1330,
+                "cropHeight": 1000,
+                "sizeInBytes": 235702
               },
               "videoUrl": ""
             },
             {
               "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/3a2819fa-0fde-47c6-a25e-06dc73b5da22/Sam.jpg?cx=0&cy=256.33&cw=2042&ch=1535.34",
+                "url": "https://storage-prod.twotaps.io/uploads/images/2c72c3e3-f31d-4480-81e6-79117b090647/IMG0234.jpg?cx=85&cy=0&cw=1330&ch=1000",
                 "type": "Image",
-                "cropX": 0,
-                "cropY": 256.33,
-                "width": 2042,
-                "height": 2048,
-                "altText": "Sam",
-                "fileName": "Sam.jpg",
+                "cropX": 85,
+                "cropY": 0,
+                "width": 1500,
+                "height": 1000,
+                "altText": "Cardio Equipment",
+                "fileName": "IMG0234.jpg",
                 "mimeType": "",
-                "cropWidth": 2042,
-                "cropHeight": 1535.34,
-                "sizeInBytes": 799441
+                "cropWidth": 1330,
+                "cropHeight": 1000,
+                "sizeInBytes": 246200
               },
               "videoUrl": ""
             },
             {
               "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/e68a9919-c82f-4d43-8f62-a214af248d23/fun.jpg?cx=0&cy=178.65&cw=1440&ch=1082.71",
+                "url": "https://storage-prod.twotaps.io/uploads/images/52f60011-08e5-4341-a547-8ae33f504b34/IMG0519.jpg?cx=0&cy=0&cw=1330&ch=1000",
                 "type": "Image",
                 "cropX": 0,
-                "cropY": 178.65,
-                "width": 1440,
-                "height": 1440,
-                "altText": "Fun",
-                "fileName": "fun.jpg",
+                "cropY": 0,
+                "width": 1500,
+                "height": 1000,
+                "altText": "Upper Pin Loaded 1",
+                "fileName": "IMG0519.jpg",
                 "mimeType": "",
-                "cropWidth": 1440,
-                "cropHeight": 1082.71,
-                "sizeInBytes": 274788
+                "cropWidth": 1330,
+                "cropHeight": 1000,
+                "sizeInBytes": 244537
               },
               "videoUrl": ""
             },
             {
               "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/19e6c056-5122-422f-9584-ceb8a73ae57e/Body-Scanner.jpg?cx=0&cy=197.15&cw=1440&ch=1082.71",
+                "url": "https://storage-prod.twotaps.io/uploads/images/71475d37-1ee8-4e41-9f05-4cebe8704ba6/IMG0376.jpg?cx=63.77&cy=0&cw=1330&ch=1000",
                 "type": "Image",
-                "cropX": 0,
-                "cropY": 197.15,
-                "width": 1440,
-                "height": 1477,
-                "altText": "Body Scan",
-                "fileName": "Body-Scanner.jpg",
+                "cropX": 63.77,
+                "cropY": 0,
+                "width": 1500,
+                "height": 1000,
+                "altText": "Hip Thrust Machine",
+                "fileName": "IMG0376.jpg",
                 "mimeType": "",
-                "cropWidth": 1440,
-                "cropHeight": 1082.71,
-                "sizeInBytes": 144478
+                "cropWidth": 1330,
+                "cropHeight": 1000,
+                "sizeInBytes": 357060
               },
               "videoUrl": ""
             },
             {
               "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/b4e04acf-fde3-49ef-ba37-bc5805234078/Class.jpg?cx=0&cy=224.03&cw=899&ch=675.94",
+                "url": "https://storage-prod.twotaps.io/uploads/images/73014c11-89bc-4f88-80ad-00f7047cd4cc/IMG0331.jpg?cx=89.72&cy=0&cw=1330&ch=1000",
+                "type": "Image",
+                "cropX": 89.72,
+                "cropY": 0,
+                "width": 1500,
+                "height": 1000,
+                "altText": "Tyla Club Manager",
+                "fileName": "IMG0331.jpg",
+                "mimeType": "",
+                "cropWidth": 1330,
+                "cropHeight": 1000,
+                "sizeInBytes": 177374
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/eb287ba9-ab9a-4a91-ab98-c6da4bcacb26/IMG0404.jpg?cx=85&cy=0&cw=1330&ch=1000",
+                "type": "Image",
+                "cropX": 85,
+                "cropY": 0,
+                "width": 1500,
+                "height": 1000,
+                "altText": "Functional Zone 1",
+                "fileName": "IMG0404.jpg",
+                "mimeType": "",
+                "cropWidth": 1330,
+                "cropHeight": 1000,
+                "sizeInBytes": 205437
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/0a9d8440-3818-44a2-b86f-0996adbb8a18/IMG0428.jpg?cx=85&cy=0&cw=1330&ch=1000",
+                "type": "Image",
+                "cropX": 85,
+                "cropY": 0,
+                "width": 1500,
+                "height": 1000,
+                "altText": "8 Stack Cable Machine",
+                "fileName": "IMG0428.jpg",
+                "mimeType": "",
+                "cropWidth": 1330,
+                "cropHeight": 1000,
+                "sizeInBytes": 264509
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/2b26fd43-2b93-4600-a3f9-2fbf466a6b95/IMG0443.jpg?cx=85&cy=0&cw=1330&ch=1000",
+                "type": "Image",
+                "cropX": 85,
+                "cropY": 0,
+                "width": 1500,
+                "height": 1000,
+                "altText": "Leg Press Machine",
+                "fileName": "IMG0443.jpg",
+                "mimeType": "",
+                "cropWidth": 1330,
+                "cropHeight": 1000,
+                "sizeInBytes": 254160
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/7328367a-8a92-4b1a-af84-0efccf494eda/IMG0514.jpg?cx=85&cy=0&cw=1330&ch=1000",
+                "type": "Image",
+                "cropX": 85,
+                "cropY": 0,
+                "width": 1500,
+                "height": 1000,
+                "altText": "Cardio Equipment 2",
+                "fileName": "IMG0514.jpg",
+                "mimeType": "",
+                "cropWidth": 1330,
+                "cropHeight": 1000,
+                "sizeInBytes": 234336
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/9bd83972-3551-4190-b4df-a8e22c0ccb89/IMG0448.jpg?cx=0&cy=488.19&cw=1000&ch=751.88",
                 "type": "Image",
                 "cropX": 0,
-                "cropY": 224.03,
-                "width": 899,
-                "height": 1124,
-                "altText": "Fun 2",
-                "fileName": "Class.jpg",
+                "cropY": 488.19,
+                "width": 1000,
+                "height": 1500,
+                "altText": "Lower Pin Loaded 1",
+                "fileName": "IMG0448.jpg",
                 "mimeType": "",
-                "cropWidth": 899,
-                "cropHeight": 675.94,
-                "sizeInBytes": 118713
+                "cropWidth": 1000,
+                "cropHeight": 751.88,
+                "sizeInBytes": 260525
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/da24c0a0-ecec-44f4-96e4-c98533575389/IMG0451.jpg?cx=85&cy=0&cw=1330&ch=1000",
+                "type": "Image",
+                "cropX": 85,
+                "cropY": 0,
+                "width": 1500,
+                "height": 1000,
+                "altText": "Pin Loaded 2",
+                "fileName": "IMG0451.jpg",
+                "mimeType": "",
+                "cropWidth": 1330,
+                "cropHeight": 1000,
+                "sizeInBytes": 256687
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/3d31334e-e421-49b8-9ec2-6fd3359cf450/IMG6060.jpeg?cx=280.2&cy=0&cw=1755.6&ch=1320",
+                "type": "Image",
+                "cropX": 280.2,
+                "cropY": 0,
+                "width": 2316,
+                "height": 1320,
+                "altText": "Jetts Baldivis Team 2026",
+                "fileName": "IMG6060.jpeg",
+                "mimeType": "",
+                "cropWidth": 1755.6,
+                "cropHeight": 1320,
+                "sizeInBytes": 424994
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/50052e07-9dcc-47c9-b587-128752024df8/IMG0266.jpg?cx=85&cy=0&cw=1330&ch=1000",
+                "type": "Image",
+                "cropX": 85,
+                "cropY": 0,
+                "width": 1500,
+                "height": 1000,
+                "altText": "Entrance 1",
+                "fileName": "IMG0266.jpg",
+                "mimeType": "",
+                "cropWidth": 1330,
+                "cropHeight": 1000,
+                "sizeInBytes": 220043
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/ad0462d7-41f2-4641-994a-fbff9f86cdaa/IMG0247.jpg?cx=85&cy=0&cw=1330&ch=1000",
+                "type": "Image",
+                "cropX": 85,
+                "cropY": 0,
+                "width": 1500,
+                "height": 1000,
+                "altText": "Battle Rope 2",
+                "fileName": "IMG0247.jpg",
+                "mimeType": "",
+                "cropWidth": 1330,
+                "cropHeight": 1000,
+                "sizeInBytes": 312631
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/eee99e1a-614a-444f-a7e4-6d7b7e10364e/IMG0216.jpg?cx=85&cy=0&cw=1330&ch=1000",
+                "type": "Image",
+                "cropX": 85,
+                "cropY": 0,
+                "width": 1500,
+                "height": 1000,
+                "altText": "Functional Zone 2",
+                "fileName": "IMG0216.jpg",
+                "mimeType": "",
+                "cropWidth": 1330,
+                "cropHeight": 1000,
+                "sizeInBytes": 238980
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/2986aadb-c246-4234-91d9-b0bcafe5350c/IMG3582.jpeg?cx=223.51&cy=203.79&cw=3035.84&ch=2282.58",
+                "type": "Image",
+                "cropX": 223.51,
+                "cropY": 203.79,
+                "width": 4032,
+                "height": 3024,
+                "altText": "Jetts Baldivis Building",
+                "fileName": "IMG3582.jpeg",
+                "mimeType": "",
+                "cropWidth": 3035.84,
+                "cropHeight": 2282.58,
+                "sizeInBytes": 1638205
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/27009d5f-7713-45fd-8cb4-c51a274f0466/IMG0254.jpg?cx=0&cy=0&cw=1330&ch=1000",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 0,
+                "width": 1500,
+                "height": 1000,
+                "altText": "Functional Zone 3",
+                "fileName": "IMG0254.jpg",
+                "mimeType": "",
+                "cropWidth": 1330,
+                "cropHeight": 1000,
+                "sizeInBytes": 227133
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/a2d75ee1-584c-48c8-86d0-c1fb9ccade13/IMG0496.jpg?cx=0&cy=0&cw=1160.19&ch=872.32",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 0,
+                "width": 1500,
+                "height": 1000,
+                "altText": "8 Cable Stack 2",
+                "fileName": "IMG0496.jpg",
+                "mimeType": "",
+                "cropWidth": 1160.19,
+                "cropHeight": 872.32,
+                "sizeInBytes": 244635
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/40ca9d55-0a57-4777-8241-699fcbfee807/IMG0223.jpg?cx=170&cy=0&cw=1330&ch=1000",
+                "type": "Image",
+                "cropX": 170,
+                "cropY": 0,
+                "width": 1500,
+                "height": 1000,
+                "altText": "Dumbbells",
+                "fileName": "IMG0223.jpg",
+                "mimeType": "",
+                "cropWidth": 1330,
+                "cropHeight": 1000,
+                "sizeInBytes": 271730
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/5178312c-1267-4be7-91f9-7483685bc8ff/IMG4486.jpeg?cx=0&cy=578.05&cw=1320&ch=992.48",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 578.05,
+                "width": 1320,
+                "height": 2226,
+                "altText": "Perth Expro",
+                "fileName": "IMG4486.jpeg",
+                "mimeType": "",
+                "cropWidth": 1320,
+                "cropHeight": 992.48,
+                "sizeInBytes": 3164149
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/27f69b4f-8545-4b25-8341-44dd568f4d99/IMG0271.jpg?cx=85&cy=0&cw=1330&ch=1000",
+                "type": "Image",
+                "cropX": 85,
+                "cropY": 0,
+                "width": 1500,
+                "height": 1000,
+                "altText": "Cardio Screens",
+                "fileName": "IMG0271.jpg",
+                "mimeType": "",
+                "cropWidth": 1330,
+                "cropHeight": 1000,
+                "sizeInBytes": 157556
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/5dae1c73-5c6c-4fc3-b30f-99e013d7bb04/IMG0241.jpg?cx=170&cy=0&cw=1330&ch=1000",
+                "type": "Image",
+                "cropX": 170,
+                "cropY": 0,
+                "width": 1500,
+                "height": 1000,
+                "altText": "Battle Rope 1",
+                "fileName": "IMG0241.jpg",
+                "mimeType": "",
+                "cropWidth": 1330,
+                "cropHeight": 1000,
+                "sizeInBytes": 237594
               },
               "videoUrl": ""
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/baldivis",
@@ -13836,7 +14132,21 @@
           ]
         },
         "locGallery": {
-          "items": []
+          "items": [
+            {
+              "image": {
+                "url": "",
+                "type": "Image",
+                "width": 0,
+                "height": 0,
+                "altText": "",
+                "fileName": "",
+                "mimeType": "",
+                "sizeInBytes": 0
+              },
+              "videoUrl": "https://youtube.com/shorts/VQGn-JQkjro?si=uodhoPd5y5rmooPs"
+            }
+          ]
         },
         "planDescriptions": [
           {
