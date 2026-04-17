@@ -14132,29 +14132,9 @@
           ]
         },
         "locGallery": {
-          "items": [
-            {
-              "image": {
-                "url": "",
-                "type": "Image",
-                "width": 0,
-                "height": 0,
-                "altText": "",
-                "fileName": "",
-                "mimeType": "",
-                "sizeInBytes": 0
-              },
-              "videoUrl": "https://youtube.com/shorts/VQGn-JQkjro?si=uodhoPd5y5rmooPs"
-            }
-          ]
+          "items": []
         },
-        "planDescriptions": [
-          {
-            "planTitleMatch": "",
-            "inclusions": [],
-            "favoritePlan": "no"
-          }
-        ],
+        "planDescriptions": [],
         "locationType": "open"
       },
       "urlPath": "/gyms/truganina",
