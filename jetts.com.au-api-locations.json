@@ -10498,7 +10498,7 @@
           "city": "Rivervale",
           "state": "Western Australia",
           "postcode": "6103",
-          "phone": "08 9361 6317",
+          "phone": "08 6234 8075",
           "facebookUrl": "https://www.facebook.com/jettsrivervale",
           "instagramUrl": "https://www.instagram.com/jetts_rivervale/",
           "lat": "-31.955769767695177",
@@ -10538,6 +10538,13 @@
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/rivervale",
