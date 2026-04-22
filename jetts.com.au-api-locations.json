@@ -14532,7 +14532,73 @@
           "id": 736
         }
       ]
+    },
+    {
+      "id": 37290,
+      "name": "Joyner",
+      "metaTitle": null,
+      "metaDescription": null,
+      "allowCrawling": null,
+      "customProperties": {
+        "locDetails": {
+          "address": "27-31 Youngs Crossing Road",
+          "city": "Joyner",
+          "state": "Queensland",
+          "postcode": "4500",
+          "phone": "0416 543 132",
+          "facebookUrl": "https://www.facebook.com/jettsjoyner",
+          "instagramUrl": "https://www.instagram.com/jettsjoyner",
+          "lat": "-27.28338",
+          "lng": "152.95055",
+          "email": "joyner@jetts.com.au",
+          "glofoxBranchId": "69d5647815a44e017507812c",
+          "gymsalesId": ""
+        },
+        "locAmenities": {
+          "locAmenities": [
+            "Brand New Club",
+            "24/7 Access",
+            "Cardio and Strength Zones",
+            "Recovery Zone",
+            "Free Parking",
+            "Functional Training Zone",
+            "Close to Public Transport",
+            "Personal Training"
+          ]
+        },
+        "locGallery": {
+          "items": [
+            {
+              "image": {
+                "url": "",
+                "type": "Image",
+                "width": 0,
+                "height": 0,
+                "altText": "",
+                "fileName": "",
+                "mimeType": "",
+                "sizeInBytes": 0
+              },
+              "videoUrl": ""
+            }
+          ]
+        },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
+        "locationType": "comingsoon"
+      },
+      "urlPath": "/gyms/joyner",
+      "campaigns": [
+        {
+          "id": 726
+        }
+      ]
     }
   ],
-  "total": 126
+  "total": 127
 }
