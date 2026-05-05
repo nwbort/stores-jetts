@@ -899,7 +899,7 @@
       "urlPath": "/gyms/ballina",
       "campaigns": [
         {
-          "id": 755
+          "id": 752
         }
       ]
     },
@@ -6955,6 +6955,13 @@
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/kallangur",
@@ -12891,6 +12898,13 @@
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/beerwah",
