@@ -4694,7 +4694,7 @@
           "city": "Coolum",
           "state": "Queensland",
           "postcode": "4573",
-          "phone": "0437 643 119",
+          "phone": "0436 938 354",
           "facebookUrl": "https://www.facebook.com/JettsCoolum/?fref=ts",
           "instagramUrl": "https://www.instagram.com/jettscoolum/",
           "lat": "-26.536788815761287",
@@ -14388,10 +14388,14 @@
             "favoritePlan": "no"
           }
         ],
-        "locationType": "comingsoon"
+        "locationType": "open"
       },
       "urlPath": "/gyms/buderim",
-      "campaigns": []
+      "campaigns": [
+        {
+          "id": 773
+        }
+      ]
     },
     {
       "id": 35150,
