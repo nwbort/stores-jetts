@@ -14662,7 +14662,40 @@
       },
       "urlPath": "/gyms/joyner",
       "campaigns": []
+    },
+    {
+      "id": 39368,
+      "name": "Clyde North",
+      "metaTitle": null,
+      "metaDescription": null,
+      "allowCrawling": null,
+      "customProperties": {
+        "locDetails": {
+          "address": "Tenancy 1, 216 Alexander Bvd",
+          "city": "Clyde North",
+          "state": "Victoria",
+          "postcode": "3978",
+          "phone": "0408803369",
+          "facebookUrl": "https://www.facebook.com/jettsclydenorth",
+          "instagramUrl": "https://www.instagram.com/jettsclydenorth",
+          "lat": "-38.10675",
+          "lng": "145.38750",
+          "email": "clydenorth@jetts.com.au",
+          "glofoxBranchId": "6a0539255b058f3b9f0bd32f",
+          "gymsalesId": "28851"
+        },
+        "locAmenities": {
+          "locAmenities": []
+        },
+        "locGallery": {
+          "items": []
+        },
+        "planDescriptions": [],
+        "locationType": "comingsoon"
+      },
+      "urlPath": "/gyms/clyde-north",
+      "campaigns": []
     }
   ],
-  "total": 127
+  "total": 128
 }
