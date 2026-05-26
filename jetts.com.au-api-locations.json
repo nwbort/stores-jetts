@@ -3966,6 +3966,13 @@
         "locGallery": {
           "items": []
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/cobblebank",
@@ -9443,13 +9450,15 @@
             "24/7 Access",
             "Cardio and Strength Zones",
             "Exercise Physiologist",
-            "Free Cold Filtered Water",
-            "Jetts Vending Machine",
+            "Personal Training",
+            "Free Classes",
             "Private Bathrooms",
             "Free Parking",
             "Functional Training Zone",
-            "Personal Training",
-            "Free Workout of the Day (WOD)"
+            "Jetts Vending Machine",
+            "Free Workout of the Day (WOD)",
+            "Free Cold Filtered Water",
+            "Body Scans"
           ]
         },
         "locGallery": {
@@ -14389,14 +14398,103 @@
           "items": [
             {
               "image": {
-                "url": "",
+                "url": "https://storage-prod.twotaps.io/uploads/images/bdd2668f-06d7-4bbd-b9a9-8e41b48a147d/9.jpg?cx=355.81&cy=0&cw=5567.38&ch=4186",
                 "type": "Image",
-                "width": 0,
-                "height": 0,
-                "altText": "",
-                "fileName": "",
+                "cropX": 355.81,
+                "cropY": 0,
+                "width": 6279,
+                "height": 4186,
+                "altText": "Functional Area",
+                "fileName": "9.jpg",
                 "mimeType": "",
-                "sizeInBytes": 0
+                "cropWidth": 5567.38,
+                "cropHeight": 4186,
+                "sizeInBytes": 14369471
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/734cf9e7-ed00-4a17-a07d-417e77b82a7c/7.jpg?cx=0&cy=1123.88&cw=4513&ch=3393.23",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1123.88,
+                "width": 4513,
+                "height": 5641,
+                "altText": "Chest Pres ",
+                "fileName": "7.jpg",
+                "mimeType": "",
+                "cropWidth": 4513,
+                "cropHeight": 3393.23,
+                "sizeInBytes": 12797240
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/19d18240-4df8-4c6e-a529-8f7bed470d6d/6.jpg?cx=0&cy=1163.61&cw=4672&ch=3512.78",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1163.61,
+                "width": 4672,
+                "height": 5840,
+                "altText": "Dumbbells",
+                "fileName": "6.jpg",
+                "mimeType": "",
+                "cropWidth": 4672,
+                "cropHeight": 3512.78,
+                "sizeInBytes": 12587823
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/25da9c32-e508-4cb7-bacf-6bd05a61ba28/5.jpg?cx=0&cy=1117.03&cw=4486&ch=3372.93",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1117.03,
+                "width": 4486,
+                "height": 5607,
+                "altText": "Racks",
+                "fileName": "5.jpg",
+                "mimeType": "",
+                "cropWidth": 4486,
+                "cropHeight": 3372.93,
+                "sizeInBytes": 15513987
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/9c3685ac-27ae-4614-a466-4f0b30d948e8/2.jpg?cx=0&cy=1102.59&cw=4426&ch=3327.82",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1102.59,
+                "width": 4426,
+                "height": 5533,
+                "altText": "Sign",
+                "fileName": "2.jpg",
+                "mimeType": "",
+                "cropWidth": 4426,
+                "cropHeight": 3327.82,
+                "sizeInBytes": 19156870
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/351a9139-2016-47b8-a45b-85cc414d13fb/10.jpg?cx=397.12&cy=0&cw=6213.76&ch=4672",
+                "type": "Image",
+                "cropX": 397.12,
+                "cropY": 0,
+                "width": 7008,
+                "height": 4672,
+                "altText": "Main",
+                "fileName": "10.jpg",
+                "mimeType": "",
+                "cropWidth": 6213.76,
+                "cropHeight": 4672,
+                "sizeInBytes": 21576787
               },
               "videoUrl": ""
             }
