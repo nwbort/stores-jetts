@@ -10008,7 +10008,7 @@
       "allowCrawling": null,
       "customProperties": {
         "locDetails": {
-          "address": "Peregian Springs Shopping Centre, Shop 14/16/1 Ridgeview Drive",
+          "address": "T2, Peregian Springs Shopping Centre 1 Ridgeview Drive",
           "city": "Peregian Springs",
           "state": "Queensland",
           "postcode": "4573",
@@ -10025,12 +10025,17 @@
           "locAmenities": [
             "24/7 Access",
             "Fitness Classes",
+            "Dedicated Reformer Studio",
             "Cardio and Strength Zones",
-            "Functional Training Zone",
             "Personal Training",
             "Exercise Physiologist",
             "Free Wifi",
-            "Free Parking"
+            "Free Parking",
+            "Functional Training Zone",
+            "Recovery Zone",
+            "Infrared Sauna",
+            "Massage Chairs",
+            "Recovery Boots"
           ]
         },
         "locGallery": {
