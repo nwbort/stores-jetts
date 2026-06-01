@@ -9365,6 +9365,13 @@
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/noosa",
@@ -10882,7 +10889,7 @@
       "urlPath": "/gyms/scarborough",
       "campaigns": [
         {
-          "id": 777
+          "id": 775
         }
       ]
     },
