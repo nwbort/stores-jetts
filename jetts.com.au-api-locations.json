@@ -2284,16 +2284,189 @@
             "24/7 Access",
             "Functional Training Zone",
             "Cardio and Strength Zones",
+            "Free Classes",
             "Personal Training",
-            "Exercise Physiologist",
-            "Free Parking",
+            "Body Scans",
             "Free Wifi",
+            "Free Parking",
+            "Newly Refurbished",
             "Private Bathrooms",
-            "Free Workout of the Day (WOD)"
+            "Free Workout of the Day (WOD)",
+            "Jetts Vending Machine"
           ]
         },
         "locGallery": {
           "items": [
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/cefb616f-8dfa-46d3-b688-72b9dd41fdac/ClevelandMarket-080.jpg?cx=63.93&cy=0&cw=1815.45&ch=1365",
+                "type": "Image",
+                "cropX": 63.93,
+                "cropY": 0,
+                "width": 2048,
+                "height": 1365,
+                "altText": "Dumbbells",
+                "fileName": "ClevelandMarket-080.jpg",
+                "mimeType": "",
+                "cropWidth": 1815.45,
+                "cropHeight": 1365,
+                "sizeInBytes": 970874
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/afe5c35e-23c9-4eb8-a2c2-ae2ded83731f/ClevelandMarket-159.jpg?cx=116.27&cy=0&cw=1815.45&ch=1365",
+                "type": "Image",
+                "cropX": 116.27,
+                "cropY": 0,
+                "width": 2048,
+                "height": 1365,
+                "altText": "Team pic",
+                "fileName": "ClevelandMarket-159.jpg",
+                "mimeType": "",
+                "cropWidth": 1815.45,
+                "cropHeight": 1365,
+                "sizeInBytes": 672286
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/5c761467-e702-4858-871b-5e9af910f0bf/ClevelandMarket-078.jpg?cx=0&cy=473.25&cw=1465&ch=1101.5",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 473.25,
+                "width": 1465,
+                "height": 2048,
+                "altText": "Jetts logo",
+                "fileName": "ClevelandMarket-078.jpg",
+                "mimeType": "",
+                "cropWidth": 1465,
+                "cropHeight": 1101.5,
+                "sizeInBytes": 396532
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/bd7390de-9222-4419-945a-028a7de97770/ClevelandMarket-096.jpg?cx=116.27&cy=0&cw=1815.45&ch=1365",
+                "type": "Image",
+                "cropX": 116.27,
+                "cropY": 0,
+                "width": 2048,
+                "height": 1365,
+                "altText": "Maxx, Ash and Rach",
+                "fileName": "ClevelandMarket-096.jpg",
+                "mimeType": "",
+                "cropWidth": 1815.45,
+                "cropHeight": 1365,
+                "sizeInBytes": 677737
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/ab0e77b9-9676-439b-b03b-1356c0825230/ClevelandMarket-101.jpg?cx=116.27&cy=0&cw=1815.45&ch=1365",
+                "type": "Image",
+                "cropX": 116.27,
+                "cropY": 0,
+                "width": 2048,
+                "height": 1365,
+                "altText": "Opening",
+                "fileName": "ClevelandMarket-101.jpg",
+                "mimeType": "",
+                "cropWidth": 1815.45,
+                "cropHeight": 1365,
+                "sizeInBytes": 652956
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/9fb21703-a561-4d67-9ac4-83b2c074013e/IMG6707.jpeg?cx=0&cy=879.16&cw=3024&ch=2273.68",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 879.16,
+                "width": 3024,
+                "height": 4032,
+                "altText": "class",
+                "fileName": "IMG6707.jpeg",
+                "mimeType": "",
+                "cropWidth": 3024,
+                "cropHeight": 2273.68,
+                "sizeInBytes": 2715885
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/390a5718-7e95-4362-b4ee-fa6be85d1668/IMG6344.jpeg?cx=5.04&cy=0&cw=4021.92&ch=3024",
+                "type": "Image",
+                "cropX": 5.04,
+                "cropY": 0,
+                "width": 4032,
+                "height": 3024,
+                "altText": "cardio",
+                "fileName": "IMG6344.jpeg",
+                "mimeType": "",
+                "cropWidth": 4021.92,
+                "cropHeight": 3024,
+                "sizeInBytes": 2073855
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/7ff8d691-cf88-4b84-a548-adf602ae435d/ClevelandMarket-111.JPEG?cx=0&cy=452.77&cw=1365&ch=1026.32",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 452.77,
+                "width": 1365,
+                "height": 2048,
+                "altText": "rhys and martine",
+                "fileName": "ClevelandMarket-111.JPEG",
+                "mimeType": "",
+                "cropWidth": 1365,
+                "cropHeight": 1026.32,
+                "sizeInBytes": 491482
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/8fb6ca6c-755a-4970-90c2-17f6269a000e/IMG6491.jpeg?cx=0&cy=879.16&cw=3024&ch=2273.68",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 879.16,
+                "width": 3024,
+                "height": 4032,
+                "altText": "maxx and craig",
+                "fileName": "IMG6491.jpeg",
+                "mimeType": "",
+                "cropWidth": 3024,
+                "cropHeight": 2273.68,
+                "sizeInBytes": 4515561
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/972ec688-17a6-4d13-b4e5-e3020435c7b6/IMG6534.jpeg?cx=0&cy=879.16&cw=3024&ch=2273.68",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 879.16,
+                "width": 3024,
+                "height": 4032,
+                "altText": "deadlift platform",
+                "fileName": "IMG6534.jpeg",
+                "mimeType": "",
+                "cropWidth": 3024,
+                "cropHeight": 2273.68,
+                "sizeInBytes": 4650539
+              },
+              "videoUrl": ""
+            },
             {
               "image": {
                 "url": "",
@@ -2309,6 +2482,13 @@
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/bracken-ridge",
@@ -2870,8 +3050,8 @@
         "locAmenities": {
           "locAmenities": [
             "Strength Equipment",
-            "Fitness Classes",
-            "Personal Training",
+            "Access to Fitness Classes",
+            "Access to Personal Training",
             "Change Rooms",
             "Free Weights",
             "Free Wifi",
