@@ -4043,7 +4043,7 @@
           "city": "Caroline Springs",
           "state": "Victoria",
           "postcode": "3023",
-          "phone": "0499 250 410",
+          "phone": "0485 550 067",
           "facebookUrl": "https://www.facebook.com/jettscarolinesprings/?fref=ts",
           "instagramUrl": "https://www.instagram.com/jetts.carolinesprings/",
           "lat": "-37.7108223493013",
@@ -4069,6 +4069,13 @@
         "locGallery": {
           "items": []
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/caroline-springs",
