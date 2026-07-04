@@ -9822,18 +9822,18 @@
             },
             {
               "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/73047eb5-1ed3-484b-8160-7d12ef1416e7/20250215083909.jpg?cx=0&cy=548.12&cw=2252&ch=1693.23",
+                "url": "https://storage-prod.twotaps.io/uploads/images/9edb862b-c1c5-4def-be4a-c88adc0cea5c/Screenshot-2026-07-04-113601.png?cx=32.25&cy=0&cw=868.49&ch=653",
                 "type": "Image",
-                "cropX": 0,
-                "cropY": 548.12,
-                "width": 2252,
-                "height": 4000,
-                "altText": "Community Fundraising",
-                "fileName": "20250215083909.jpg",
+                "cropX": 32.25,
+                "cropY": 0,
+                "width": 933,
+                "height": 653,
+                "altText": "Group Classes",
+                "fileName": "Screenshot-2026-07-04-113601.png",
                 "mimeType": "",
-                "cropWidth": 2252,
-                "cropHeight": 1693.23,
-                "sizeInBytes": 2386502
+                "cropWidth": 868.49,
+                "cropHeight": 653,
+                "sizeInBytes": 900620
               },
               "videoUrl": ""
             },
@@ -9953,6 +9953,40 @@
                 "cropWidth": 4432.89,
                 "cropHeight": 3333,
                 "sizeInBytes": 5242360
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/73047eb5-1ed3-484b-8160-7d12ef1416e7/20250215083909.jpg?cx=0&cy=548.12&cw=2252&ch=1693.23",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 548.12,
+                "width": 2252,
+                "height": 4000,
+                "altText": "Community Fundraising",
+                "fileName": "20250215083909.jpg",
+                "mimeType": "",
+                "cropWidth": 2252,
+                "cropHeight": 1693.23,
+                "sizeInBytes": 2386502
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/08be9da9-559f-418c-a8cc-9f876c29fd34/Screenshot-2026-07-04-113642.png?cx=14.57&cy=26.34&cw=805.73&ch=605.81",
+                "type": "Image",
+                "cropX": 14.57,
+                "cropY": 26.34,
+                "width": 895,
+                "height": 654,
+                "altText": "Group Classes",
+                "fileName": "Screenshot-2026-07-04-113642.png",
+                "mimeType": "",
+                "cropWidth": 805.73,
+                "cropHeight": 605.81,
+                "sizeInBytes": 970611
               },
               "videoUrl": ""
             }
