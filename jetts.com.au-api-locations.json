@@ -6149,6 +6149,13 @@
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/greenslopes",
@@ -11008,20 +11015,26 @@
         "locAmenities": {
           "locAmenities": [
             "24/7 Access",
-            "Recovery Zone",
+            "Recovery Zone*",
             "Cardio and Strength Zones",
-            "Infrared Sauna",
+            "Infrared Sauna*",
             "Functional Training Zone",
-            "Massage Chairs",
             "Personal Training",
-            "Stretching Area",
-            "Strength Equipment",
+            "Fitness Classes",
+            "Private Bathrooms",
             "Free Parking"
           ]
         },
         "locGallery": {
           "items": []
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/robina",
@@ -13223,7 +13236,8 @@
             "Free Cold Filtered Water",
             "Free Technique Masterclass",
             "Free Workout of the Day (WOD)",
-            "Free Classes"
+            "Free Classes",
+            "Fitness Classes"
           ]
         },
         "locGallery": {
@@ -15157,7 +15171,7 @@
           "city": "Clyde North",
           "state": "Victoria",
           "postcode": "3978",
-          "phone": "0408803369",
+          "phone": "0403563605",
           "facebookUrl": "https://www.facebook.com/jettsclydenorth",
           "instagramUrl": "https://www.instagram.com/jettsclydenorth",
           "lat": "-38.10675",
@@ -15167,12 +15181,30 @@
           "gymsalesId": "28851"
         },
         "locAmenities": {
-          "locAmenities": []
+          "locAmenities": [
+            "Brand New Club",
+            "24/7 Access",
+            "Free Parking",
+            "Cardio and Strength Zones",
+            "Private Bathrooms",
+            "Body Scans",
+            "Personal Training",
+            "Free Wifi",
+            "Jetts Vending Machine"
+          ]
         },
         "locGallery": {
           "items": []
         },
-        "planDescriptions": [],
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [
+              ""
+            ],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "comingsoon"
       },
       "urlPath": "/gyms/clyde-north",
