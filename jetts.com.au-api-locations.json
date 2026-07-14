@@ -2073,19 +2073,18 @@
         "locAmenities": {
           "locAmenities": [
             "24/7 Access",
+            "Personal Training",
             "Exercise Physiologist",
-            "Cardio and Strength Zones",
             "Free Classes",
             "Free Wifi",
             "Functional Training Zone",
-            "Personal Training",
+            "Cardio and Strength Zones",
             "Private Bathrooms",
             "Free Workout of the Day (WOD)",
             "Free Parking",
             "Close to Public Transport",
             "Recovery Zone",
             "Free Cold Filtered Water",
-            "Newly Refurbished",
             "Fitness Classes"
           ]
         },
@@ -9575,7 +9574,7 @@
       "urlPath": "/gyms/neutral-bay",
       "campaigns": [
         {
-          "id": 800
+          "id": 816
         }
       ]
     },
@@ -11295,11 +11294,16 @@
             "Personal Training",
             "Exercise Physiologist",
             "Cardio and Strength Zones",
-            "Free Parking",
-            "Fitness Classes",
-            "Free Classes",
             "Private Bathrooms",
-            "Functional Training Zone"
+            "Free Workout of the Day (WOD)",
+            "Free Parking",
+            "Close to Public Transport",
+            "Free Cold Filtered Water",
+            "Fitness Classes",
+            "Free Wifi",
+            "Free Classes",
+            "Functional Training Zone",
+            "Access to Fitness Classes"
           ]
         },
         "locGallery": {
