@@ -2319,23 +2319,6 @@
           "items": [
             {
               "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/cefb616f-8dfa-46d3-b688-72b9dd41fdac/ClevelandMarket-080.jpg?cx=63.93&cy=0&cw=1815.45&ch=1365",
-                "type": "Image",
-                "cropX": 63.93,
-                "cropY": 0,
-                "width": 2048,
-                "height": 1365,
-                "altText": "Dumbbells",
-                "fileName": "ClevelandMarket-080.jpg",
-                "mimeType": "",
-                "cropWidth": 1815.45,
-                "cropHeight": 1365,
-                "sizeInBytes": 970874
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
                 "url": "https://storage-prod.twotaps.io/uploads/images/afe5c35e-23c9-4eb8-a2c2-ae2ded83731f/ClevelandMarket-159.jpg?cx=116.27&cy=0&cw=1815.45&ch=1365",
                 "type": "Image",
                 "cropX": 116.27,
@@ -2365,23 +2348,6 @@
                 "cropWidth": 1465,
                 "cropHeight": 1101.5,
                 "sizeInBytes": 396532
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/bd7390de-9222-4419-945a-028a7de97770/ClevelandMarket-096.jpg?cx=116.27&cy=0&cw=1815.45&ch=1365",
-                "type": "Image",
-                "cropX": 116.27,
-                "cropY": 0,
-                "width": 2048,
-                "height": 1365,
-                "altText": "Maxx, Ash and Rach",
-                "fileName": "ClevelandMarket-096.jpg",
-                "mimeType": "",
-                "cropWidth": 1815.45,
-                "cropHeight": 1365,
-                "sizeInBytes": 677737
               },
               "videoUrl": ""
             },
@@ -2489,14 +2455,18 @@
             },
             {
               "image": {
-                "url": "",
+                "url": "https://storage-prod.twotaps.io/uploads/images/add611bb-a012-4b2d-9033-2a5e417deffc/ClevelandMarket-088.jpg?cx=0&cy=507.21&cw=1365&ch=1026.32",
                 "type": "Image",
-                "width": 0,
-                "height": 0,
-                "altText": "",
-                "fileName": "",
+                "cropX": 0,
+                "cropY": 507.21,
+                "width": 1365,
+                "height": 2048,
+                "altText": "opening",
+                "fileName": "ClevelandMarket-088.jpg",
                 "mimeType": "",
-                "sizeInBytes": 0
+                "cropWidth": 1365,
+                "cropHeight": 1026.32,
+                "sizeInBytes": 872066
               },
               "videoUrl": ""
             }
@@ -15235,7 +15205,40 @@
       },
       "urlPath": "/gyms/clyde-north",
       "campaigns": []
+    },
+    {
+      "id": 40591,
+      "name": "Toronto",
+      "metaTitle": null,
+      "metaDescription": null,
+      "allowCrawling": null,
+      "customProperties": {
+        "locDetails": {
+          "address": "41 The Boulevarde",
+          "city": "Toronto",
+          "state": "New South Wales",
+          "postcode": "2283",
+          "phone": "",
+          "facebookUrl": "https://www.facebook.com/jettstoronto",
+          "instagramUrl": "https://www.instagram.com/jettstoronto/",
+          "lat": "-33.0131348413629",
+          "lng": "151.5959776256129",
+          "email": "toronto@jetts.com.au",
+          "glofoxBranchId": "6a611b9b471d7d1dc20c36b8",
+          "gymsalesId": ""
+        },
+        "locAmenities": {
+          "locAmenities": []
+        },
+        "locGallery": {
+          "items": []
+        },
+        "planDescriptions": [],
+        "locationType": ""
+      },
+      "urlPath": "/gyms/toronto",
+      "campaigns": []
     }
   ],
-  "total": 128
+  "total": 129
 }
