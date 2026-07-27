@@ -9558,7 +9558,7 @@
       "urlPath": "/gyms/neutral-bay",
       "campaigns": [
         {
-          "id": 825
+          "id": 828
         }
       ]
     },
@@ -12859,7 +12859,7 @@
       "urlPath": "/gyms/wallsend",
       "campaigns": [
         {
-          "id": 825
+          "id": 828
         }
       ]
     },
@@ -15183,9 +15183,10 @@
             "Free Parking",
             "Cardio and Strength Zones",
             "Private Bathrooms",
-            "Body Scans",
             "Personal Training",
             "Free Wifi",
+            "Access to Fitness Classes",
+            "Close to Public Transport",
             "Jetts Vending Machine"
           ]
         },
