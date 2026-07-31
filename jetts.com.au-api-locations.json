@@ -15279,7 +15279,51 @@
       },
       "urlPath": "/gyms/toronto",
       "campaigns": []
+    },
+    {
+      "id": 40680,
+      "name": "Pelican Waters",
+      "metaTitle": null,
+      "metaDescription": null,
+      "allowCrawling": null,
+      "customProperties": {
+        "locDetails": {
+          "address": "1 The Basin",
+          "city": "Pelican Waters",
+          "state": "Queensland",
+          "postcode": "4551",
+          "phone": "0403 633 528",
+          "facebookUrl": "",
+          "instagramUrl": "",
+          "lat": "-26.834341266978164",
+          "lng": "153.10708788231244",
+          "email": "pelicanwaters@jetts.com.au",
+          "glofoxBranchId": "66ce6657bb60c254a50b9993",
+          "gymsalesId": "33074"
+        },
+        "locAmenities": {
+          "locAmenities": [
+            "Brand New Club",
+            "24/7 Access",
+            "Cardio and Strength Zones",
+            "Dedicated Reformer Studio",
+            "Free Parking",
+            "Recovery Zone",
+            "Functional Training Zone",
+            "Access to Personal Training",
+            "Access to Exercise Physiologist",
+            "Access to Fitness Classes"
+          ]
+        },
+        "locGallery": {
+          "items": []
+        },
+        "planDescriptions": [],
+        "locationType": ""
+      },
+      "urlPath": "/gyms/pelican-waters",
+      "campaigns": []
     }
   ],
-  "total": 129
+  "total": 130
 }
