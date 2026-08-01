@@ -1619,12 +1619,15 @@
         },
         "locAmenities": {
           "locAmenities": [
-            "24/7 Access",
+            "Newly Refurbished",
+            "Reformers",
+            "Free Classes",
             "Personal Training",
+            "Private Bathrooms",
+            "Cardio and Strength Zones",
             "Free Wifi",
             "Free Parking",
-            "Private Bathrooms",
-            "Cardio and Strength Zones"
+            "24/7 Access"
           ]
         },
         "locGallery": {
@@ -9569,11 +9572,7 @@
         "locationType": "open"
       },
       "urlPath": "/gyms/neutral-bay",
-      "campaigns": [
-        {
-          "id": 828
-        }
-      ]
+      "campaigns": []
     },
     {
       "id": 15044,
@@ -12870,11 +12869,7 @@
         "locationType": "open"
       },
       "urlPath": "/gyms/wallsend",
-      "campaigns": [
-        {
-          "id": 828
-        }
-      ]
+      "campaigns": []
     },
     {
       "id": 15080,
