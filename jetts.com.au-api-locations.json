@@ -1643,11 +1643,7 @@
         "locationType": "open"
       },
       "urlPath": "/gyms/berwick",
-      "campaigns": [
-        {
-          "id": 802
-        }
-      ]
+      "campaigns": []
     },
     {
       "id": 14971,
@@ -4224,7 +4220,7 @@
       "urlPath": "/gyms/carrum-downs",
       "campaigns": [
         {
-          "id": 802
+          "id": 825
         }
       ]
     },
@@ -9572,7 +9568,11 @@
         "locationType": "open"
       },
       "urlPath": "/gyms/neutral-bay",
-      "campaigns": []
+      "campaigns": [
+        {
+          "id": 825
+        }
+      ]
     },
     {
       "id": 15044,
@@ -15254,14 +15254,14 @@
           "city": "Toronto",
           "state": "New South Wales",
           "postcode": "2283",
-          "phone": "",
+          "phone": "0419 508 988",
           "facebookUrl": "https://www.facebook.com/jettstoronto",
           "instagramUrl": "https://www.instagram.com/jettstoronto/",
           "lat": "-33.0131348413629",
           "lng": "151.5959776256129",
           "email": "toronto@jetts.com.au",
           "glofoxBranchId": "6a611b9b471d7d1dc20c36b8",
-          "gymsalesId": ""
+          "gymsalesId": "33206"
         },
         "locAmenities": {
           "locAmenities": []
