@@ -64,7 +64,7 @@
       "urlPath": "/gyms/hawthorn",
       "campaigns": [
         {
-          "id": 757
+          "id": 825
         }
       ]
     },
@@ -599,6 +599,13 @@
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/applecross",
@@ -15270,7 +15277,7 @@
           "items": []
         },
         "planDescriptions": [],
-        "locationType": ""
+        "locationType": "comingsoon"
       },
       "urlPath": "/gyms/toronto",
       "campaigns": []
@@ -15314,7 +15321,7 @@
           "items": []
         },
         "planDescriptions": [],
-        "locationType": ""
+        "locationType": "comingsoon"
       },
       "urlPath": "/gyms/pelican-waters",
       "campaigns": []
