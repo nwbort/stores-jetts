@@ -1650,7 +1650,11 @@
         "locationType": "open"
       },
       "urlPath": "/gyms/berwick",
-      "campaigns": []
+      "campaigns": [
+        {
+          "id": 842
+        }
+      ]
     },
     {
       "id": 14971,
@@ -5169,35 +5173,18 @@
             },
             {
               "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/4ddbd547-406a-4311-9a0e-3770e7165425/Untitled-design-71.png?cx=0&cy=0&cw=893.34&ch=671.69",
+                "url": "https://storage-prod.twotaps.io/uploads/images/3133378d-860f-47e4-8f87-56d86238e8ae/Profile-Bd-Presentation.jpg?cx=147.61&cy=0&cw=1436.4&ch=1080",
                 "type": "Image",
-                "cropX": 0,
+                "cropX": 147.61,
                 "cropY": 0,
-                "width": 940,
-                "height": 788,
-                "altText": "1 on 1 Coaching ",
-                "fileName": "Untitled-design-71.png",
+                "width": 1920,
+                "height": 1080,
+                "altText": "Promotional graphic for Brad Dwyer, Club Manager and Coach, includes qualifications, contact information, photos of him coaching clients, and the Jetts Fitness logo.",
+                "fileName": "Profile-Bd-Presentation.jpg",
                 "mimeType": "",
-                "cropWidth": 893.34,
-                "cropHeight": 671.69,
-                "sizeInBytes": 427781
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/1c90626c-1eb5-45a4-9f4b-0b3d18129cf9/33B1181D-4DE7-4FC8-973D-05924360F161.JPG?cx=77.32&cy=0&cw=839.23&ch=631",
-                "type": "Image",
-                "cropX": 77.32,
-                "cropY": 0,
-                "width": 1075,
-                "height": 692,
-                "altText": "Brad Coach + Club Manager ",
-                "fileName": "33B1181D-4DE7-4FC8-973D-05924360F161.JPG",
-                "mimeType": "",
-                "cropWidth": 839.23,
-                "cropHeight": 631,
-                "sizeInBytes": 240533
+                "cropWidth": 1436.4,
+                "cropHeight": 1080,
+                "sizeInBytes": 363583
               },
               "videoUrl": ""
             },
@@ -5254,18 +5241,18 @@
             },
             {
               "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/5300a449-e940-41c6-a91c-32e0880796b2/Profile-Bd-Presentation-1.jpg?cx=241.8&cy=0&cw=1436.4&ch=1080",
+                "url": "https://storage-prod.twotaps.io/uploads/images/b192be80-f02c-44a9-9baa-1b4a3fa9689e/Profile-Bd-Presentation-1.png?cx=104.14&cy=0&cw=1436.4&ch=1080",
                 "type": "Image",
-                "cropX": 241.8,
+                "cropX": 104.14,
                 "cropY": 0,
                 "width": 1920,
                 "height": 1080,
-                "altText": "PT Oscar ",
-                "fileName": "Profile-Bd-Presentation-1.jpg",
+                "altText": "Promotional profile for Oscar Evans, club assistant and coach, with a bio, contact details, qualifications, and photos of fitness coaching and sports activities. Jetts Fitness logo displayed.",
+                "fileName": "Profile-Bd-Presentation-1.png",
                 "mimeType": "",
                 "cropWidth": 1436.4,
                 "cropHeight": 1080,
-                "sizeInBytes": 399983
+                "sizeInBytes": 1401296
               },
               "videoUrl": ""
             },
@@ -5305,14 +5292,35 @@
             },
             {
               "image": {
-                "url": "",
+                "url": "https://storage-prod.twotaps.io/uploads/images/b31a293a-5cb8-4f0e-8f2d-b829c8319107/matrix-screen-referral-offer-August-2026-Presentation.png?cx=241.8&cy=0&cw=1436.4&ch=1080",
                 "type": "Image",
-                "width": 0,
-                "height": 0,
-                "altText": "",
-                "fileName": "",
+                "cropX": 241.8,
+                "cropY": 0,
+                "width": 1920,
+                "height": 1080,
+                "altText": "Gym promotion banner showing two people talking, with text offering a chance to win a three-month membership worth $300. Includes a QR code and Jetts Fitness Freedom logo.",
+                "fileName": "matrix-screen-referral-offer-August-2026-Presentation.png",
                 "mimeType": "",
-                "sizeInBytes": 0
+                "cropWidth": 1436.4,
+                "cropHeight": 1080,
+                "sizeInBytes": 4259698
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/afc08e32-6f47-474c-9812-2aafde5b0bca/Screenshot.jpg?cx=46.89&cy=0&cw=714.21&ch=537",
+                "type": "Image",
+                "cropX": 46.89,
+                "cropY": 0,
+                "width": 808,
+                "height": 537,
+                "altText": "Woman with curly hair wearing a black tank top smiles in a gym, exercise equipment visible in the background.",
+                "fileName": "Screenshot.jpg",
+                "mimeType": "",
+                "cropWidth": 714.21,
+                "cropHeight": 537,
+                "sizeInBytes": 72327
               },
               "videoUrl": ""
             }
@@ -5322,9 +5330,9 @@
           {
             "planTitleMatch": "Member Referral Incentives",
             "inclusions": [
-              ""
+              "Refer a member during August and go into the draw to win 3 months membership - $300 value"
             ],
-            "favoritePlan": "no"
+            "favoritePlan": "yes"
           },
           {
             "planTitleMatch": "",
