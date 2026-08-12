@@ -12912,7 +12912,7 @@
           "state": "Victoria",
           "postcode": "3355",
           "phone": "03 4336 9197",
-          "facebookUrl": "https://www.facebook.com/jettswendouree?fref=ts",
+          "facebookUrl": "https://www.facebook.com/jettsfitnesswendouree",
           "instagramUrl": "https://www.instagram.com/Jettswendouree/",
           "lat": "-37.541818338120905",
           "lng": "143.84231014745887",
@@ -12937,6 +12937,13 @@
         "locGallery": {
           "items": []
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/wendouree",
