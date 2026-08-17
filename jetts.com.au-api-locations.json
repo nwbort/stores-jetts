@@ -1658,7 +1658,7 @@
       "urlPath": "/gyms/berwick",
       "campaigns": [
         {
-          "id": 842
+          "id": 825
         }
       ]
     },
@@ -7080,7 +7080,7 @@
     },
     {
       "id": 15016,
-      "name": "Kawana",
+      "name": "Birtinya",
       "metaTitle": null,
       "metaDescription": null,
       "allowCrawling": null,
@@ -7091,7 +7091,7 @@
           "state": "Queensland",
           "postcode": "4575",
           "phone": "0434472649",
-          "facebookUrl": "https://www.facebook.com/JettsFitnessKawana",
+          "facebookUrl": "https://www.facebook.com/jettsbirtinya",
           "instagramUrl": "https://www.instagram.com/jettskawana/",
           "lat": "-26.736442034360582",
           "lng": "153.12078998793191",
@@ -7125,7 +7125,7 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/kawana",
+      "urlPath": "/gyms/birtinya",
       "campaigns": [
         {
           "id": 825
@@ -13252,6 +13252,13 @@
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/yokine",
@@ -15273,12 +15280,15 @@
             "24/7 Access",
             "Free Parking",
             "Cardio and Strength Zones",
-            "Private Bathrooms",
+            "Functional Training Zone",
+            "Recovery Zone",
+            "Massage Chairs",
+            "Reformers",
             "Personal Training",
-            "Free Wifi",
-            "Access to Fitness Classes",
+            "Private Bathrooms",
+            "Jetts Vending Machine",
             "Close to Public Transport",
-            "Jetts Vending Machine"
+            "Free Wifi"
           ]
         },
         "locGallery": {
