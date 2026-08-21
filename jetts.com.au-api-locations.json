@@ -12881,46 +12881,6 @@
       ]
     },
     {
-      "id": 15079,
-      "name": "Wallsend",
-      "metaTitle": null,
-      "metaDescription": null,
-      "allowCrawling": null,
-      "customProperties": {
-        "locDetails": {
-          "address": "Wallsend Village, 11C/24 Kokera Street",
-          "city": "Wallsend",
-          "state": "New South Wales",
-          "postcode": "2287",
-          "phone": "0423 808 583",
-          "facebookUrl": "https://www.facebook.com/jettswallsend?fref=ts",
-          "instagramUrl": "https://www.instagram.com/jettswallsend/",
-          "lat": "-32.9032410198801",
-          "lng": "151.66794112889102",
-          "email": "wallsend@jetts.com.au",
-          "glofoxBranchId": "66cebbac87cd9293e00c6ee8",
-          "gymsalesId": "10960"
-        },
-        "locAmenities": {
-          "locAmenities": [
-            "24/7 Access",
-            "Cardio and Strength Zones",
-            "Personal Training",
-            "Fitness Classes",
-            "Functional Training Zone",
-            "Free Technique Masterclass",
-            "Free Workout of the Day (WOD)"
-          ]
-        },
-        "locGallery": {
-          "items": []
-        },
-        "locationType": "open"
-      },
-      "urlPath": "/gyms/wallsend",
-      "campaigns": []
-    },
-    {
       "id": 15080,
       "name": "Wendouree",
       "metaTitle": null,
@@ -15386,5 +15346,5 @@
       "campaigns": []
     }
   ],
-  "total": 130
+  "total": 129
 }
