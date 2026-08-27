@@ -15261,7 +15261,110 @@
           ]
         },
         "locGallery": {
-          "items": []
+          "items": [
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/624c7fe4-41b6-499b-991b-4e0786b78b50/1000050773.jpeg?cx=0&cy=0.5&cw=1600&ch=1203.01",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 0.5,
+                "width": 1600,
+                "height": 1204,
+                "altText": "Modern gym interior featuring multiple weightlifting stations, barbells with weights, racks, and large windows allowing natural light to fill the spacious area.",
+                "fileName": "1000050773.jpeg",
+                "mimeType": "",
+                "cropWidth": 1600,
+                "cropHeight": 1203.01,
+                "sizeInBytes": 505177
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/22d61355-d098-4abe-acb7-d189843f1e9a/1000050770.jpeg?cx=0&cy=0.5&cw=1600&ch=1203.01",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 0.5,
+                "width": 1600,
+                "height": 1204,
+                "altText": "Modern gym interior featuring free weights, benches, a large wall mirror, and neatly organized exercise equipment on a clean, spacious floor.",
+                "fileName": "1000050770.jpeg",
+                "mimeType": "",
+                "cropWidth": 1600,
+                "cropHeight": 1203.01,
+                "sizeInBytes": 388585
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/8ccfe679-f61e-4afc-96cd-3509b2840612/1000050779.jpeg?cx=0&cy=0.5&cw=1600&ch=1203.01",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 0.5,
+                "width": 1600,
+                "height": 1204,
+                "altText": "Row of treadmills and stationary bikes in a spacious, brightly lit gym with large windows.",
+                "fileName": "1000050779.jpeg",
+                "mimeType": "",
+                "cropWidth": 1600,
+                "cropHeight": 1203.01,
+                "sizeInBytes": 390782
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/d13a80a4-1860-4f99-b300-fa096a810720/1000050778.jpeg?cx=0&cy=0.5&cw=1600&ch=1203.01",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 0.5,
+                "width": 1600,
+                "height": 1204,
+                "altText": "Modern gym interior with strength equipment, rowing machines, and a motivational wall mural reading 'Stronger Than Yesterday.'",
+                "fileName": "1000050778.jpeg",
+                "mimeType": "",
+                "cropWidth": 1600,
+                "cropHeight": 1203.01,
+                "sizeInBytes": 369495
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/c1e178d4-818a-4e5a-bf16-e822cd975433/1000050776.jpeg?cx=0&cy=347.37&cw=1204&ch=905.26",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 347.37,
+                "width": 1204,
+                "height": 1600,
+                "altText": "Modern fitness studio with two Pilates reformer machines, wood flooring, an exercise ball, arched mirrors, and a circular light fixture on the ceiling.",
+                "fileName": "1000050776.jpeg",
+                "mimeType": "",
+                "cropWidth": 1204,
+                "cropHeight": 905.26,
+                "sizeInBytes": 232119
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/1707fa59-80ae-48b9-8a9a-cb6d3dc1e672/1000050774.jpeg?cx=0&cy=0.5&cw=1600&ch=1203.01",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 0.5,
+                "width": 1600,
+                "height": 1204,
+                "altText": "Modern gym area with three weightlifting platforms, racks holding colorful weight plates, and a set of barbells on the left. Large windows let in natural light.",
+                "fileName": "1000050774.jpeg",
+                "mimeType": "",
+                "cropWidth": 1600,
+                "cropHeight": 1203.01,
+                "sizeInBytes": 367345
+              },
+              "videoUrl": ""
+            }
+          ]
         },
         "planDescriptions": [
           {
