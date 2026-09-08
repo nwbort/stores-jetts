@@ -15484,17 +15484,27 @@
           "city": "Toronto",
           "state": "New South Wales",
           "postcode": "2283",
-          "phone": "0419 508 988",
+          "phone": "0403 639 035",
           "facebookUrl": "https://www.facebook.com/jettstoronto",
           "instagramUrl": "https://www.instagram.com/jettstoronto/",
           "lat": "-33.0131348413629",
           "lng": "151.5959776256129",
           "email": "toronto@jetts.com.au",
           "glofoxBranchId": "6a611b9b471d7d1dc20c36b8",
-          "gymsalesId": "33206"
+          "gymsalesId": "33206",
+          "displayName": ""
         },
         "locAmenities": {
-          "locAmenities": []
+          "locAmenities": [
+            "Brand New Club",
+            "24/7 Access",
+            "Cardio and Strength Zones",
+            "Functional Training Zone",
+            "Private Bathrooms",
+            "Free Parking",
+            "Free Wifi",
+            "Jetts Vending Machine"
+          ]
         },
         "locGallery": {
           "items": []
