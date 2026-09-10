@@ -1662,13 +1662,14 @@
           "locAmenities": [
             "Newly Refurbished",
             "Reformers",
-            "Free Classes",
             "Personal Training",
             "Private Bathrooms",
             "Cardio and Strength Zones",
             "Free Wifi",
             "Free Parking",
-            "24/7 Access"
+            "24/7 Access",
+            "Functional Training Zone",
+            "Fitness Classes*"
           ]
         },
         "locGallery": {
@@ -4401,12 +4402,13 @@
           "postcode": "3058",
           "phone": "0450 892 355",
           "facebookUrl": "https://www.facebook.com/JettsCoburgNorth/",
-          "instagramUrl": "https://www.instagram.com/jettscoburgnorth/",
+          "instagramUrl": "https://www.instagram.com/jetts_coburgnorth/",
           "lat": "-37.729642536905416",
           "lng": "144.9836069999699",
           "email": "coburgnorth@jetts.com.au",
           "glofoxBranchId": "66ce7d678167dffa7609ac4a",
-          "gymsalesId": "4779"
+          "gymsalesId": "4779",
+          "displayName": ""
         },
         "locAmenities": {
           "locAmenities": [
