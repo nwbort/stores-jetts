@@ -5345,23 +5345,6 @@
             },
             {
               "image": {
-                "url": "https://storage-prod.twotaps.io/uploads/images/b31a293a-5cb8-4f0e-8f2d-b829c8319107/matrix-screen-referral-offer-August-2026-Presentation.png?cx=241.8&cy=0&cw=1436.4&ch=1080",
-                "type": "Image",
-                "cropX": 241.8,
-                "cropY": 0,
-                "width": 1920,
-                "height": 1080,
-                "altText": "Gym promotion banner showing two people talking, with text offering a chance to win a three-month membership worth $300. Includes a QR code and Jetts Fitness Freedom logo.",
-                "fileName": "matrix-screen-referral-offer-August-2026-Presentation.png",
-                "mimeType": "",
-                "cropWidth": 1436.4,
-                "cropHeight": 1080,
-                "sizeInBytes": 4259698
-              },
-              "videoUrl": ""
-            },
-            {
-              "image": {
                 "url": "https://storage-prod.twotaps.io/uploads/images/afc08e32-6f47-474c-9812-2aafde5b0bca/Screenshot.jpg?cx=46.89&cy=0&cw=714.21&ch=537",
                 "type": "Image",
                 "cropX": 46.89,
@@ -5374,6 +5357,23 @@
                 "cropWidth": 714.21,
                 "cropHeight": 537,
                 "sizeInBytes": 72327
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/8333fb1f-c6e9-44b2-bbbb-82d73744bad7/WIN-3-months-membership-Instagram-Story-1.jpg?cx=0&cy=0&cw=1021.44&ch=768",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 0,
+                "width": 1366,
+                "height": 768,
+                "altText": "Two women posing and smiling at a gym, with text promoting a referral offer from Jetts Fitness for four free weeks.",
+                "fileName": "WIN-3-months-membership-Instagram-Story-1.jpg",
+                "mimeType": "",
+                "cropWidth": 1021.44,
+                "cropHeight": 768,
+                "sizeInBytes": 227585
               },
               "videoUrl": ""
             }
