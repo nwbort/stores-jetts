@@ -4277,11 +4277,10 @@
         },
         "locAmenities": {
           "locAmenities": [
-            "Cardio Equipment",
-            "Change Rooms",
-            "Dedicated Stretching Area",
+            "Newly Refurbished",
+            "24/7 Access",
+            "Cardio and Strength Zones",
             "Free Weights",
-            "Free Wifi",
             "Functional Training Zone",
             "Personal Training",
             "Strength Equipment",
@@ -4290,8 +4289,118 @@
           ]
         },
         "locGallery": {
-          "items": []
+          "items": [
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/b02c0713-da97-4121-8868-3655c9c5b6d3/001A6143-1.jpg?cx=310.08&cy=0&cw=4851.84&ch=3648",
+                "type": "Image",
+                "cropX": 310.08,
+                "cropY": 0,
+                "width": 5472,
+                "height": 3648,
+                "altText": "Modern gym interior with rows of dumbbells, benches, weight machines, large mirrors, and a motivational 'Stronger Than Yesterday' quote on the wall.",
+                "fileName": "001A6143-1.jpg",
+                "mimeType": "",
+                "cropWidth": 4851.84,
+                "cropHeight": 3648,
+                "sizeInBytes": 9682442
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/5c5ed9cc-5561-4bc4-a258-cefab1b29988/001A6176-2.jpg?cx=310.08&cy=0&cw=4851.84&ch=3648",
+                "type": "Image",
+                "cropX": 310.08,
+                "cropY": 0,
+                "width": 5472,
+                "height": 3648,
+                "altText": "Modern gym interior with various exercise equipment, weight machines, benches, and treadmills. Brightly lit room with large windows and clean, organized workout space.",
+                "fileName": "001A6176-2.jpg",
+                "mimeType": "",
+                "cropWidth": 4851.84,
+                "cropHeight": 3648,
+                "sizeInBytes": 11034335
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/090e8860-f823-4ccb-a58d-b17adec83557/001A6218-2.jpg?cx=310.08&cy=0&cw=4851.84&ch=3648",
+                "type": "Image",
+                "cropX": 310.08,
+                "cropY": 0,
+                "width": 5472,
+                "height": 3648,
+                "altText": "Modern gym interior with weight racks, barbells, kettlebells, and various fitness equipment arranged near large windows providing natural light.",
+                "fileName": "001A6218-2.jpg",
+                "mimeType": "",
+                "cropWidth": 4851.84,
+                "cropHeight": 3648,
+                "sizeInBytes": 10760384
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/c74951ac-ccff-41c2-bd5c-034c0de68523/001A6181.jpg?cx=310.08&cy=0&cw=4851.84&ch=3648",
+                "type": "Image",
+                "cropX": 310.08,
+                "cropY": 0,
+                "width": 5472,
+                "height": 3648,
+                "altText": "Modern gym with treadmills, weight machines, benches, and a wall mural reading 'Stronger Than Yesterday.' Large windows provide natural light, creating a motivational workout environment.",
+                "fileName": "001A6181.jpg",
+                "mimeType": "",
+                "cropWidth": 4851.84,
+                "cropHeight": 3648,
+                "sizeInBytes": 11441424
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/213ea999-d67b-4c2a-ace2-9cbefca6cfbc/001A6164-1.jpg?cx=310.08&cy=0&cw=4851.84&ch=3648",
+                "type": "Image",
+                "cropX": 310.08,
+                "cropY": 0,
+                "width": 5472,
+                "height": 3648,
+                "altText": "A modern gym interior featuring weightlifting benches, squat racks, various exercise machines, and free weights, all arranged neatly in a spacious, well-lit environment.",
+                "fileName": "001A6164-1.jpg",
+                "mimeType": "",
+                "cropWidth": 4851.84,
+                "cropHeight": 3648,
+                "sizeInBytes": 11330407
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/797e9cca-46a8-4bde-bf70-6d7a1de22f6d/001A6167-2.jpg?cx=310.08&cy=0&cw=4851.84&ch=3648",
+                "type": "Image",
+                "cropX": 310.08,
+                "cropY": 0,
+                "width": 5472,
+                "height": 3648,
+                "altText": "Spacious gym interior with various weightlifting machines and equipment, bright ceiling lights, and large windows letting in natural light.",
+                "fileName": "001A6167-2.jpg",
+                "mimeType": "",
+                "cropWidth": 4851.84,
+                "cropHeight": 3648,
+                "sizeInBytes": 10857707
+              },
+              "videoUrl": ""
+            }
+          ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/carrum-downs",
