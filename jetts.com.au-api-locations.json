@@ -15420,14 +15420,120 @@
           "items": [
             {
               "image": {
-                "url": "",
+                "url": "https://storage-prod.twotaps.io/uploads/images/fca95d8d-e4a3-4d37-9e85-dc4a320037a7/1-9.22.15%E2%80%AFam.png?cx=0&cy=1245.47&cw=4284&ch=3221.05",
                 "type": "Image",
-                "width": 0,
-                "height": 0,
-                "altText": "",
-                "fileName": "",
+                "cropX": 0,
+                "cropY": 1245.47,
+                "width": 4284,
+                "height": 5712,
+                "altText": "Modern gym interior with cardio machines, including stair climbers and exercise bikes, colorful neon lighting, and a motivational sign on the wall.",
+                "fileName": "1-9.22.15 am.png",
                 "mimeType": "",
-                "sizeInBytes": 0
+                "cropWidth": 4284,
+                "cropHeight": 3221.05,
+                "sizeInBytes": 24937608
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/ad85e4ff-a603-4e39-b2c6-c981fdf8e1f8/2-9.22.15%E2%80%AFam.png?cx=0&cy=1245.47&cw=4284&ch=3221.05",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1245.47,
+                "width": 4284,
+                "height": 5712,
+                "altText": "Modern public restroom with two sinks, large mirrors, dark countertop, and stalls with grey tile walls and floor, illuminated by ceiling and mirror lights.",
+                "fileName": "2-9.22.15 am.png",
+                "mimeType": "",
+                "cropWidth": 4284,
+                "cropHeight": 3221.05,
+                "sizeInBytes": 21126432
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/e0b00991-05c9-4f4e-868e-f7c3212bb3de/3-9.22.15%E2%80%AFam.png?cx=0&cy=1245.47&cw=4284&ch=3221.05",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1245.47,
+                "width": 4284,
+                "height": 5712,
+                "altText": "Modern gym interior featuring Synergy exercise machines, black flooring, and a 'H2O + Stow' storage wall in the background with shelves and cubbies.",
+                "fileName": "3-9.22.15 am.png",
+                "mimeType": "",
+                "cropWidth": 4284,
+                "cropHeight": 3221.05,
+                "sizeInBytes": 25191555
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/cab112fd-5f56-4729-9c97-91741d952d19/4.png?cx=7.14&cy=0&cw=5697.72&ch=4284",
+                "type": "Image",
+                "cropX": 7.14,
+                "cropY": 0,
+                "width": 5712,
+                "height": 4284,
+                "altText": "Modern gym with organized equipment racks, medicine balls, kettlebells, and strength machines against a black wall, under bright linear ceiling lights.",
+                "fileName": "4.png",
+                "mimeType": "",
+                "cropWidth": 5697.72,
+                "cropHeight": 4284,
+                "sizeInBytes": 25015261
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/02273734-75ad-4284-a4ec-09c540ac7263/5.png?cx=0&cy=1245.47&cw=4284&ch=3221.05",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1245.47,
+                "width": 4284,
+                "height": 5712,
+                "altText": "Indoor gym area with artificial turf strip marked by white lines, weightlifting equipment on the left, gym lighting, and large glass windows visible in the background.",
+                "fileName": "5.png",
+                "mimeType": "",
+                "cropWidth": 4284,
+                "cropHeight": 3221.05,
+                "sizeInBytes": 28066050
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/6d780155-b466-4d97-a3dc-f9350d7c9911/6.png?cx=0&cy=1245.47&cw=4284&ch=3221.05",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1245.47,
+                "width": 4284,
+                "height": 5712,
+                "altText": "Modern gym interior with exercise equipment and rowing machines, featuring a large digital sign on the wall displaying a red and white motivational message.",
+                "fileName": "6.png",
+                "mimeType": "",
+                "cropWidth": 4284,
+                "cropHeight": 3221.05,
+                "sizeInBytes": 28815660
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/bf6c4d05-e687-46f5-9498-c0a55c86eec9/7.png?cx=0&cy=1245.47&cw=4284&ch=3221.05",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1245.47,
+                "width": 4284,
+                "height": 5712,
+                "altText": "Row of Pilates reformer machines in a brightly lit fitness studio with large windows and a screen showing exercise instructions.",
+                "fileName": "7.png",
+                "mimeType": "",
+                "cropWidth": 4284,
+                "cropHeight": 3221.05,
+                "sizeInBytes": 29312743
               },
               "videoUrl": ""
             }
