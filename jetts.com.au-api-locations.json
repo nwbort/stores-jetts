@@ -7297,7 +7297,11 @@
         "locationType": "open"
       },
       "urlPath": "/gyms/birtinya",
-      "campaigns": []
+      "campaigns": [
+        {
+          "id": 885
+        }
+      ]
     },
     {
       "id": 15017,
