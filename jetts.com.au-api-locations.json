@@ -1671,7 +1671,8 @@
           "lng": "145.3385100610095",
           "email": "berwick@jetts.com.au",
           "glofoxBranchId": "66ce717d74045a9aa00ab840",
-          "gymsalesId": "4648"
+          "gymsalesId": "4648",
+          "displayName": ""
         },
         "locAmenities": {
           "locAmenities": [
