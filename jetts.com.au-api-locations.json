@@ -14855,7 +14855,110 @@
           ]
         },
         "locGallery": {
-          "items": []
+          "items": [
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/8cc22268-6da1-4f95-81f3-06100589d630/Screenshot-2026-10-11-at-3.25.32%E2%80%AFpm.png?cx=37.36&cy=0&cw=1351.28&ch=1016",
+                "type": "Image",
+                "cropX": 37.36,
+                "cropY": 0,
+                "width": 1426,
+                "height": 1016,
+                "altText": "Modern Pilates studio available 24/7 with three reformer beds, each equipped with an extensive range of tailored programmes to follow through the \"your reformer kiosk screen.\"",
+                "fileName": "Screenshot-2026-10-11-at-3.25.32 pm.png",
+                "mimeType": "",
+                "cropWidth": 1351.28,
+                "cropHeight": 1016,
+                "sizeInBytes": 2590300
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/df1affb9-62d0-4139-a98e-777bb0be2594/IMG3043.jpeg?cx=7.14&cy=0&cw=5697.72&ch=4284",
+                "type": "Image",
+                "cropX": 7.14,
+                "cropY": 0,
+                "width": 5712,
+                "height": 4284,
+                "altText": "Modern gym with various weightlifting equipment, benches, and rowing machines, illuminated by neon ceiling lights and red accent lighting along mirrored walls.",
+                "fileName": "IMG3043.jpeg",
+                "mimeType": "",
+                "cropWidth": 5697.72,
+                "cropHeight": 4284,
+                "sizeInBytes": 6442788
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/b428b1e9-df8a-48b4-83ab-3d6b9153e2e0/IMG2498.jpeg?cx=5.04&cy=0&cw=4021.92&ch=3024",
+                "type": "Image",
+                "cropX": 5.04,
+                "cropY": 0,
+                "width": 4032,
+                "height": 3024,
+                "altText": "Modern gym with extensive dumbbell racks and plenty of barbell options.",
+                "fileName": "IMG2498.jpeg",
+                "mimeType": "",
+                "cropWidth": 4021.92,
+                "cropHeight": 3024,
+                "sizeInBytes": 4561272
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/d6b2367f-aece-4072-b092-af8f0ede8cc5/IMG2764.jpeg?cx=7.14&cy=0&cw=5697.72&ch=4284",
+                "type": "Image",
+                "cropX": 7.14,
+                "cropY": 0,
+                "width": 5712,
+                "height": 4284,
+                "altText": "Complimentary group classes.",
+                "fileName": "IMG2764.jpeg",
+                "mimeType": "",
+                "cropWidth": 5697.72,
+                "cropHeight": 4284,
+                "sizeInBytes": 6792121
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/dc1a56dc-86f4-45ae-b4f0-cea318b25cf0/IMG2464.jpeg?cx=7.14&cy=0&cw=5697.72&ch=4284",
+                "type": "Image",
+                "cropX": 7.14,
+                "cropY": 0,
+                "width": 5712,
+                "height": 4284,
+                "altText": "Complimentary personal training session with free body scan on our modern Technogym \"checkup\" scanner.",
+                "fileName": "IMG2464.jpeg",
+                "mimeType": "",
+                "cropWidth": 5697.72,
+                "cropHeight": 4284,
+                "sizeInBytes": 5846172
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/e321c65f-9fd3-4375-9acc-6f84ac76f548/IMG2197.jpeg?cx=7.14&cy=0&cw=5697.72&ch=4284",
+                "type": "Image",
+                "cropX": 7.14,
+                "cropY": 0,
+                "width": 5712,
+                "height": 4284,
+                "altText": "Al large selection of modern cardio machines with amazing member experience cardio screens.",
+                "fileName": "IMG2197.jpeg",
+                "mimeType": "",
+                "cropWidth": 5697.72,
+                "cropHeight": 4284,
+                "sizeInBytes": 4838235
+              },
+              "videoUrl": ""
+            }
+          ]
         },
         "planDescriptions": [],
         "locationType": "open"
