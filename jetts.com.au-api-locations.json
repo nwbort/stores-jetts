@@ -13593,12 +13593,13 @@
           "postcode": "4350",
           "phone": "0401885036",
           "facebookUrl": "https://www.facebook.com/people/Jetts-Toowoomba/61557339899262/",
-          "instagramUrl": "https://www.instagram.com/jetts.toowoomba/",
+          "instagramUrl": "https://www.instagram.com/jetts_toowoomba",
           "lat": "-27.543270467221554",
           "lng": "151.9250703449607",
           "email": "toowoomba@jetts.com.au",
           "glofoxBranchId": "65e50d759b4334dbeb083397",
-          "gymsalesId": "10473"
+          "gymsalesId": "10473",
+          "displayName": ""
         },
         "locAmenities": {
           "locAmenities": [
