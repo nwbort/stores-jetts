@@ -8463,6 +8463,23 @@
                 "sizeInBytes": 9682391
               },
               "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/35e00c4f-5a50-4ec6-8404-4f3a5b87da90/Gym-Photos---00000011.jpg?cx=0&cy=406.92&cw=3280&ch=2466.17",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 406.92,
+                "width": 3280,
+                "height": 3280,
+                "altText": "A modern gym with various Matrix-brand strength training machines arranged neatly, under bright ceiling lights, with a person using one of the machines.",
+                "fileName": "Gym-Photos---00000011.jpg",
+                "mimeType": "",
+                "cropWidth": 3280,
+                "cropHeight": 2466.17,
+                "sizeInBytes": 4375073
+              },
+              "videoUrl": ""
             }
           ]
         },
@@ -11778,7 +11795,7 @@
       "urlPath": "/gyms/stirling",
       "campaigns": [
         {
-          "id": 875
+          "id": 893
         }
       ]
     },
