@@ -11747,7 +11747,7 @@
     },
     {
       "id": 15069,
-      "name": "Stirling",
+      "name": "Balcatta",
       "metaTitle": null,
       "metaDescription": null,
       "allowCrawling": null,
@@ -11764,7 +11764,8 @@
           "lng": "115.82896876758808",
           "email": "stirling@jetts.com.au",
           "glofoxBranchId": "66ceb0efd328ac14db0bcf56",
-          "gymsalesId": "10974"
+          "gymsalesId": "10974",
+          "displayName": "Jetts Balcatta"
         },
         "locAmenities": {
           "locAmenities": [
@@ -11792,7 +11793,7 @@
         ],
         "locationType": "open"
       },
-      "urlPath": "/gyms/stirling",
+      "urlPath": "/gyms/balcatta",
       "campaigns": [
         {
           "id": 893
