@@ -14739,9 +14739,101 @@
                 "sizeInBytes": 3959830
               },
               "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/59a23f3b-e4cb-454c-b0d3-a0ecc31f3da8/EquipmentPhotos11.JPG?cx=353.6&cy=0&cw=5532.8&ch=4160",
+                "type": "Image",
+                "cropX": 353.6,
+                "cropY": 0,
+                "width": 6240,
+                "height": 4160,
+                "altText": "Pin Loaded Equipment",
+                "fileName": "EquipmentPhotos11.JPG",
+                "mimeType": "",
+                "cropWidth": 5532.8,
+                "cropHeight": 4160,
+                "sizeInBytes": 8509912
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/8953c1aa-7e15-40f0-a74f-118b28bbd787/EquipmentPhotos9.jpg?cx=353.6&cy=0&cw=5532.8&ch=4160",
+                "type": "Image",
+                "cropX": 353.6,
+                "cropY": 0,
+                "width": 6240,
+                "height": 4160,
+                "altText": "Pin Loaded Equipment",
+                "fileName": "EquipmentPhotos9.jpg",
+                "mimeType": "",
+                "cropWidth": 5532.8,
+                "cropHeight": 4160,
+                "sizeInBytes": 8247584
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/4447ea16-48aa-466c-8764-289d0fc1b252/EquipmentPhotos5.JPG?cx=353.6&cy=0&cw=5532.8&ch=4160",
+                "type": "Image",
+                "cropX": 353.6,
+                "cropY": 0,
+                "width": 6240,
+                "height": 4160,
+                "altText": "Free Weights",
+                "fileName": "EquipmentPhotos5.JPG",
+                "mimeType": "",
+                "cropWidth": 5532.8,
+                "cropHeight": 4160,
+                "sizeInBytes": 10349363
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/3c10378f-dec2-4f2d-bd9f-5c67d8b8d03c/EquipmentPhotos4.jpg?cx=204&cy=0&cw=3192&ch=2400",
+                "type": "Image",
+                "cropX": 204,
+                "cropY": 0,
+                "width": 3600,
+                "height": 2400,
+                "altText": "State of the art Cardio Equipment",
+                "fileName": "EquipmentPhotos4.jpg",
+                "mimeType": "",
+                "cropWidth": 3192,
+                "cropHeight": 2400,
+                "sizeInBytes": 1167034
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/3f6a9ff9-9e83-4d2e-918b-8c5160c6efaa/305A0441.JPG?cx=0&cy=1735.64&cw=4640&ch=3488.72",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1735.64,
+                "width": 4640,
+                "height": 6960,
+                "altText": "Functional Training ",
+                "fileName": "305A0441.JPG",
+                "mimeType": "",
+                "cropWidth": 4640,
+                "cropHeight": 3488.72,
+                "sizeInBytes": 9120698
+              },
+              "videoUrl": ""
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/mt-duneed",
