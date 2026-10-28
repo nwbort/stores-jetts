@@ -5132,6 +5132,13 @@
             }
           ]
         },
+        "planDescriptions": [
+          {
+            "planTitleMatch": "",
+            "inclusions": [],
+            "favoritePlan": "no"
+          }
+        ],
         "locationType": "open"
       },
       "urlPath": "/gyms/dianella",
@@ -15030,14 +15037,103 @@
           "items": [
             {
               "image": {
-                "url": "",
+                "url": "https://storage-prod.twotaps.io/uploads/images/730ff543-90b2-4b82-a765-60a468681263/IMG9275.jpeg?cx=0&cy=1775.59&cw=4284&ch=3221.05",
                 "type": "Image",
-                "width": 0,
-                "height": 0,
-                "altText": "",
-                "fileName": "",
+                "cropX": 0,
+                "cropY": 1775.59,
+                "width": 4284,
+                "height": 5712,
+                "altText": "Stronger Than Yesterday",
+                "fileName": "IMG9275.jpeg",
                 "mimeType": "",
-                "sizeInBytes": 0
+                "cropWidth": 4284,
+                "cropHeight": 3221.05,
+                "sizeInBytes": 6107943
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/532ebb19-5057-4417-b73f-e87eaaf82612/IMG9253.jpeg?cx=0&cy=1245.47&cw=4284&ch=3221.05",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1245.47,
+                "width": 4284,
+                "height": 5712,
+                "altText": "Row of modern treadmills and stair climbers in a gym, with large windows and TV screens on each machine.",
+                "fileName": "IMG9253.jpeg",
+                "mimeType": "",
+                "cropWidth": 4284,
+                "cropHeight": 3221.05,
+                "sizeInBytes": 6300702
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/5db88f17-b8d9-4730-86ea-f386e74f352b/IMG9238.jpeg?cx=0&cy=1245.47&cw=4284&ch=3221.05",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1245.47,
+                "width": 4284,
+                "height": 5712,
+                "altText": "A gym squat rack with colorful weight plates organized by color, reflected in a wall mirror, surrounded by rubber and wooden flooring.",
+                "fileName": "IMG9238.jpeg",
+                "mimeType": "",
+                "cropWidth": 4284,
+                "cropHeight": 3221.05,
+                "sizeInBytes": 6143514
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/fbb4fc75-efad-42ee-ba71-438cabed7878/IMG9236.jpeg?cx=0&cy=1245.47&cw=4284&ch=3221.05",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1245.47,
+                "width": 4284,
+                "height": 5712,
+                "altText": "A row of dumbbells on a rack in a modern gym with colorful weight plates visible in the background.",
+                "fileName": "IMG9236.jpeg",
+                "mimeType": "",
+                "cropWidth": 4284,
+                "cropHeight": 3221.05,
+                "sizeInBytes": 4012434
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/6668ab60-8277-405f-becf-09db74f88a19/IMG9260.jpeg?cx=0&cy=924.64&cw=3024&ch=2273.68",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 924.64,
+                "width": 3024,
+                "height": 4032,
+                "altText": "Modern gym with red and black functional training rack, free weights, exercise balls, and battle ropes on a carpeted floor under bright ceiling lights.",
+                "fileName": "IMG9260.jpeg",
+                "mimeType": "",
+                "cropWidth": 3024,
+                "cropHeight": 2273.68,
+                "sizeInBytes": 2869279
+              },
+              "videoUrl": ""
+            },
+            {
+              "image": {
+                "url": "https://storage-prod.twotaps.io/uploads/images/55fbd565-8c07-4dce-a630-c8b510e10c9e/IMG9243.jpeg?cx=0&cy=1245.47&cw=4284&ch=3221.05",
+                "type": "Image",
+                "cropX": 0,
+                "cropY": 1245.47,
+                "width": 4284,
+                "height": 5712,
+                "altText": "Modern gym with weight benches, rows of dumbbells, colorful weight plates, and large mirrors reflecting the equipment in a spacious, clean, and well-lit area.",
+                "fileName": "IMG9243.jpeg",
+                "mimeType": "",
+                "cropWidth": 4284,
+                "cropHeight": 3221.05,
+                "sizeInBytes": 6802386
               },
               "videoUrl": ""
             }
